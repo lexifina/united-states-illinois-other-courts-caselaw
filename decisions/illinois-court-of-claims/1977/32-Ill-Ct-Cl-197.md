@@ -1,0 +1,24 @@
+---
+court: "Illinois Court of Claims"
+docket: "77-CC-0233"
+decided: "1977-12-19"
+citations: ["32 Ill. Ct. Cl. 197"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leon Morris, Claimant, v. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/32/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5329951
+---
+
+# Morris v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This claim comes before this Court following a settlement agreement between the Claimant and the Department of Corrections which was entered into and approved by the Fair Employment Practices Commission under statutory authority granted in Ill. Rev. Stat., Ch. 48, para. 858. The Claimant is a 23 year old black, male, high school graduate who on October 2, 1973, completed an application for employment as a prison guard and took an oral examination at Menard State Penitentiary. The Claimant received a grade of “B” on the examination but was not immediately hired. On May 7, 1974, the Claimant was interviewed orally by the Warden, a guard major and two other male personnel of the Menard State Penitentiary at Chester, Illinois. Although having received the grade of “B” on the examination, the Claimant was notified that he was ineligible for appointment as guard following the oral interview. The record does not reflect the reason for the ineligibility.
+The Claimant in filing his complaint before the Fair Employment Practices Commission (F.E.P.C.) alleged that certain white persons were hired as guards and that it was his belief that he was denied eligibility because of his race.
+The parties through the Office of the Attorney General entered into a joint stipulation of facts with reference to the claim before this Court. That stipulation has attached thereto as exhibits A, B, and C the Order of Dismissal, Terms of Settlement, and Agreement and the recommended Order and Decision of the F.E.P.C.
+It is the function of the F.E.P.C. to hear the complaints and determine the facts relative to the alleged unfair employment practices and determine the merits of the allegations. The statute creating the F.E.P.C. encourages settlements by providing for conciliation sessions and authorizing the F.E.P.C. to approve or reject settlements entered into by the parties as a result of the conciliation efforts. Once the F.E.P.C. has made their determination or has approved the settlement, it is not for this Court to look behind the determination or settlement and second guess the Commission as to whether or not fair employment practices were violated. However, it is this Court and not the F.E.P.C. that is charged with the responsibility of determining the merits of a claim for monetary recovery and recommending or not recommending to the Legislature that a given claim be paid or not paid. It is in the fulfillment of this responsibility that this Court would be remiss if it did not scrutinize the dollar amount agreed to, to determine whether or not the Claimant had properly mitigated his damages. It is this sole question to which this Court will address itself once the F.E.P.C. has determined by hearing, or agreement, that there was adequate proof of a fair employment practices violation. This Court does not believe that the Legislature intended that this Court merely rubber stamps the amount agreed to between the parties or recommended by the F.E.P.C. Had this been the intent of the Legislature, there would have been no need to come to this Court. The Legislature could have provided simply that the Claimant take his agreement or F.E.P.C. ruling directly to the Comptroller for payment.
+As set forth in the joint stipulation of the parties and as confirmed by the Office of the Attorney General through the Department of Personnel, the gross earnings of the Claimant for the period in question, February 8,1974, through September 9,1975, had the Claimant been employed on February 8, 1974, as a prison guard, would have amounted to approximately $15,640.00. The record reflects that the Claimant was employed at various tasks throughout the period of time for which claim is being made and had gross earnings for that period of time in the amount of $9,868.00. In the joint stipulation of the parties, the parties have waived their right to a hearing except as the Court may direct. This Court finds that the record sufficiently establishes the fact that the Claimant made a reasonable effort to mitigate his losses. No further hearing is therefore ordered. The record establishes that the difference between what the Claimant was able to earn through his mitigating efforts and the amount he would have earned had he been employed as a prison guard on February 8, 1974, amounted to $5,772.00 which sum is hereby awarded.
