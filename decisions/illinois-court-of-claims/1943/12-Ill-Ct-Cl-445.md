@@ -1,0 +1,29 @@
+---
+court: "Illinois Court of Claims"
+docket: "3783"
+decided: "1943-05-12"
+citations: ["12 Ill. Ct. Cl. 445"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen G. Cloudas, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/12/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2824886
+---
+
+# Cloudas v. State
+
+## Majority (Chief Justice Damron)
+
+Chief Justice Damron
+delivered the opinion of the court. .
+This complaint was filed on the 19th day of March, 1943, by Helen G. Cloudas, surviving wife of Robert C. Cloudas, deceased. It seeks an award for the death of claimant’s husband.
+The complaint states that, on the 23rd day of July, 1942, Robert C. Cloudas sustained injuries and died by reason of an accident while working at the Rock Island Armory, Rock Island, Illinois; that he had been employed by the respondent' for some time prior to the accident and was working under the specific instructions of Lt. Colonel Ray W. Osterman, custodian, of said Armory; that the nature of the work upon which he was engaged at the time of the accident was using a large extension wrench two feet long to which was fitted an eighteen inch pipe wrench with an extension handle approximately four feet long, the entire apparatus weighing approximately thirty pounds; the deceased was engaged in an effort to unloosen a washout plug in a boiler and the plug being frozen the deceased was straining to loosen the plug and exerting continuous effort for that purpose for a period of approximately five minutes. While engaged in the effort he suddenly ceased work complaining, of a sudden and terrific pain in his head. He returned at once to his living quarters provided for him in the Armory Building, constantly complaining of continuing pains in his head which was thereafter accompanied by nausea. He was placed on a bed in his living, quarters, medical aid was promptly summoned, but he died within twenty minutes of the time he was forced to cease work. His death was diagnosed as cerebral hemorrhage.
+The record in this case consists of the complaint, stipulation of facts by the claimant and Attorney General, report of Lt. Colonel Ray W. Osterman, custodian of the Rock Island Armory and waiver of right to file statement, brief and argument by the claimant and the respondent.
+The deceased’s salary as an employee of the State of Illinois, carried on the records of the Auditor of Public Accounts, was $120.00 a month, together with living quarters in the Armory for himself, wife and minor child.
+No compensation payments had been paid by the respondent to the widow and said child at the time of the filing of this complaint. No medical, surgical or hospital treatment expenses were incurred, but Dr. S. P. Durr, Rock Island, Illinois, was called and responded later. A post mortem was performed by Dr. J. M. Chapin, and an inquest was held by Coroner J. W. Seids, of Rock Island County. Claim was made for these three items as follows: Dr. Durr, emergency call, Three ($3.00) Dollars; Dr. Chapin, post mortem, Fifty ($50.00) Dollars; J. W. Seids, coroner’s inquest, Sixteen ($16.00) Dollars. These items must be denied.
+After full consideration of the record, the court finds as follows:
+That the deceased and the respondent were on the 23rd day of July, 1942, operating under the Workmen’s Compensation Act; that on the date last mentioned above, said deceased sustained accidental injuries within the meaning of the Act, which did arise out of, and in the course of the employment; that notice of the accident was given respondent and claim for compensation on account thereof was made on respondent within the time required by the provisions of the Act; that the earnings of the deceased during the year next preceding the injury were One Thousand Four Hundred and Forty ($1,440.00) Dollars, and that the average weekly wage was Twenty-seven Dollars and Sixty-nine Cents ($27.69); that the deceased at the time of the injury was twenty-eight years of age and left surviving him his wife, Helen G. Cloudas, the claimant, and Robert C. Cloudas, Jr., born November 24, 1940.
+That the petitioner is entitled to recover compensation in the sum of Four Thousand Eight Hundred and Ninety-five Dollars ($4,895.00), for the use of herself and minor child above named, as provided in Paragraph 3 of Section 7 of the Workmen’s Compensation Act of Illinois; that the said petitioner is now entitled to have and receive from the respondent the sum of Seven Hundred Three Dollars and Fifty Cents ($703.50), being the amount of compensation that has accrued from the 23rd day of July, 1942, to the 13th day of May, 1943, and the further sum of Four Thousand One Hundred Ninety-one Dollars and Fifty Cents ($4,191.50), to be paid to her as aforesaid at the rate of Sixteen Dollars and Seventy-five Cents ($16.75) per week, payable every two weeks until fully paid, such future payments being subject to the terms of the Workmen’s Compensation Act aforesaid, jurisdiction of this cause is hereby retained for the purpose of making such further orders as may from time to time be necessary herein. This award is subject to the approval of the Governor of Illinois.
+This award, being subject to the provisions of an Act entitled “An Act Making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Methods of Payment Thereof” (Illinois Revised Statutes, 1941, Chapter 127, Paragraph 180-181), approved June 30, 1941, and being by the terms of such Act, subject to the approval of the Governor, is hereby, if and when approval is given, made payable from the appropriation from the General Revenue Fund in the manner provided for in such Act..
