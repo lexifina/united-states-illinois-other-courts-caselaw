@@ -1,0 +1,33 @@
+---
+court: "Illinois Court of Claims"
+docket: "85-CC-0073, 85-CC-0079 cons."
+decided: "1991-09-19"
+citations: ["44 Ill. Ct. Cl. 89"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kevin R. Phillips and Tracy L. Phillips, Claimants, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/44/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3046823
+cites_cases: ["142 Ill. App. 3d 872", "166 Ill. App. 3d 93", "36 Ill. Ct. Cl. 153", "36 Ill. Ct. Cl. 158", "36 Ill. Ct. Cl. 61", "492 N.E.2d 536", "519 N.E.2d 469"]
+---
+
+# Phillips v. State
+
+## Majority (Patchett, J.)
+
+OPINION
+Patchett, J.
+Actions sounding in tort were brought by Claimants against the State of Illinois pursuant to section 8(d) of the Court of Claims Act (Ill. Rev. Stat. 1990, ch. 37, par. 439.8(d).) The claims were consolidated for purposes of this review, as they both arose out of the same occurrence.
+At the time of the accident, Claimant, Kevin R. Phillips, was driving an automobile east on Illinois Route 104, a two-lane highway approximately 1/2 miles east of the town of Liberty, Illinois. Also in the automobile was Mr. Phillips’ wife, Claimant Tracy L. Phillips, the front seat passenger, and his 18-month-old daughter. The accident occurred between 8:00 and 8:30 p.m. on January 6, 1984, on a hilly stretch of Route 104. Mr. and Mrs. Phillips admitted to not wearing their seatbelts; however, their daughter was restrained in the back seat by a child’s safety seat.
+Evidence indicates that several days before the accident, it had" snowed or rained, and that there was still some snow or ice on the shoulders of this stretch of road. There is also testimony that the snow or ice had melted during the preceding days and then refroze during the night.
+Claimants assert that due to the hilly nature of Route 104, some of the melting snow/ice accumulated at the bottom of one of the hills, whereupon it froze that evening. It is Claimants’ theory that their car hit the ice, causing Mr. Phillips to lose control and thereby crash. As a result of the crash, Mr. and Mrs. Phillips were both thrown out of the car, each receiving serious physical injuries. The child was not injured.
+Claimants allege that the State of Illinois was negligent in its removal of, or failure to remove, ice or failure to warn drivers of its presence.
+Respondent, on the other hand, argues that it is not liable in that Claimants have failed to prove by a preponderance of the evidence that there was indeed ice on the highway. Alternatively, Respondent argues that even if there was ice, the negligent driving of the Claimant, Kevin R. Phillips, was the proximate cause of the accident, thereby precluding recovery against Respondent.
+Based upon a thorough examination of all the evidence, the Court concludes that Claimants have failed to meet their burden of proof. A claimant in a negligence action must prove that respondent had a duty towards him, that respondent breached that duty, and that the breach was the proximate cause of claimant’s injury. (Lucker v. Arlington Park Race Track Corp. (1986), 142 Ill. App. 3d 872, 492 N.E.2d 536.) Negligence may be shown by circumstantial evidence, but liability may not be based upon surmise or speculation as to what might have happened to cause claimant’s injury. McCormick v. Maplehurst Winter Sports, Ltd. (1988), 166 Ill. App. 3d 93, 519 N.E.2d 469.
+Although both of the Claimants’ complaints allege the existence of an ice patch, neither Claimant could testify to such at the hearing. Both Claimants failed to remember what caused the accident or whether there was ice on the road. When asked about the possibility that their head injuries interfered with their memories, both Claimants felt their memories were just as good as they had ever been. In fact, the testimony of almost every other witness indicates that there was neither ice nor water on the highway. The most that can be said in support of Claimants’ theory is that there may have been water running down the gullies or ditches alongside the road, and that possibly some of it spilled over onto the westbound lane at the bottom of the hill. Remember, Claimants were in the eastbound lane.
+Claimant Tracy L. Phillips, apparently relying on the spillover-of-water evidence, argued that their car was passing a semi-truck at the bottom of the hill, which therefore would place them in the westbound lane. However, this argument is directly contradicted by her husband, the driver, who said they were not passing anyone at that time. Indeed, the first witness to arrive at the crash site was a truck driver who, although admitting to having been passed, stated that the passing car had done so quite some time before the accident. When pressed about whether they passed a truck at the critical point in time, even Tracy Phillips admitted she really didn’t remember.
+Based upon the above, the Court concludes that Claimants have failed to prove that there was any ice or water on the road. (Schuette v. State (1984), 36 Ill. Ct. Cl. 61.) Claimants cannot speculate as to the’cause of their accident. (McCormick, 166 Ill. App. 3d 93, 519 N.E.2d 469.) In addition, Claimants cannot rely on the doctrine of res ipsa loquitur, as Respondent did not have “management and charge of Claimants’ automobile at the time of the accident.” Mavraganis v. State (1984), 36 Ill. Ct. Cl. 153.
+Even if there was an ice patch on the highway, there was sufficient evidence presented to establish that Claimant Kevin R. Phillips was the proximate cause of the accident, and not the Respondent. (Feldman v. State (1984), 36 Ill. Ct. Cl. 158.) The semi-truck driver indicated that Claimants were speeding when they passed, and that this was the cause of the accident. The truck driver equated Claimant’s driving to “flying low.” In addition, it was demonstrated that Claimants’ car ended up some distance past the sign marking a no passing zone. If Tracy’s “passing” argument is believed, the final resting place of the automobile lends some support to the proposition that Claimant Kevin R. Phillips was trying to pass too close to the no passing zone. Finally, evidence reveals that both Claimants are intimately familiar with this area, having grown up in this region and traveled this road often.
+It is therefore determined that Claimants have failed to prove the existence of ice or water on Route 104. Even if ice or water did exist, Claimant Kevin R. Phillips is determined to be the sole proximate cause of the accident. In either event, Claimants cannot recover against Respondent. We deny this claim.
