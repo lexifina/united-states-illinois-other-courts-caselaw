@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "78-CC-1090"
+decided: "1982-03-01"
+citations: ["35 Ill. Ct. Cl. 161"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Royal Globe Insurance and Dennis and Sarah Adams, Claimants, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/35/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5317130
+cites_cases: ["31 Ill. Ct. Cl. 187"]
+---
+
+# Royal Globe Insurance v. State
+
+## Majority (Roe, C.J.)
+
+Roe, C.J.
+This action is brought by Claimants, Royal Globe Insurance Company, Dennis Adams and Sarah Adams, against Respondent, State of Illinois, for damages to property sustained by Claimants. This case sounds in tort and is brought pursuant to section 8(d) of the Court of Claims Act (Ill. Rev. Stat., ch. 37, par. 439.8(d)), and section 1 of “An Act concerning damages caused by escaped inmates of . . . institutions over which the State has control” (Ill. Rev. Stat., ch. 23, par. 4041).
+Claimants allege that their property was damaged by misconduct of inhabitants of “half-way house”, which is a correctional facility operated by the Respondent’s Department of Corrections in Carbondale, Illinois. It was alleged that the losses occurred on March 12, 1978, between the hours of 5:00 p.m. and 10:00 p.m. when persons subject to the control of the Illinois Department of Corrections entered the home of Dennis Adams and Sarah Adams gnd destroyed the contents thereof, said damages amounting to $3,963.38.
+Claimant is the insurer for Dennis Adams and Sarah Adams, who are homeowners in the Carbondale area. Claimant is subrogated to the rights of their insured against the parties responsible for the theft and destruction of the contents in the Adams’ home.
+Claimant has taken the position that the State of Illinois is liable for the acts of the inhabitants of “halfway house” in Carbondale under the theory that the duty owed by the State to control miscreants who are in the custody of the State is a non-delegable duty and that the State’s responsibility is set forth in section 1 of “An Act concerning damages caused by escaped inmates of . . . institutions over which the State has control.” The statute reads in part as follows:
+Whenever a claim is filed with the Department of Mental Health and Developmental Disabilities, the Department of Children and Family Services or the Department of Corrections for damages resulting from personal injuries or damages to property, or both, or for damages resulting in property being stolen, heretofore or hereafter caused by an inmate who has escaped from a charitable, penal, reformatory or other institution over which the State of Illinois has control while he was at liberty after his escape, ” (emphasis supplied).” Ill. Rev. Stat., ch. 23, par. 4041.
+Respondent argues that the above statute requires, in order for Respondents to bear the liability for loss or damage, that the miscreants have “escaped” and have caused the damage while “at liberty after (their) escape.” Respondent argues that in the case at bar there is no evidence that “anyone escaped from anywhere.” We do not accept this argument.
+It is acknowledged that the persons responsible for this damage were inhabitants of a “half-way house” operated under contract by Hillhouse, Inc., with the Illinois Department of Corrections. We do not believe that the liability intended to be placed upon Respondent by the Illinois legislature pursuant to the above-quoted section can be escaped by delegating the responsibility to operate institutions of the Illinois Department of Corrections to “independent contractors” such as Hill-house, Inc. Furthermore, we cannot accept the argument of Respondent that inhabitants of institutions controlled by the Illinois Department of Corrections should not be said to have “escaped” or are “at liberty after escape” within the meaning of the above statute when such inhabitants engage in the commission of serious crimes such as the invasion and destruction of the home of Dennis Adams and Sarah Adams. Clearly, though these inmates were granted certain unrestricted liberties as residents of a half-way house, it should not be contemplated that they were within the bounds of their legitimate freedoms while perpetrating the acts resulting in the damage to Claimant’s insured.
+Respondent argues that the Court has held, under the Parental Responsibility Law (Ill. Rev. Stat., ch. 70, par. 52) that the Department of Corrections could not be held liable under the reasoning of Vallery v. State of Illinois, 31 Ill. Ct. Cl. 187. In the Vallery case, supra, it appeared that Claimant’s property was damaged by a ward of the Illinois Department of Children and Family Services, who was a foster child in Claimant’s home. The child had been placed in Claimant’s home by order of the Juvenile Division of the Cass County circuit court pursuant to the provisions of the Juvenile Court Act. This Court held that since the Department of Children and Family Services was given custody of the minor by a circuit court under the provisions of the Juvenile Court Act, the Department was not subject to the liability imposed by the Parental Responsibility Law, and that the Department was not liable at common law for the reason that no negligence was shown.
+Claimant does not seek relief in the case at bar under the Parental Responsibility Law (Ill. Rev. Stat., ch. 70, par. 52), and the exclusion set forth therein with respect to minors subject to the provisions of the Juvenile Court Act does not apply.
+It appears in the case at bar that the miscreants who caused the damage to Claimant’s insured had in fact “escaped” from the legitimate constraints imposed on them pursuant to the regulations and directives of the Illinois Department of Corrections when burglarizing and damaging the home of Claimant’s insured. Therefore, the damage to Claimant’s insured was caused while the miscreants were “at liberty” after having exceeded the legitimate constraints imposed by the Illinois Department of Corrections on their activities.
+It is hereby ordered that Claimants be, and hereby are, awarded the sum of $3,963.38 as their damages in this cause sustained.
