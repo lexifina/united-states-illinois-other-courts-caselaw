@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "1823"
+decided: "1939-09-13"
+citations: ["11 Ill. Ct. Cl. 61"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harrison Engineering and Construction Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/11/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2822037
+---
+
+# Harrison Engineering & Construction Corp. v. State
+
+## Majority (Mr. Justice Linscott)
+
+Mr. Justice Linscott
+delivered the opinion of the court:
+The claimant, Harrison Engineering and Construction Corporation filed its claim setting forth that it was a corporation duly organized and existing under the laws of the State of Delaware and authorized to do business in the State of Illinois, and that the Harrison Engineering and Construction Corporation of New York was also authorized to do business in the State of Illinois; that prior to the 6th day of June, 1927 and from thence hitherto the Harrison Engineering and Construction Company of New York had been engaged in the construction of hard surfaced roads and highways, bridges and public improvements in general and prior thereto had entered into a certain contract with the State of Illinois acting by and through the Division of Highways of the Department of Public Works and Buildings for the construction of Sections 7 and 8 State Bond Issue Route 30 in Peoria County, Illinois.
+The complaint further alleges that the New York Corporation had full equipment necessary for the execution of the contract, which included particular batch boxes used by it prior thereto for six bag batches which had been purchased by it in 1923 for the construction of a certain State Bond Issue highway on Route 25 in Champaign County, Illinois.
+The complaint further avers that on the 15th day of May, 1927, the Division of Highways of the Department of Public Works and Buildings acting through its duly authorized agents, ordered said New York Corporation to immediately increase the size of its batch by increasing the amount of sand and gravel being used by it in the construction of this particular highway. The complaint further avers “although upon its urgent request it was permitted to finish said Section 7 with its batch boxes then and there being used by it which under the mixture theretofore used were of sufficient size to enable it to use a six bag batch. ’ ’
+The complaint further avers that the claimant complied with the order and did thereafter use a five hag batch and by reason thereof it was from thence to the completion of the contract greatly limited in its daily work, that is to say, it used a five bag batch instead of a six bag batch, and that by reason of the order it was required to consume twenty-one days in the construction of 18,500 feet, which with its six bag batch it could have completed in 13% days; that this increased the cost of construction to the extent of $4,620.00, and the work required 7% more days to complete than it should have, and consequently the claimant suffered a loss of $4,620.00 in the performance of its contract.
+The complaint further alleges that the claimant, subsequently to the dates above mentioned, was organized under the laws of the State of Delaware to take over all of the business of the Harrison Engineering and Construction Corporation of New York then and prior thereto transacted or existing in the State of Illinois, and that the New York Corporation assigned all of its rights to the Delaware Corporation.
+The complaint does not set forth a copy of the contract.
+It is not contended that the State of Illinois wrongfully brought about the change in the size of the batch.
+It was stipulated by the Attorney General and Counsel for the claimant that the case should be submitted to the court upon the complaint, the general traverse or denial considered as filed under Bule 15 of the Court of Claims, and without evidence other than the report of C. M. Hathaway, Engineer of Construction of the Division of Highways, which was offered as evidence. Certain exhibits identified by Mr. Hathaway were placed in the record. They consisted of a general report from the District Engineer; general layout of work under the contract; the report and graph showing daily average of cement used for 100 feet of pavement; yield tests taken by the resident engineer on May 19, 1927 and June 23, 1927; graph showing relation of size of batches to capacity of batch boxes on industrial railway, and an analysis which was made of different proportions for different size of batches. All of these exhibits were known as Exhibits “A”, “B”, “C”, “D”, “E”, “F”, and “G”.
+We have carefully gone over this technical data in the file, and we find that there was a loss of nine hours on account of the change which was made in the size of the hatch. It appears from this data that the capacity of the batch box for a six bag batch was too small. The figure shows the six bag batch under the new proportions. It shows that the aggregates for a six bag batch would have a total loose volume of 36.06 cubic feet, and the capacity of the boxes was 32.99 cubic feet. The boxes were, therefore, too small.
+It is not contended that the State did not have a right to insist upon these changes. There are many facts and figures, graphs and blue prints in the file, but it is left for the court to determine the amount of damages, if any, that the plaintiff is entitled to/
+We have given this case much careful thought. We find that the claimant did not file a statement, brief and argument. It is always encumbent upon the claimant, in civil proceedings, to prove its case by a greater weight or preponderance pf the evidence, and no award will be entered against the State unless a claim has been clearly proven and it is shown that some legal or equitable right has been denied the claimant. The burden of proof is always upon the plaintiff. We do not find sufficient allegations to warrant a finding for the claimant, and there is a total lack of any proof to show where the State has done a legal wrong or deprived the plantiff of its rights. There undoubtedly was a written contract but this does not appear from the record; and it does not show how the State violated this contract.
+We, therefore, deny any award and direct that the complaint be dismissed.
