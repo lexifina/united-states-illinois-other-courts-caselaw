@@ -1,0 +1,19 @@
+---
+court: "Illinois Court of Claims"
+docket: "6177"
+decided: "1971-08-30"
+citations: ["27 Ill. Ct. Cl. 272"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert F. Godfrey, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/27/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2747407
+---
+
+# Godfrey v. State
+
+## Majority (Perlin, C.J.)
+
+Perlin, C.J.
