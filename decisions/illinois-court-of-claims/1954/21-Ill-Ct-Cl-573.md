@@ -1,0 +1,42 @@
+---
+court: "Illinois Court of Claims"
+docket: "4575"
+decided: "1954-02-26"
+citations: ["21 Ill. Ct. Cl. 573"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Curtis Gee, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/21/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2772613
+cites_cases: ["132 Ill. App. 574", "17 Ill. App. 336", "181 F. (2d) 660", "215 Ill. App. 216", "257 Ill. App. 344", "328 Ill. App. 497", "368 Ill. 177", "387 Ill. 403", "391 Ill. 572", "407 Ill. 503", "66 Ill. App. 173"]
+---
+
+# Gee v. State
+
+## Majority (Wham, J.)
+
+Wham, J.
+This case comes before us on a motion by respondent to dismiss the complaint, which charges that claimant, Curtis Gee, was falsely imprisoned by respondent, and damaged thereby in the amount of Thirty-five Thousand Dollars ($35,000.00). Respondent contends that claimant has failed to state a cause of action in his complaint.
+It is claimant’s contention that the following facts pleaded in the complaint are sufficient to properly state a cause of action for false imprisonment: (1) On May 31, 1939, claimant was arrested, and held by the Chicago police without a warrant, and without a preliininary examination until June 8 of that year; (2) While in their custody he was assaulted, and forced to sign a confession to the effect that he murdered his own son; (3) On June 8, 1939, he was indicted for this crime by the Cook County Grand Jury, and was tried before the court on June 15, 1939 without a jury, as a result of which he was convicted, and sentenced to the Illinois State Penitentiary at Joliet for a term of 199 years; (4) During said trial the confession was admitted in evidence over objection of defendant on the ground that it was involuntary; (5) On July 16, 1939, claimant was taken to the penitentiary at Joliet, and delivered into the custody of the warden, in accordance with the judgment, which operated as a commitment order; (6) On May 25, 1951, the Criminal Court of Cook County, on petition of claimant, entered an order vacating the arraignment, judgment, and sentence theretofore entered, and setting the case for retrial on June 14, 1951; (7) Thereafter the case was called for trial on October 15, 1951, at which time said case was stricken from the setting with leave to reinstate, and, since that time, no further action has been taken by the State’s Attorney to reinstate the case; (8) Claimant was released from custody on October 16, 1951, and has been at liberty since that date.
+The complaint then charges that claimant, during the twelve year period of imprisonment, suffered loss of wages in the amount of Seventeen Thousand Two Hundred and Seventy-Seven Dollars and Seventy-Three Cents ($17,277.73), and was injured in his reputation in the amount of Fifteen Thousand Dollars ($15,000.00).
+Claimant in his brief and argument, filed in opposition to the motion of respondent to dismiss, states that he is not basing his complaint upon the actions of the Chicago City Police, or the State’s Attorney of Cook County. He acknowledges that respondent cannot be bound by their acts, since they are not agents of respondent. He contends, however, that the State of Illinois must respond in damages for the actions of the warden of its penitentiary at Joliet, and other penal officials, for falsely imprisoning claimant in the Illinois State Penitentiary at Joliet. Claimant reasons that the complaint states a cause of action on the theory that the warden committed claimant by virtue of an invalid judgment, and on void process, and that, by reason of such, the detention was wrongful.
+Upon consideration of the law, as we understand it to be, the facts set. forth in the complaint do not state a cause of action against the State of Illinois for false imprisonment.
+Volume 22 of American Jurisprudence at page 357 sets forth the fundamental rule of law governing the remedy of false imprisonment.
+“Mere loss of freedom cannot constitute false imprisonment even though it is unjust; the imprisonment must be unlawful. No system of jurisprudence has yet been invented that is infallible. Mistake and injustice to the individual will occur under any judicial system, in the application of either civil or criminal jurisprudence. One may be acquitted upon the merits of the case, or discharged upon some question of law, but that fact does not in and of itself make the restraint placed upon his liberty false imprisonment.”
+Illinois follows this general rule requiring the element of “unlawful imprisonment” before the detention of an individual gives rise to an action for false imprisonment.
+In the case of Shelton vs. Barry, 328 Ill. App. 497, the court said at page 506:
+“ . . . False imprisonment consists in the unlawful restraint against his will of an individual’s personal liberty or freedom of locomotion. A false arrest is one means of committing a false imprisonment. In false imprisonment malice is usually material only on the issue of damages. If the imprisonment is under legal authority, it may be malicious, but it cannot be false.”
+In the case of Liogas vs. Lowenguth, 215 Ill. App. 216, at page 218, the court, in defining false imprisonment, said:
+"... ‘False imprisonment is a trespass committed by an unlawful arrest and imprisonment. If the imprisonment is under legal process, but the action was begun and carried on maliciously and without probable cause, it is a malicious prosecution and not false imprisonment.’ (Mexican Cent. Ry. Co. vs. Gehr, 66 Ill. App. 173. See also Cokling vs. Whitmore, 132 Ill. App. 574; Morrell vs. Martin, 17 Ill. App. 336.)”
+To this same effect, see Green vs. Ross, 257 Ill. App. 344, at page 348, wherein the court stated:
+“. . . Under the evidence showing that the appeUee was imprisoned under legal process and in consequence of judicial determination, the court should have directed a verdict of not guilty on false imprisonment charge.”
+Applying these principles to this case, we have determined that the imprisonment of claimant by the warden of the State penitentiary was not unlawful within the connotation of that term. The fact that claimant had been arrested, and held without a warrant prior to the trial of his case, did not in and of itself affect the validity of the judgment of conviction against him, or the jurisdiction of the court to hear the case. The People vs. Brown, 368 Ill. 177.
+It is true that, from the pleadings, it appears that the court, in entering the judgment of conviction against claimant, was in error, but such error had no effect upon the validity of the judgment, as long as the judgment of conviction stood. It was not a void judgment, as contended by claimant. It was a judgment valid on its face at the time the warden accepted claimant as a prisoner.
+The judgment of conviction was the authority for the detention of claimant in the penitentiary, and the only judicial process to which the prison authorities of the State were required to look prior to accepting the custody of claimant. The People vs. Anderson, 407 Ill. 503; The People vs. Kennay, 391 Ill. 572; The People vs. Daulley, 387 Ill. 403.
+As stated by Judge Lindley in the case of Uryga vs. Ragen, Et Al, U.S. Court of Appeals, 7th Circuit, 181 F. (2d) 660, at page 664, wardens under Illinois law are:
+"... merely administrative employees acting in pursuance of writs and orders valid on their face.”
+To require the warden or other prison officials to look beyond a judgment of conviction valid on its face committing a person to their custody would be completely outside the scope of their authority, and would, in effect, place them in a position of either underwriting the correctness and legality of every judgment, verdict, and ruling by the court involved in the trial of each prisoner submitted to them, and accepting such prisoners at their financial risk, or refusing to accept such prisoners, and thereby flouting the mandates of our courts. This situation could not be tolerated within any system of orderly administration of the laws.
+For the above reasons, it is the opinion of this Court that the complaint fails to state a cause of action, and that respondent’s motion to dismiss should be allowed.
+It is, therefore, the order of this Court that this cause be, and is hereby dismissed.
