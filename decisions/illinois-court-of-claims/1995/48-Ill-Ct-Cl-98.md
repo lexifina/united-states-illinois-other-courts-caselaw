@@ -1,0 +1,41 @@
+---
+court: "Illinois Court of Claims"
+docket: "86-CC-1944"
+decided: "1995-10-26"
+citations: ["48 Ill. Ct. Cl. 98"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gertrude Lynch, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/48/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 516051
+cites_cases: ["25 Ill. Ct. Cl. 6", "35 Ill. Ct. Cl. 56", "36 Ill. Ct. Cl. 5", "41 Ill. Ct. Cl. 28"]
+---
+
+# Lynch v. State
+
+## Majority (Patchett, J. Frederick, J.)
+
+OPINION
+Patchett, J.
+This claim is the result of an accident which occurred on January 17, 1985, at the intersection of 143rd Street and Harlem Avenue in Orland Park, Illinois. Lynch was proceeding westbound on 143rd Street. As she passed the top of a hill, she lost control of her car in icy conditions. She veered into the eastbound lane and was hit by another automobile. As a result of this accident, she sustained serious injuries.
+The road in question was a down slope and was covered by trees. The trees completely enclosed the roadway and did not allow sunlight to penetrate to any great degree. The Claimant testified that while the road had been clear prior to reaching the crest of the hill, it was extremely slippery on the other side. These facts were confirmed by numerous eyewitnesses.
+This case involves the issue of constructive notice. The police officers who investigated the scene indicated that this was a problem area in which numerous accidents had occurred in the past. Many of these prior accidents involved weather conditions. The police officers further testified that copies of the accident reports were forwarded to the State of Illinois. Obviously, there is no way to confirm how many reports there were and whether the reports were in fact received by the State. However, it is clear that the standard procedure is to forward the accident reports to the State, and that at least some of them should have been received. The departmental report, filed herein by the Respondent, stated that a thorough search of the records disclosed one report of an accident due to weather conditions, and that was subsequent to the accident herein. Obviously, the State did not receive notice even of the particular accident in question. Therefore, the Respondents departmental report is suspect, at best.
+Edward Zak, an employee of the Illinois Department of Transportation for 24 years, testified at the trial of this case. On the date of the accident, Zak was a maintenance field technician and responsible for the supervision, scheduling, and directing of maintenance activities along State roads in southwest Cook County. He testified that he had driven the road in question on numerous occasions during his career and had never ascertained that there was a problem. He further testified about the amount of equipment available to combat snow conditions during the period of the accident.
+Denise Gartland, a bus driver in Orland Park, Illinois, testified that she made numerous trips in the vicinity of 147th Street and Harlem Avenue for ten years prior to the accident. She testified that she avoided the area by going around it during wet or icy conditions because the locale was always slick. Again, the police officers who investigated the accident confirmed the situation.
+There is no evidence that the State had actual notice of the slippery conditions on the road in question on tire morning of the accident. Therefore, the issue is one of constructive notice. This is a close case. Obviously, the police officers’ testimony, taken along with that of the bus driver, indicate that some people knew that a dangerous condition existed at the accident scene for a long time prior to the accident. The State, however, produced evidence which showed that it may not have had adequate notice or warning of this condition.
+This Court has held on numerous prior occasions that the State is not an insurer with respect to its highways or those who travel upon them. The State does, however, have a duty to exercise reasonable care in the maintenance of its highways, and the further duty to warn of those conditions which the State knows exist, but which they cannot adequately remedy.
+The State is not required to keep its highways totally free from ice and snow — an impossible task. The State, however, must use all reasonable care to do so. Because the State could not have been charged with liability based on the failure to adequately correct the icy condition, the issue in this claim involves whether the State should have posted warning signs of the regularly recurring hazardous conditions at this site. Obviously they were not required to have posted a warning sign unless they had constructive notice of the defective condition in the first place.
+Both the Claimant and Respondent have cited several prior decisions of this Court in this case. The Claimant has cited Burgener v. State (1964), 25 Ill. Ct. Cl. 6, on the issue of notice, but that case is distinguishable. There the State had notice that several other accidents had occurred at that location in similar weather conditions on the evening before the accident.
+In Smith v. State (1984), 36 Ill. Ct. Cl. 5, this Court granted a claim on the basis that the State had constructive notice of a flooded viaduct. There the testimony established that the condition had been recurring regularly after heavy rains for many years, and the State failed to correct the condition or give proper warnings.
+The Claimant also cited Kelly v. State (1981), 35 Ill. Ct. Cl. 56. There this Court awarded a claim where an accident occurred as the result of unusual accumulation of ice and water. The State knew of previous accidents at that site. The State failed to warn the public of the dangerous conditions, and that was the basis for liability. However, that case is somewhat distinguishable because there the State had specific notice of the situation and while attempting to warn the public, took insufficient steps in order to do so. However, the factual situation as to the ice at the scene is similar to the one that we face in this case. There, traffic was traveling on an overpass on wet, but not slippeiy pavement which became icy at the crest of the overpass. There, however, four vehicles had previously slid off the pavement on the morning of, and prior to, the accident.
+The Respondent cites the case of Slagil v. State (1991), 41 Ill. Ct. Cl. 28, where this Court held that the absence of a warning sign did not create a hazard. However, that case involved a missing hazard sign regarding a curve on the highway. The section of highway was hilly and curvy and had numerous other warning signs and markings. Therefore, it is not particularly helpful in an analysis of the present situation.
+Considering all the facts and the applicable law, we make the following findings:
+We find that the State had, or should have had, constructive notice of the defective condition existing at 143rd Street and Harlem Avenue in Orland Park, Illinois. While the State is not an insurer of the highways, the State did have a duty to erect a warning sign. In fact, this was done after the accident in question. We therefore find liability of the State on this basis.
+The Claimants injuries were very significant. During the trial of this case, the State did not attempt to use the affirmative defense of contributory fault. However, during the briefing of this case, the State did attempt to urge comparative or contributory fault of the Claimant.
+This Court faces this situation numerous times in which the State attempts to rely on a defense which it has not previously pled or raised at the trial level. Because this defense was not raised or pled at the trial level, we reject it.
+We find that the Claimants medical bills exceeded $200,000. We therefore award the Claimant the sum of $100,000, the maximum statutory amount.
+ORDER
+Frederick, J.
+This cause comes on to be heard following notification that the Respondent will not be filing a motion for reconsideration; it is hereby ordered that this matter is closed.
