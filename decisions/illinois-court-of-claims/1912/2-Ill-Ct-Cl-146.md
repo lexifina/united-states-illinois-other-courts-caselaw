@@ -1,0 +1,20 @@
+---
+court: "Illinois Court of Claims"
+decided: "1912-11-23"
+citations: ["2 Ill. Ct. Cl. 146"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederic F. Norcross and Harold B. Wrenn, Executors of the Last Will of John H. Wrenn, Deceased, v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/2/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2833879
+---
+
+# Norcross v. State
+
+## Majority
+
+The evidence in this case shows, that on the 13th day of May. 1911, John H. Wrenn died testate at the city of Chicago, Cook County, Illinois, and1 that the plaintiffs herein were on the 27th day of June, A. D. 1911, duly appointed executors of the last will and testament of said decedent and are now acting as such executors; that after the death of said decedent David E. Shanahan was appointed by the county court of Cook County inheritance tax appraiser, and in his report found that under paragraphs “A and B” of the eighth clause of said last will and testament, the property therein devised and bequeathed was liable to the payment of an inheritance tax of fifty-six hundred twenty-nine and 92-100 ($5,629.92) dollars; that said appraiser filed a written report of his appraisal in the office of the county judge of Cook County, and on the tenth day of November, 1911, the Honorable John E. Owens, judge of said court, fixed the tax upon the various estates created by said will, in accordance with the report of said appraiser, at the sum of twenty-one thousand seven hundred ninety-four and 26-100 ($21,794.26) dollars, which sum included the sum of fifty-six hundred twenty-nine and 92-100 ($5,629.92) dollars, so assessed against the .property included in paragraphs “ A and B” of said eighth clause. On the tenth day of November, 1911,. the plaintiffs paid to the county treasurer of Cook County, Illinois, the full amount of tax so assessed, less five per cent thereof, according to the law, which money was paid under protest, duress and compulsion and not voluntarily, and that said payment was made erroneously.
+That afterwards, said plaintiffs appealed to the county court of Cook County, and the county court of Cook County, upon such appeal, found that said executors had made a total erroneous payment in excess of the tax assessable under paragraphs “A and B” of the eighth clause of said will, of thirty-two hundred eighty-three and 50-100 ($3,283.50) dollars, and made a final order to that effect; that afterwards, an application was made by said plaintiffs on William L. O’Connell, county treasurer of Cook County, and upon E. E. Mitchel, State Treasurer of the State of Illinois, for the money over-paid amounting to thirty-two hundred eighty-three and 50-100 ($3,283.50) dollars, and said William L. O’Connell, county treasurer of Cook County, Illinois, also notified the State Treasurer of Illinois, of the demand for repayment, all ’of which was done within two years of the date of making said payment.
+These facts bring this case clearly within section ten, of an Act to tax gifts, legacies, inheritances, transfers, appointments and interests in certain cases, and to provide for the collection of the same and repealing certain Acts therein named; approved June 14, 1909, in force July 1, 1909, and the amount of said tax, so erroneously paid, to the State Treasurer, thirty-two hundred eighty-three and 50-100 ($3,283.50) dollars, should be refunded by the State Treasurer to the said plaintiffs. And, inasmuch, as the State Treasurer has not repaid the amount, and has represented to the claimants, that there is no appropriation from which such refund could be made, and, inasmuch, as there is no ether provision of law, that would enable the claimants to recover the amount so erroneously paid, it is the opinion of this Court, that the claimants are entitled to an award; their claim for thirty-two hundred eighty-three and 50-100 dollars is therefore hereby allowed.
