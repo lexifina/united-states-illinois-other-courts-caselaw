@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "85-CC-2821"
+decided: "1990-11-08"
+citations: ["43 Ill. Ct. Cl. 195"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond G. Holt, Jr., Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/43/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5809947
+cites_cases: ["109 Ill. App. 3d 976", "135 Ill. App. 3d 384", "31 Ill. Ct. Cl. 340", "32 Ill. Ct. Cl. 611", "35 Ill. Ct. Cl. 782", "37 Ill. Ct. Cl. 164"]
+---
+
+# Holt v. State
+
+## Majority (Burke, J.)
+
+OPINION
+Burke, J.
+This cause coming to be heard upon the report of the Commissioner, after hearing before said Commissioner, and this Court being fully advised in the premises,
+Claimant Raymond G. Holt, Jr., a past inmate of the Menard Correctional Center in Chester, Illinois seeks compensation for injuries he sustained on July 29,1984, while in his cell. On the date of the accident, the Claimant was a small-engine mechanic and teacher at Menard. After completing his work for the day, Claimant returned to his cell. In his cell was a window with approximate dimensions of 2 to 2% feet by 5 feet. The window, was a double sash window with a solid steel frame weighing approximately 80-90 pounds and was propped open with a wooden stick that was approximately two feet in length. At about 7:30 p.m. on July 29, 1984, the window fell down on Claimant’s right hand, almost severing his index finger at the first knuckle. There is clearly no dispute that Claimant’s finger was injured from the falling window in his cell. The issue is one of liability as to the condition of the window and the resultant injury.
+The Claimant, at his hearing, described in detail the layout of his cell. He specifically described the window in his cell. He testified that the windows in the prison were supposed to be equipped with counter-weights in order to be in operating condition. These counterweights were completely missing as were the chains to operate the counter-weights. The correctional facility was not air-conditioned and because the windows were inoperative, the inmates, as well as the prison guards, propped the windows open by whatever device was available. He also testified that the stick that held open this particular window had been placed there by an inmate who had previously occupied the cell, though he removed and inserted the stick himself five to six times.
+The Claimant contends that the State of Illinois is liable for the injuries sustained by him due to the negligence of the prison employees. His theory is premised on the prison guard’s knowledge of the Claimant’s use of the stick to prop open the window as well as on the failure of the guards to tell him to remove the wooden stick.
+The Court of Claims previously held that the State owes a duty to inmates of its penal institutions to provide them with safe conditions under which to perform their assigned work. Reddock v. State (1979), 32 Ill. Ct. Cl. 611; West v. State (1977), 31 Ill. Ct. Cl. 340; see also, Spears v. State (1985), 37 Ill. Ct. Cl. 164; and Burns v. State, 35 Ill. Ct. Cl. 782.
+Similarly, the Illinois Appellate Court held that the county owes a duty to exercise ordinary and reasonable care for the preservation of prisoners’ health and life under circumstances of any particular case. (Countrymen v. County of Winnebago (1985), 135 Ill. App. 3d 384, citing Delasky v. Village of Hinsdale (1982), 109 Ill. App. 3d 976.) In Delasky, the court held that a village owed a duty to exercise reasonable care for a prisoner’s health. Delasky at 980-81.
+Because the Court of Claims has specifically recognized a duty owed by the State to prison inmates to provide a safe place to work and because the Illinois Appellate Court has recognized the duty of a county and a village to provide reasonable care for a prisoner’s health, it is apparent that the State owes a duty to provide prisoners with a safe place to live. Accordingly, this Court holds that the State does owe a duty to prison inmates to provide a reasonably safe place to live. As in other cases, the court notes that prisoners and inmates ordinarily do not possess the freedom of choice inherent in doctrines of assumption of risk and contributory negligence.
+On the night of the injury, the Claimant received certain basic medical treatment at the Menard Correctional Center prior to being transferred to the Chester Memorial Hospital. While at Chester Memorial Hospital, the tip of the Claimant’s right index finger was reattached. During this procedure, a pin was inserted into the Claimant’s finger to hold the joint together. This pin protruded from both sides of the Claimant’s finger and remained in place for approximately six weeks. Subsequent medical records introduced by the Claimant indicate that he suffered a traumatic laceration to his right index finger. Pursuant to these medical records, the attending physician stated that although the Claimant was able to use the finger for most functions, he would suffer a permanent loss of mobility with a maximum of approximately 5-10 degrees of flexion and extension. Subjectively, the Claimant continues to complain every time the finger is touched or bumped.
+Although the Claimant returned to his work duties at the end of September 1984 (two months from date of injury), he only returned in a supervisory capacity. After being paroled in March 1986, Claimant obtained employment as a small-engine mechanic for approximately six months. However, Claimant left that position due to the constant pain in his right index finger. Subsequently, Claimant had obtained a position as a sales assistant for a car dealership. The ability of the Claimant to obtain employment as a small-engine mechanic may be reduced, but this does not, however, preclude the Claimant from returning to teaching small-engine mechanics; nor does it preclude the Claimant from continuing his present employment as a salesman.
+It is hereby ordered that the Claimant be, and hereby is awarded the sum of $7,500.00, said award being in full and complete satisfaction of Claimant’s complaint.
