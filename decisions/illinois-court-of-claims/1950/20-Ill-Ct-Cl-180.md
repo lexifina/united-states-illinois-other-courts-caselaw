@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "4214"
+decided: "1950-12-15"
+citations: ["20 Ill. Ct. Cl. 180"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Darwin Eyre, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/20/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5340123
+---
+
+# Eyre v. State
+
+## Majority (SCHUMAN, C. J.)
+
+SCHUMAN, C. J.
+Claimant, Darwin Eyre, was employed by the State of Illinois, Division of Highways, as a highway section man commencing on April 3, 1941. On July 10, 1949 claimant received an injury to his back, while performing the duties assigned to him, and unloading bagged cement from a railroad freight car from the Illinois Central Railroad siding at Buckley, Illinois.
+At the time of his injury on July 10, 1947, claimant was married, and had three children under the age of 16 years dependent upon him for support, and his earnings for the year preceding the injury were $2,214.12.
+No jurisdictional questions were raised. Respondent and claimant were operating under the Workmen’s Compensation Act, and the accident in question arose out of and in the course of employment.
+Claimant’s work history showed that he had sustained minor injuries to his back, while performing work for respondent on April 3, 1945, July 20, 1946, and October 28,1946. On July 10,1947, while carrying the cement, as stated, and, after he had carried about 25 or 30 bags of cement, he felt a sharp pain in his back, and discontinued carrying cement, and continued his supervising duties.
+Because of continued pain in his back, the claimant called on his family physician, Dr. A.- B. Zunkel, at Buckley, Illinois on July 12, 1947. Dr. Zunkel made a diagnosis of ureteropyelitis, and suggested to claimant that he may have displaced some of his internal organs.
+On, July 24, 1947 claimant reported his condition to the Division of Highways, and asked for treatment. The Division obtained a report from Dr. Zunkel on August 14, 1947, and because of the report, a question arose as to whether or not the claimant had suffered a compensable injury. As a result the Division sent the claimant to Dr. H. B. Thomas in Chicago, an orthopedic surgeon. Dr. Thomas informed the Division that claimant had a spina bifida occulta, and that the accident had exaggerated it, and suggested that he havé an operation and fusion be created. Claimant was examined by Dr. T. P. Grauer, a specialist in urology. An operation was performed on claimant on September 9, 1947 and from the doctor’s report the following is taken:
+“The loose fifth lamina was removed and the 5th sacral and 4th and 5th interspaces examined, but no evidences of protrusion. Since there were no spinous processes on any of the sacral vertebrae, the lower end of the grafts had to be laid upon grooves which were cut .into the sacral wall. This was joined with the fourth and third lumbar vertebrae.”
+After the operation, claimant was released from the hospital on September 22, 1947, and returned home. On December 23, 1947, claimant was again examined by Dr. Thomas, X-Bayed, and was dismissed to return to work on light duty on January 1, 1948. On February 20, 1948, claimant was again examined, and the X-Bay taken on December 23, 1947 indicated that there was evidence of bone graft involving the spinous processes of the 4th and 5th lumbar and the first sacral segments; that alignment and position were good, callus was present, and that the prognosis was good. On April 21, 1948, the claimant was examined by Dr. Thomas, and again on May 25, 1948. At that time Dr. Thomas thought he had a 15 per cent disability of the low back. On November 4, 1948, claimant was again examined by Dr. Thomas and X-Rayed. As a result of said examination Dr. Thomas sent a report to the Department on November 15, 1948, and stated in the report that he found everything perfectly "normal. Dr. Thomas again examined claimant on January 11, 1949, and stated that he would have a maximum disability of about 20 per cent. He again examined him on February 8, 1949, and said that he would dismiss him with a 10 per cent temporary disability." On February 14, 1949, Dr. Thomas wrote a final report indicating that the claimant’s complaints were mental, and that claimant would improve after he was dismissed.
+Claimant returned to light work on January 1, 1948, and at the time of his discharge on February 20, 1949 he was performing his regular duties.
+Claimant was totally "disabled from August 21 to August 28, 1947, and from September 9 to December 31, 1947. He was paid full salary for the period of August 21 to August 28, 1947, and September 9, to September 28, 1947; and, compensation at the rate of $23.40 per week for a period of September 29 to December 31, 1947, the total payments being in the amount of $475.76.
+The present claim is for further medical expenses, compensation for additional temporary total disability, as well as compensation ^or total and permanent disability. The evidence in this case revealed that the claimant made a complete and satisfactory recovery, returned to his regular occupation, and worked steadily until his dis charge' from the Department on February 20, 1949. The evidence further shows that after he left the Division of Highways he earned $4,000.00 in the year following, and the only testimony in the record to the contrary, was that he had not earned any money in the year 1950. There is no testimony in the record as to inability to work, or differences in earning power, but on the contrary it was apparent that he had earned more in subsequent employment than he did while • working for the State. The only testimony in the record of his inability to work was that he could not do manual labor with a shovel. In addition to lack of testimony with reference to a compensable injury at the time of the filing of the claim, there was no testimony in the record that would serve for a total permanent disability, or for permanent, partial disability. For this reason an award will have to be denied.
+Beverly J. Decker, 509% South Fourth Street, Watseka, Illinois has submitted a statement in the amount of $49.00 for stenographic services, which is found to be reasonable, and an award is entered in the amount of $49.00 to Beverly J. Decker.
+Award denied.
