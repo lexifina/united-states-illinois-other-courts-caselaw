@@ -1,0 +1,22 @@
+---
+court: "Illinois Court of Claims"
+decided: "1913-04-18"
+citations: ["2 Ill. Ct. Cl. 202"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States Trust Company of New York, Executor of the Last Will of Emma A. Tillotson, and George L. Shearer, its duly authorized Agent and Attorney in this behalf, v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/2/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2831775
+---
+
+# United States Trust Co. of New York v. State
+
+## Majority
+
+The claim in this case is for a refund of inheritance tax claimed to have been erroneously paid. The claim in question discloses that the deceased died prior to July 1, 1909; that at the time of her death she was not a resident of the State of Illinois, and did not own any real estate in this State, at the time of her death, but that at the time of her death said decedent was the owner of certain shares of stock in Illinois corporations; that the corporations refused to transfer the stock without the consent of the inheritance tax attorney; that an appraiser was appointed by the county judge of Cook County, Illinois, who appraised the value of the stock so held, fixed the amount of the tax, and made his report to the county judge of Cook County, who entered an order approving the report and fixing the tax; that no appeal was taken from the order of the county judge in fixing the amount of the inheritance tax, as provided by law; that the inheritance tax was paid to the county treasurer of Cook County; that demands were made upon the county treasurer of Cook County, and upon the State Treasurer of Illinois, for a refund of the tax so paid.
+The claimant filed its petition before the county judge, who appointed the inheritance tax appraiser, praying for a vacation of the order, through the execution of which the inheritance tax in question was levied and collected, which petition was denied.
+Claimant alleges, that “the county court was wholly without jurisdiction, and the county judge wholly without jurisdiction, in taking any of the steps which resulted in the imposition of said tax and its collection;” that “the proceedings of the county court were wholly void.” The grounds for claimant’s contentions are that the deceased was a non-resident of the State of Illinois, at the time of her death, did not have any real estate in Illinois, and therefore the county judge of Cook County, Illinois, had no jurisdiction to fix an inheritance tax.
+The State of Illinois, by the Attorney General, has demurred to the claim. This Court is asked to review the proceedings in the county court and the order of the county judge, and hold that the county court had no jurisdiction. Claimant has not followed the plain provisions of the law provided for the reviewing of the order of the county judge by an appeal to the county court. The order of the county judge consequently stands unquestioned, except by this application to this Court, and this Court is asked to assume the power conferred upon the county court under the statute in question, and reverse the order of the county judge. We are of the opinion, that this Court has no such jurisdiction conferred upon it, and that so far as this Court is concerned, the inheritance tax in question is a legal tax and was not erroneously paid, and continues to be a legal tax, until such time as an appeal is prosecuted according to the statute in question and the order of the county judge reversed by a court of competent jurisdiction. This Court cannot review the order of the county judge. The statute in question provides for the manner of reviewing the order of the county judge, and it is essential and necessary that any one desiring a refund of inheritance taxes claimed to have been paid erroneously, must first have the inheritance tax declared erroneous, by some .court of this State in accordance with the inheritance tax law, and inasmuch, as the claimant in this case has wholly neglected to take the steps provided by this law, we are compelled to dismiss its claim without a consideration of the merits of the same.
+For the reasons above stated, the claim is therefore dismissed, but inasmuch, as there are certain questions involved in this claim, which claimant may desire to submit for decision to some other court, we direct that the rejection of this claim by this Court shall not conclude the claimant.
