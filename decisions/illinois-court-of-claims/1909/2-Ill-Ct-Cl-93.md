@@ -1,0 +1,24 @@
+---
+court: "Illinois Court of Claims"
+decided: "1909-01-01"
+citations: ["2 Ill. Ct. Cl. 93"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jaimes Reddick, Administrator of the Estate of Robert E. Schrom, Deceased, v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/2/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2835821
+cites_cases: ["38 Mass., 330", "41 Mass., 172"]
+---
+
+# Reddick v. State
+
+## Majority
+
+Deceased, Robert E. Schrom, was drowned with Joseph Pimes, et al., at boat drill in Chicago harbor, on the night of July 5, 1906. The issues and proofs as to the accident, as well as the stipulations under which the case is submitted, are the same in this case, as in the Pimes case, and there discussed at length, except as hereinafter stated; and what we there said applies in this case.
+Claim was originally brought by James Reddick, administrator of the estate of Robert E. Schrom, who has since died; John F. Devine, being appointed his successor, and in his own behalf, as such and for the next of kin; the petition was amended by adding Ida E. Schrom, mother, and Ethel Schrom, sister (deceased father, Henry W. Schrom, dying after the death of deceased and leaving as his sole heirs said mother and sister of deceased), whom the proof shows to be the sole heirs at law of deceased, who died unmarried.
+The State makes the additional defense in this case that deceased was not a duly enlisted seaman of the Naval Reserves at the time of his death, not having taken the oath. The law requires the recruit to sign an enlistment paper and take an oath (sec. 68, chap. 129, Rev. Stat. 1908). The proof shows that deceased signed an enlistment paper including the oath, and furnished his parents’ written consent to his enlistment on the form prescribed and furnished by the State, and that he delivered the same to the proper officer, Lieutenant Page, who had filled it out, and who was duly authorized by law to administer the oath. The enlistment paper itself is not in evidence, appearing to have been lost at some of the numerous hearings of the case; but proper preliminary proof was made to justify the admission of secondary evidence of its contents, which proof was made and there is left no doubt of its having been so signed and delivered. Just why the oath was not in fact administered and the jurat filled out does not very clearly appear. But it seems to have been regarded as more or less a mere formality and in the stress of other duties, the Lieutenant simply failed to attend to the matter. It appears that both the recruit and his officers regarded him as duly enlisted. He had been instructed concerning the annual cruise and the necessity for drilling therefor; and to get leave of absence from his employer, etc., subjected himself to the orders and discipline of the officers, who assumed such authority over him, was ordered out on the particular drill in which he lost his life, and to all intents and purposes became a member of the Naval Reserve.
+Quite a number of authorities are cited by claimant’s attorneys in support of the proposition, that the failure of deceased to get leave of absence from Hs employer and to take the oath is under the facts of this case immaterial; that, nevertheless deceased was a seaman, and his heirs are entitled to the benefit of the statute under which claim is made. Most all of the authorities are inaccessible to us. The State furnishes no authority on the subject. We are inclined to accept claimant’s view. Having made due application for admission and appeared for military service and subjected himself to orders, we think the deceased could not have been heard to raise the objection, that he hadn’t taken the oath. (Foye v. Curtis, 38 Mass., 330; Hammond v. Dunbar, 41 Mass., 172); nor do we think the State, after it assumed authority over deceased as a seaman, can be heard to say that he was not a seaman. By accepting his application, assuming jurisdiction over him and ordering him into service, the State waives the right when he is killed in its actual service to say that he was not properly in its service. It seems to have been through no fault of deceased that the technical requirements of his enlistment were not fully completed. He acted upon the assumption that he was enlisted and was so treated by the State, through its duly authorized officers.
+It would be a most unjust doctrine that would enable the State to escape liability on such a ground, and one we refuse to sanction.
+We accordingly award claimant, John F. Devine, administrator of the estate of Robert E. Schrom, deceased, for the sole use and benefit 'of the legal heirs of said Robert E. Schrom, deceased, the sum of two thousand ($2,000.00) dollars.
