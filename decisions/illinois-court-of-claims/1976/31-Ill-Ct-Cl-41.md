@@ -1,0 +1,42 @@
+---
+court: "Illinois Court of Claims"
+docket: "5830"
+decided: "1976-01-16"
+citations: ["31 Ill. Ct. Cl. 41"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis and Enola M. Dingledine, Claimants, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/31/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2718746
+---
+
+# Dingledine v. State
+
+## Majority (Holderman, J.)
+
+Holderman, J.
+Claimants, Lewis Dingledine and Enola M. Dingledine, his wife, seek recovery from the State for damages allegedly suffered as a result of actions of a ward of the State who had been placed in their charge.
+The Claimants entered into an agreement with the State of Illinois, Department of Children and Family Services and, as a result of the agreement, accepted one Paul Reeves, a 14 year old boy, who entered their home on March 17, 1969. He remained there until July 30, 1969.
+It is the contention of the Claimants that shortly after the placement of the foster child in their home, he became destructive and they requested the State to remove him. There is considerable conflict as to whether the Claimants clearly demanded that Paul Reeves be removed from their home prior to July, 1969, but it is undisputed that they complained about him to the Department as early as May 14, 1969. The later part of May, 1969, they submitted a tentative list of the damage he had done.
+Mrs. Mahoney, the case worker in charge of this particular individual, testified that she did not hear from the Dingledines until May or June to the effect that they were having trouble with the child and that July 14, 1969, was the first date on which she received a request to remove him.
+Before Claimants can recover, they must prove that the State was negligent in its duty toward the Claimants, and that Claimants were free from contributory negligence.
+On the question of contributory negligence, it does appear that after July 1,. 1969, there was no record of any damage done by the foster child. In response to a question as to why no damage was done between July 1 and the time he was removed, Mrs. Dingledine responded, "We were just keeping doggone tight watch on him,” which would indicate that when they did keep a tight watch on this individual, he did not commit any damage.
+The record shows that the Claimants have a history of keeping foster children in their home, so they are undoubtedly familiar with the problems that can arise. On the whole, however, I do not believe that Claimants were guilty of contributory negligence.
+This appears to be the first time that a claim of this nature has been presented to the Court of Claims. This claim is based upon a tort action arising out of a foster home placement agreement. It would seem that the State of Illinois, which now permits itself to be sued for tort, can be held liable for negligence in the performance of a contract and that, therefore, Claimants’ complaint sets forth a recognizable cause of action. Therefore, it appears that the law is not in dispute in this matter, but rather a question of fact.
+The record is devoid of any facts showing that the foster child had been a destructive child nor is there any evidence that indicates that the State could or should have anticipated that he was a destructive child. That being the case, the State did not act negligently in placing him in the Dingledine home. To hold otherwise, in the absence of proof of notice, would be treating the issue as one of res ipsa loquitur.
+It is the State’s contention that there was not a "real” request to remove this child until July 14, 1969. He was removed a few days later, but during this period of time, according to the record, there was no further damage done.
+It is probably true that the State could have acted more promptly in removing this child, but the State contends that it had difficulty in placing these children, and it does take time to find a new home for them.
+There does not seem to be any previous Court of Claims opinions that have a bearing on this case. The authorities cited by Claimants and Respondent are directed to the underlying legal issue of duty as related to tort cases arising out of contracts.
+There can be no recovery in tort unless a duty and breach of that duty is alleged and proven.
+A. Duty. I. L. P. Negligence, Section 22, states as follows:
+In order that there may be negligence or actionable negligence there must be a legal duty to exercise care in favor of the person injured or to protect such person from injury, and a breach, or failure to perform, such duty. Where there is no duty or breach thereof there can be no negligence.
+It is not sufficient that there has been a breach of some duty or obligation unless such duty or obligation was one owing to the person injured. Where the duty of care and caution has no existence toward a particular person there may be no such thing as 'negligence’ in the legal sense of the term.
+Contractual Duty. One who has been • guilty of negligence in the performance of a contract may be liable for the resulting damages sustained by the person with whom he contracted. Where the only relationship between the parties is contractual, the liability of one to the other for negligence must arise out of some positive duty which the law imposes because of the relationship or because of the negligent manner in which some act which the contract provides for is done, and the mere breach of an executory contract, where there is no general duty, is not the basis for a charge of negligence.
+In order that liability based on the negligent performance of a contract may attach, some privity or relationship should exist between the person injured and the one sought to be charged, by reason of which the person sought to be charged owes some legal duty to the one suffering the injury.
+74 Am.Jur.2d Tort, Section 23, sets out the law as follows:
+A tort is a wrong to another in his rights created by law or existing in consequence of a relation established by contract, but it cannot be based upon the contract itself. In other words, a mere breach of contract cannot be converted into a tort. Indeed, a tort is sometimes defined as a wrong independent of contract, or as a breach of a duty which the law, as distinguished from a mere contract, has imposed. Although such duty may have been imposed because of a contract or because of it and something else combining, when otherwise it would not have created the duty, yet breach of contract may only be treated as a tort where the law casts its separate obligation. To recover upon that theory, the plaintiff must show not merely that the defendant assumed an obligation under contract, but that out of that obligation there arose a duty to the plaintiff.
+Basically, it can be said that if the cause of complaint is an act of omission or nonfeasance which, without proof of a contract to do what has been left undone, will not give rise to any cause of action, then the action is founded upon contract and not upon tort. To found an action in tort, there must be a breach of duty apart from the nonperformance of a contract. To determine whether an action is ex contractu or ex delicto, it is necessary to ascertain the source of the duty claimed to have been violated; if this duty is one imposed merely by the contract, then action for the breach thereof is necessarily ex contractu. But if a party sues for breach of duty prescribed by law as an incident of the relation or status which the parties have created by their agreement, the action may be one in tort, even though the breach of duty may also be a violation of the terms of the contract. And a legal duty the violation of which is a tort may spring from extraneous circumstances not constituting elements of the contract as such, although connected with and dependent on it.
+Where a contractual relationship exists between persons and at the same time a duty is imposed by or arises out of the circumstances surrounding or attending the transaction, the breach of the duty is a tort. In such a case, the tortious act, and not a breach of the contract, is the gravamen of the action; the contract is the mere inducement creating the state of things which furnished the occasion for the tort.
+It is the opinion of this Court that the Claimants have failed to prove any negligence on the part of the State and an award is hereby denied.
