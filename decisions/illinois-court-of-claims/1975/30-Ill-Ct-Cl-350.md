@@ -1,0 +1,19 @@
+---
+court: "Illinois Court of Claims"
+docket: "75-CC-494"
+decided: "1975-02-28"
+citations: ["30 Ill. Ct. Cl. 350"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Riveredge Hospital, Claimant, vs. State of Illinois, Department of Children and Family Services, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/30/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2741144
+---
+
+# Riveredge Hospital v. State of Illinois, Department of Child & Family Services
+
+## Majority (Per Curiam.)
+
+Per Curiam.
