@@ -1,0 +1,35 @@
+---
+court: "Illinois Court of Claims"
+docket: "81-CC-1757"
+decided: "1981-08-31"
+citations: ["35 Ill. Ct. Cl. 359"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Prospect Heights Fire Protection District, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/35/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5316296
+---
+
+# Prospect Heights Fire Protection District v. State
+
+## Majority (Roe, C. J.)
+
+Roe, C. J.
+This cause is before the Court on Respondent’s motion to dismiss, the response thereto filed by Claimant, and Respondent’s reply to that response, due notice having been given, and the Court being fully advised in the premises.
+This is a claim in the amount of $4,492.70 allegedly due Claimant as a matching grant for training under section 10 of the Fire Protection Training Act (Ill. Rev. Stat. 1979, ch. 85, par. 540 et seq.). The reason stated by Claimant for refusal of Respondent to pay said sum was that the appropriation from which it should have been paid had lapsed. However, an examination of the departmental report, which is prima facie evidence of the facts contained therein, and the information filed by Claimant along with the complaint indicates that the facts are not that simple.
+Attached to the complaint is a statement by Captain Donald R. Gould, Jr., the training officer for the Prospect Heights Fire Department. Essentially Captain Gould described the circumstances leading up to this claim as follows. When Claimant began its training program, the Office of the State Fire Marshall, Division of Personnel Standards and Education, sent a representative, David Baird, whose job it was to assist Captain Gould in completing the paper work necessary to qualify for the program and to help set up a bookkeeping system. Captain Gould stated that, after meeting with Mr. Baird, assurances were given that everything was going well. On several other occasions, he said he was again assured that the program was “in good shape” after telephoning Mr. Baird to check its status.
+After a year of training, it became time to claim the reimbursement. Before filling out the necessary papers, Captain Gould said he contacted Mr. Baird again and was told that the procedure he was using was correct. The forms were then completed and filed before the deadline. Approximately five weeks later, a call was made to Mr. Baird to inquire as to any problems which may have arisen and to check when payment would be made. Captain Gould said he was told nothing was wrong and that warrants would be mailed in about two weeks. Two weeks later, instead of receiving the grant, his forms were returned along with a notice that because no course approval form was in the file, their program was ineligible for the matching grant.
+Next, Captain Gould recounted his efforts to correct the problem. He began by calling Mr. Baird again who was said to have told him that he would investigate and call back. He returned the call the next day and said there was nothing he could do. He then contacted the Office of the State Fire Marshall, Division of Personnel Standards and Education, and spoke with Glenna Senger. He said she informed him that there was nothing which could be done, because the time for filing course approval forms had come and gone. He said she also said that Prospect Heights was sent a letter requesting the form. Captain Gould claims to never have received it.
+The next day he contacted a Chief McCoy, said to be the head of the training program, and told him of the problem. He was told that a man would be sent up to review the records and the program. A Mr. Grimstead went to Prospect Heights, reviewed the program, told Captain Gould that it looked good, and that there must be some misunderstanding. Captain Gould then states that Mr. Grimstead told him to compile all the papers, send them to him, and that he would take care of filing with the Court of Claims.
+A week later Captain Gould sent them in. He waited three weeks and then spoke with Glenna Senger again. She was said to have told him that they had not gone over the forms yet but would do so within the week. He said she also told him that any suit in the Court of Claims concerning this matter would have to be filed by him and not her office.
+After a review of the forms, Captain Gould said he was notified that there were some mistakes which had to be corrected. About a month later the forms were returned to him along with instructions as to how to file a claim in this Court. The culmination of Captain Gould’s efforts in dealing with the bureaucracy is the claim at bar.
+According to the departmental report, which does not conflict with the statement by Captain Gould, the program would apparently have been approved had a course approval been timely filed. However, the appropriation made by the legislature to fund this program was insufficient to reimburse all qualifying municipalities at the 50 percent level as defined in the Fire Protection Training Act. (Ill. Rev. Stat. 1979, ch. 85, par. 540.) The Act covers such a situation, and in that event provides as follows:.
+“If at the time of the annual reimbursement to local governmental agencies participating in the training program there is an insufficient appropriation to make reimbursement in full, the appropriation shall be apportioned among the participating local governmental agencies.”
+Accordingly, the qualifying municipalities were reimbursed at what amounted to a 37-percent level with three cents having lapsed. No money was left for Prospect Heights.
+The Court of Claims cannot make an award in a case such as this regardless of the unfortunate circumstances giving rise to the claim. Section 30 of the State Finance Act (Ill. Rev. Stat. 1979, ch. 127, par. 166) states as follows:
+“No officer, institution, department, board or commission shall contract any indebtedness on behalf of the State, nor assume to bind the State in an amount in excess of the money appropriated, unless expressly authorized by law.”
+The claim here cannot be paid because it constitutes an obligation incurred in excess of the appropriation. The Court of Claims is not the place to turn for a deficiency appropriation or a supplemental appropriation. For this Court to grant an award in this case would be to make an appropriation. By the Illinois Constitution, this power is vested solely with the legislature. Ill. Const., art. VIII , sec. 2(b).
+Furthermore, having failed to obtain course approval within the required time, Claimant had no right to share in the funds. The fact that Claimant may have been misled in its dealings with Respondent is not relevant to the issue. Although equitably it would seem that Claimant is due reimbursement (albeit at somewhat lower than the 37-percent rate owing to a new apportionment) we do not have equitable jurisdiction.
+This claim is hereby denied.
