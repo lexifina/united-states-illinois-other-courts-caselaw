@@ -1,0 +1,30 @@
+---
+court: "Illinois Court of Claims"
+docket: "3329"
+decided: "1939-08-19"
+citations: ["11 Ill. Ct. Cl. 30"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stanley Pienta, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/11/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2821473
+---
+
+# Pienta v. State
+
+## Majority (Mr. Justice Yantis)
+
+Mr. Justice Yantis
+delivered the opinion of the court:
+Claimant, together with several others, was employed on April 7,1938, as a temporary or extra laborer for the purpose of chipping ice from the electrical connection on a certain steel bridge spanning the Illinois River at the City of LaSalle, Illinois, commonly known as the ‘‘Shippingsport Bridge” over the waterway. This work became necessary because of a terrific blizzard that began April 5, 1938. On the second day of his employment, April 8, 1938, claimant was assisting in adjusting the counterweight lifting blocks from the bridge to the roadway, and as the block was raised it swung around catching the second finger on the right hand of Mr. Pienta between the concrete block and a steel girder on the bridge. Mr. Pienta showed his finger to his foreman and he was referred to an attending physician, Dr. E. F. Cox of LaSalle, Illinois. The latter testified:
+The extensor tendons had been torn from their attachment at the base of the distal phalanx of the third or middle finger of the right hand. He placed an aluminum splint over the finger so as to aid in obtaining a fibrous attachment of the injured tendon, but did not have much success; that the degree of flexion resulting from a failure of the extensor tendons to perform their function is limited to the joint itself; that usually one did not get more than 90° of flexion, and that Mr. Planta probably has 25 per cent flexion.
+Dr. Cox further testified that—
+In his opinion the injury to the distal phalanx of claimant’s finger does not produce any disability in the remainder of the fingers; that while there is a certain amount of clumsiness in plaintiff’s picking up things with this finger, a claim of 50 per cent disability of the distal phalanx would he fully ample.
+Claimant was employed immediately prior to the accident by the Illinois Power and Light Company at the rate of Seven ($7.00) Dollars per day, but was not working for them on April 7th and 8th because of bad weather. He testified that he was totally unable to use the injured finger for three weeks; that he can now move the first joint of the finger laterally, but that it remains in a bent'condition, is larger than it was prior to the accident, and that he is unable to grip as well with that finger as he could before. He testified that he can now only bend the end joint of the injured finger about half as far as he can the corresponding joint on his other hand. After three weeks’ disability claimant returned to his prior employment with the Illinois Power and Light Company, and has been working for them since that time in similar work to that which he previously performed. A Department Eeport from the Division of Waterways shows that claimant was paid for eleven (11) hours of labor at Forty (40c) Cents per hour, being seven (7) hours on April 7, 1938, and four (4) hours on April 8, 1938. Mr. Pienta, through his attorney, filed a claim with the Waterway Division June 29, 1938, and sent a copy of such claim to the Governor’s Office. The doctor’s bill in favor of Dr. Cox in the amount of Ten and 50/100 ($10.50) Dollars was paid by respondent.
+Claim was filed in the Court of Claims on October 25, 1938.
+As claimant was only a temporary employee, the proper method of computing his average weekly wage is on the basis of Forty (40c) Cents per hour, eight (8) hours per day, multiplied by the minimum number of days, i.e., two hundred (200), as provided for by Section 10 (e) of the Workmen’s Compensation Act of Illinois, making a total of Six Hundred Forty ($640.00) Dollars, which results in an average weekly wage of Twelve and 30/100 ($12.30) Dollars. Fifty (50) per cent thereof being less than the minimum of Seven and 50/100 ($7.50) Dollars weekly compensation provided for by Section 8 (b) of the Act, compensation is allowed at the latter figure.
+The Court finds that claimant at the time of his injury was such an employee of the State of Illinois as was entitled to the benefits of the Workmen’s Compensation Act; that he suffered an accidental injury which arose out of and in the course of his employment; that he suffered temporary total disability of three weeks; that no compensation is due for the first eight days, and that there is due him for such tern-, porary total disability, the sum of Fifteen ($15.00) Dollars; that he has suffered forty (40) per cent loss of use of the first phalange of the second finger of his right hand, for which specific injury he is entitled to compensation in the sum of Fifty-two and 50/100 ($52.50) Dollars.
+An award is therefore made in favor of claimant for the sum of Sixty-seven and 50/100 ($67.50) Dollars, and as the full amount has accrued, payment therefor is to be made instanter.
+This award being subject to the provisions of an Act entitled “An Act making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Method of Payment Thereof,” approved July 3, 1937 (Sess. Laws 1937, page 83), and being subject further to the terms of an Act entitled “An Act making Appropriations to the Auditor of Public Accounts for the Disbursement of Certain Monies until the Expiration of the First Fiscal Quarter after the Adjournment of the next Regular Session of the General Assembly” (S. B. 123, as amended), approved July 8, 1939; and being, by the terms of the first mentioned Act, subject to the approval of the Governor, is hereby, if and when approval is given, made payable from the appropriation from the General Revenue Fund in the manner provided for by the foregoing Acts.
