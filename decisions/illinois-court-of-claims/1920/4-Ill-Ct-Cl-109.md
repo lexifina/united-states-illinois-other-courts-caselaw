@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+decided: "1920-01-19"
+citations: ["4 Ill. Ct. Cl. 109"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Pietsch, et al v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2837278
+---
+
+# Pietsch v. State
+
+## Majority
+
+This is a suit brought by claimants to set aside a deed made by one Charls Pietsch, now deceased, in his lifetime purporting to convey certain lands therein described to the State of Illinois, on the expressed consideration that the State would maintain and care for a brother of grantor, who was an inmate of the State Insane Asylum, and remove the same as a cloud upon the title of the lands therein described, etc.
+The evidence in the case discloses that on the 16th day of May, A. D. 1914, Charles Pietsch made, executed and delivered his quit claim deed to “Board of Administration for Support of Insane Department, or its managing officers” of Illinois, meaning and intending thereby to convey to the State of Illinois endeavoring and intending therein to convey the real estate and said deed contained. The deed so purporting to convey title is as follows, to-wit: “This indenture witnesseth that the grantor, Charles (Carl) Pietsch, unmarried, of the town of Bloomington, County of McLean, State of Illinois, for the consideration of human care of William Pietsch, inmate of insane asylum, and one dollar, convey and quit claim'to Board of Administration, support of Insane Department, or its managing officers in the City of Springfield, County of Sangamon and State of Illinois. All interest in the following described real estate, to-wit: The undivided one-half (1-3) of the entire five acres, beginning six chains and 53 links west and one rod north of the 8th sec. cor. on the south side of the S. E. % of Sec. 9, Town. 23, both of Range 3 E. of 3d P. M. thence northerly 12 chains and 27 links to- a stake; thence westerly 4 chains and 7 links, thence southerly 12 chains and 3 links; thence easterly 4 chains and 7 links to place of beginning. Also five acres (the undivided 1-2! thereof) off of east end of the following described lot of land, to-wit: The south end of the west half of the S. E. ^4 Sec. 9, Township 23 N. Range 2 East, containing 25 acres, beginning 12 chains and 45 links west and one rod north of the 1-8 sec. corner in the south side of the said southeast !y4 of said Sec. 9; thence northerly 1.2 chains and 24 links to a stake; thence westerly 4 chains and 8 links to a stake; thence southerly 12 chains and 27 links to a stake, one rod north of said south line of S. E. 14; thence easterly 4 chains and 8 links to the place of beginning, situated in the County of McLean in the State- of Illinois, hereby releasing and waiving all rights under, and by virtue ■ of the homestead exemption laws of this State. The grantor, Charles (Carl) Pietsch, to hold possession unmolested until his demise, and 'enjoy all income and profits of the premises and pay taxes and keep up repairs. In consideration whereof the State of Illinois will take care of the insane brother, William Pietsch, until his death, and then give him a Christian burial in the Bloomington, Illinois, cemetery.
+Dated ICth day of May, A. D. 1914.
+Ghakles Pietsoi-i. (seal)
+Witnesses — James McLeary, L. G. Freeman.
+The same was duly acknowledged before a Notary Public. Said deed was filed for record with the recorder of deeds, and duly recorded in the office of Recorder of Deeds of McLean County, Illinois, in book 305 of Deeds on page 216. It does not appear in evidence to whom the deed was delivered. The record of the County Court of McLean County shows the commitment of William Pietsch as an insane person.
+The right of possession of the property attempted to be conveyed was retained by the grantor, who was under the terms of the supposed conveyance to enjoy the rents, issues and profits, so long as he survived, and at his death, the State was to give to the said insane patient a Christian burial, and to take over the property.
+Said Charles (Carl) Pietsch died testate about September 24, 1919, in Bloomington, Illinois, leaving William Pietsch, Fred Pietsch, Rudolph Pietsch, Frank Pietsch, Edward Pietsch, Herman Pietsch, John Pietsch, William Wollenzein, Frederick Wollenzein, Minnie Schwartz, Mary Schneider, Clarence Wollenzein, Martha Wollenzein and Ella Heims, his only heirs at law him surviving.
+It appears also in evidence that the said Charles (Carl) Pietsch was poor and really not liable for the support of his insane brother, William, but the State’s Representative who represented himself to be a lawyer looking after the interest of the State, induced him against his will to execute the deed in question, he believing, at the time, that he was legally bound to support his brother.
+At the death of Charles (Carl) Pietsch, the aforesaid heirs at law, the claimants became tenants in common, as the only heirs at law, of said deceased, and took possession of said property, and continued in possession of same up to date of filing this claim, and the State has never had possession thereof.
+It is very clear from the evidence before the Court that at the time of the execution of the deed in question, the grantor was not financially able nor legally required, to support his insane brother, the facts stated, as inducement to the grantor to execute the deed, were untrue and misleading and amounting to fraud in law.
+The State of Illinois, under the Constitution and Statute can acquire real estate for public purposes only in manner and from expressly provided therein. There is no provision in the law where by an officer or agent or representative of the State or any of its institutions may go out over the country, and by private contract buy lands for the State for all purposes whatever.
+A deed made to the State or to any of its institutions so procured would be a nullity, void and not capable of enforcement.
+In view of the foregoing, the Court order adjudge and decree that the above said deed be, and the same is hereby declared mill and void, and of no binding force or effect.
