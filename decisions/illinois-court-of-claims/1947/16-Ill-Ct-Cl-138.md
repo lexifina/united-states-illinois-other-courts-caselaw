@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "2263"
+decided: "1947-03-25"
+citations: ["16 Ill. Ct. Cl. 138"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Worden-Allen Company, a Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/16/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2761057
+---
+
+# Worden-Allen Co. v. State
+
+## Majority (Damron, J.)
+
+Damron, J.
+This cause is now before the Court on motion of the respondent to dismiss the complaint heretofore filed in this cause on November 9, 1933.
+The record consists of the complaint, stipulation of facts, reports of the Division of Highways, brief, statement and argument of both claimant and respondent.
+From the record we find that the claimant submitted its bid to the Department of Public Works and Buildings, Division of Highways, for the erection of a steel I-Beam Railroad, overhead concrete bridge which was to span the railroad right" of way and tracks of the Chicago Great Western Railroad Company in JoDaviess County, Illinois.
+According to specifications this construction work was to be completed on or before October 15, 1932. But due to certain delays on behalf of respondent in negotiating with the Railroad Company, the contract was not awarded to claimant until September 23, 1932, a period of nearly two months after claimant’s bid was submitted. This neglect on behalf of the respondent thereby slowed down the construction work to such an extent that operations on the job did not commence until the middle of October causing construction work to be carried into the cold weather months, therefore the claimant was obliged, according ■ to the standard practice contained in said specifications, to heat materials entering into the concrete and likewise to protect the concrete after it had been poured, all of which increased the cost of construction, hot contemplated by the claimant at the time it submitted its bid, and would not have been necessary had the respondent awarded the contract promptly. When the award was finally made, at the request of the claimant, the termination date for the completion of this project was extended by the respondent to December 8, 1932, and during the course of the construction of said bridge the respondent changed plans and specifications on at least two occasions which caused further delay in its completion.
+Claimant contends that as a result of such delays it was caused to expend $1,295.83 above the contract cost which would have been prevented, had the work been done at a time when claimant had every reason to expect it to be done, with the completion date fixed as October 15,1932, as it was at the time claimant submitted its bid. Attached to the complaint and made a part thereof is a bill of particulars, supported by affidavit, showing the additional costs incurred by claimant over and above the contract price.
+' The stipulation of facts shows that final inspection on said project was made on August 18, 1933; that final payment of claimant’s estimate was September 16, 1933 and that State Warrant representing said final payment dated September 20,1933 payable to claimant,' in the sum of $290.99, was endorsed and cashed by said claimant, and that said Warrant is now in the files of the State Auditor in Springfield, Illinois. It is not contended by the respondent that the final warrant cashed by claimant included the extra expenses and costs incurred by claimant.
+The respondent files its motion to dismiss the complaint on the ground that the claimant having accepted and cashed the final warrant has thereby given respondent a full release from any and all actions arising out of the contract. The motion is based on the following provision contained in the contract:
+Division 1, Sec. 9.7. "The acceptance by the contractor of the last payment shall operate as and shall be a release to the Department from all claims or liability under this contract for anything done or furnished or relating to the work under this contract, or for any act or neglect of said Department relating to or connected with this contract.”
+Claimant, in answer to the motion to dismiss, contends that this claim is for reimbursement due over and above the contract price for expenses incurred and loss sustained by it due to delays for which claimant contends respondent is liable.
+The evidence in this case shows that claimant was an experienced contractor, was acquainted with the standard specifications as contained in the proposals, and was familiar with Section 9.7 of the “Standard Specifications For Road and Bridge Construction”, as adopted by the Department of Public Works and Buildings, January 2,1932. Yet in the face of this knowledge, claimant continued to permit its bid to stand as filed for nearly two months, and accepted the job after it was awarded to it. Claimant completed the work, cashed the final voucher without reservation, other than letters directed to the Division of Highways during the course of construction. This was an attempt to reserve some purported right although Division 1, Section 9.7 of the Specifications, specifically stated that, ‘ ‘ acceptance by the contractor of the last payment shall operate as and shall be a release to the Department from all claims or liability for anything done or furnished, or relating to the work under this contract, or for any act or neglect of said Department relating to or connected with the said contract”.
+This Court has passed upon contracts including the ‘ ‘ Standard Specifications for Road and Bridge Construction”, and in claims: such as the one before us, have held that final payment under such a contract constitutes a release of all claims and liabilities under the contract and that an award cannot be made, arising out of such a contract, after final payment has been accepted by the contractor. Henkel Construction Company vs. State, 10 C. C. R. 538; Strandberg and Son Co. vs. State, 13 C. C. R. 49; Pickus Engineering and Construction Co. vs. State, 13 C. C. R. 39; Richardson vs. State, 14 C. C. R. 3.
+After considering the record before us, we conclude that the claimant has no right of recovery.
+The motion of the Attorney General to dismiss the complaint is well founded in law and is therefore allowed. Complaint dismissed.
