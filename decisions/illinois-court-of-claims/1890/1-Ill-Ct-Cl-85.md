@@ -1,7 +1,7 @@
 ---
 court: "Illinois Court of Claims"
 decided: "1890-12-12"
-citations: ["1 Ill. Ct. Cl. 85", "1 Ill. Ct. Cl. 87"]
+citations: ["1 Ill. Ct. Cl. 85"]
 reporter: "ill-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
