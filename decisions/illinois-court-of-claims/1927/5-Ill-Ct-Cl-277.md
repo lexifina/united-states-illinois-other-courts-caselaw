@@ -1,0 +1,28 @@
+---
+court: "Illinois Court of Claims"
+docket: "687a"
+decided: "1927-03-10"
+citations: ["5 Ill. Ct. Cl. 277"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moline Plow Company, Incorporated, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/5/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5350133
+---
+
+# Moline Plow Co. v. State
+
+## Majority (Mr. Chief Justice Clarity)
+
+Mr. Chief Justice Clarity
+delivered the opinion of the court:
+The claimant, a foreign corporation, presents claim for refund of payments demanded and collected from it by the Secretary of State as franchise taxes and initial fees in excess of the amount claimed legally due. We will not discuss the legal merits of this claim or the particular phases of claimant’s contention as against the Secretary of State for collecting these fees, or whether or not the fees collected were excessive, illegally collected, or improperly collected as it is the intention of the court to dwell only upon the question of taking jurisdiction of cases wherein a remedy at law was provided by statutes in courts of general jurisdiction.
+This court is impressed with the vast increase of demands filed in this court and consequently it is considered necessary and proper to establish a precedent in this line of cases in harmony with opinions heretofore announced in other claims, in that wherein a claimant had a remedy in a court of general jurisdiction and failed to pursue such remedy, that this Court would not take jurisdiction.
+It cannot be urged that there would be any need of this court if there was a remedy prescribed by statutes for all the cases that could be brought before .this court. We do not believe the court should invoke the rule of equity and good conscience in a case where claimant had an adequate remedy at law and it would not seem consistent for this court to adopt any rule in conflict with the well established practice of courts of general jurisdiction in the State of Illinois. In such courts if a complainant slept on his legal rights, no court of equity would take jurisdiction on the theory that the claim wás just or equitable if the complainant failed to pursue his legal remedy in apt time. Therefore can it be assumed that the Legislature of this State had in mind at the time it created this court a plan to open wide the doors to all litigants to choose between the courts' already established by the constitution and this court, or was it not the thought back of the act creating this court, to give claimants the right to recover legal claims or claims sustained by the rule of equity and good conscience an opportunity to be heard who had no right either by the basic law of the State or through statute to pursue their claim for relief in any court of general jurisdiction? It is the opinion- of this court that it should not invade the field of courts created by the constitution of the State and we believe that it cannot be contended that the Legislature intended to create this court to usurp the powers of,.to contradict, or to compete with courts of general jurisdiction.
+This court wishes to cite herein the following provisions of the statutes taken from the brief and argument of defendant which seems to .support the contentions heretofore in this opinion stated:
+Paragraph 172, Chap. 127, Smith-Hurd’s Statutes, 1923 (Section 28, of Act in Relation to Payment of Public Money of the State into the State Treasury, approved June 9; 1911), the provision that requires the Secretary of State, among other officers, “to hold for thirty days all moneys received for or on behalf of the State under protest and on the expiration of such period, to deposit the same with the State Treasurer, unless the party making such payment shall within such period file a bill in chancery and secure a temporary injunction restraining the' making of such deposit, in which case such payment shall be held until the final order of decree of the court.”
+There is also another theory which this court considers proper to comment on in passing on the propositions involved in this case.
+The office of the Secretary of State was created by the constitution of the State. The constitution and the Legislature placed large responsibilities upon the incumbent of this office. The rapid increase of the population of this State has increased many fold the duties of this officer. Therefore it ' would seem that this court should be reluctant to enter any order that might presume to review the acts or conduct of the man whom the people of the State of Illinois placed in this high position of prominence and responsibility in view of the fact that in cases of this character the Legislature provided a method wherein a claimant would believe himself to be aggrieved by the acts of the Secretary of State that he could proceed as indicated in the statute above cited in courts of general jurisdiction making the Secretary of State a special defendant, thereby giving this officer an opportunity of being heard directly and his acts reviewed by a court of general jurisdiction with such rights of appeal that may be provided by law. Therefore it appears to the court in fairness to all concerned that in all cases where the law of this State provides a remedy for a hearing in courts of general jurisdiction that claimant should avail himself of this method rather than come to this court.
+Therefore, for the reasons aforesaid, this claim is disallowed. -
