@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "3467"
+decided: "1942-01-13"
+citations: ["12 Ill. Ct. Cl. 46"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Frohock, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/12/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2821667
+---
+
+# Frohock v. State
+
+## Majority (Chief Justice Damron)
+
+Chief Justice Damron
+delivered the opinion of the court:
+This is a claim for compensation which comes before the Court on the complaint, transcript and abstract of testimony, and the respective briefs and arguments of the parties.
+Robert Frohock, employed as an attendant in the Chicago State Hospital complains that on February 29, A. D. 1940, while in the course of his employment as an attendant he was attacked by a patient sustaining injuries to his right hand. He seeks an award therefor for twenty-five per cent loss of use of the right hand totaling Four Hundred Thirty-six and 90/100 ($436.90) Dollars.
+It is agreed that claimant received a salary of Sixty-three ($63.00) Dollars per month and maintenance, valued at Eighteen ($18.00) Dollars per month. The claimant testified on direct examination that about ten o ’clock A. M. on February 29,1940, while doing the routine work in his ward, that it became necessary to move a patient from a position where he always sat, so the ward could be cleaned. That in doing this the patient became violent and attacked the claimant and that in attempting to hold the patient’s wrists and hands they both fell to the floor, sliding across the floor into a heavy oak bench leg, and claimant’s fist struck the bench leg, fracturing the fourth metacarpal, and otherwise injuring his right hand.
+Claimant notified his supervisor immediately, and also the ward physician, Dr. Griffin, who ordered an x-ray immediately, and claimant’s hand was bandaged and he continued to work, losing no time whatever, and received his full salary and maintenance.
+The bandage remained on his hand about five weeks. On March 9, 1940, he filed his complaint in this court. The testimony in this ease was taken in Chicago on May 8, 1940. Dr. Albert C. Field appeared in behalf of claimant and testified that there was a fracture of the fourth metacarpal proximal third of the right hand and that the fractural line was fairly well healed. He testified over objection, in his opinion, there was a loss of thirty (30) per cent of claimant’s right hand, and that such loss was permanent.
+Dr. Louis Cisman, a staff physician of the Chicago State Hospital, was called by the respondent and testified that his physical examination of the claimant indicated pain, tenderness, swelling at points of localized tenderness in the proximal end of the fourth metacarpal bone of claimant’s right hand and that x-rays revealed a fracture of the fourth metacarpal bone of said right hand and that no displacement existed. He testified that, in his opinion, the loss of use of the right hand was about twenty (20) per cent. There was a further hearing of this case pursuant to agreement of attorneys representing both parties on March 19, 1941. Dr. Louis Cisman was again called as a witness on behalf of respondent. He testified that he examined claimant on March 14,1941, and found that the hand showed a depression of the fourth knuckle of the right hand. The patient had some loss in use of the fourth finger of the right hand. An x-ray picture was taken of the hand on the same day, revealed the fragments to be in good position with a callous formation at both ends of the fracture. He further stated that his examination revealed that the motion of the hand had improved, but as far as the deformity of the fourth knuckle there was no change, that the improvement was limited. That, in his opinion now, the loss of use of his right hand was between ten (10) per cent and twenty (20) per cent.
+The record establishes that the claimant and the respondent, were on February 29, 1940, operating under the provisions of the Workmen’s Compensation Act. That on the day last above mentioned said claimant sustained accidental injury which arose out of and in the course of the employment; that notice of said accident was given said respondent and claim for compensation thereof was filed within the time required under the provisions of.said Act.
+That the earnings of the claimant during the year, next preceding the injury, were Nine Hundred Seventy-two ($972.00) Dollars, included herein is the sum of Eighteen ($18.00) Dollars per month maintenance, and that the average weekly wage was Eighteen and 50/100 ($18.50) Dollars, and that his compensation rate was Nine and 25/100 ($9.25) Dollars.
+That the necessary first aid, medical, surgical and hospital services had been provided by the respondent herein. The court finds that the disabling condition is in the fourth finger and is temporary, and had not yet reached a permanent condition up to the date of the hearing. The following award is no bar to a further hearing, and determination of a further amount of compensation for permanent disability, but is conclusive as to all other questions.
+The court finds that claimant is entitled to have and receive from the respondent the sum of Nine and 25/100 ($9.25) Dollars per week for a period of ten (10) weeks, representing fifty (50) per cent loss of use of the fourth (4) finger, commonly called the little finger, as provided in Paragraph (e) of Section (8), and Paragraph (b) of Section (19) of the Workmen’s Compensation Act, and the further sum of Nine and 25/100 ($9.25) Dollars as provided in Paragraph (1) of Section (8) of said Act, as amended, for the reason the injury sustained occurred subsequent to July 1, 1939.
+That claimant is now entitled to have and receive from the respondent the sum of One Hundred One and 75/100 ($101.75) Dollars. That all of said compensation has accrued and is now payable in a lump sum.
+This award being subject to the provisions of an Act entitled “An Act Making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Method of Payment Thereof,” approved June 30, 1941, and being by the terms of such Act, subject to the approval of the Governor, is hereby, if and when approval is given, made payable from the appropriation from the General Revenue Fund in the manner provided for in such Act.
