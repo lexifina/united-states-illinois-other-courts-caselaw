@@ -1,0 +1,24 @@
+---
+court: "Illinois Court of Claims"
+docket: "833"
+decided: "1925-05-01"
+citations: ["5 Ill. Ct. Cl. 166"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert Deaton, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/5/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5352613
+---
+
+# Deaton v. State
+
+## Majority (Mr. Justice Leech)
+
+Mr. Justice Leech
+delivered the opinion of the court:
+This case comes before the court on declaration filed by Herbert Deaton, setting forth that on February 15, 1924, about 9:30 P. M., Headquarters Detachment, 2nd Squadron, 106th Cavalry, arrived in Springfield, Illinois, from Williamson county, Illinois, after a period of riot duty; that claimant was assisting in unloading equipment from a truck at the State Arsenal at that time, and while so engaged the truck driver suddenly backed up the truck; that he was unable to escape owing to a large crowd leaving the arsenal at the conclusion of an evangelistic service, and his right leg was caught between the truck and the stone step of the arsenal entrance, resulting in a compound fracture of the right leg; that he was removed to St. John’s Hospital in Springfield, where he remained for eight weeks before being discharged; that on July 4,1924, while convalescent, he was riding a horse, the property of Major Herbert W. Styles, commanding the 2nd Squadron, 160th Cavalry; upon dismounting from this horse at his home, claimant stepped in a rut and again fractured his right leg and was taken to the Springfield Hospital, Springfield, Illinois, where he was confined for six weeks; that these injuries were not due to any carelessness on claimant’s part.
+The Attorney General filed his- statement in the above entitled cause as follows: The claimant was injured February 15, 1924, and received a second injury July 4, 1924, at both times being on duty as a member of the Illinois National Guard; claimant’s injuries were attended to and he-has been examined on. several occasions by surgeons acting -under orders of the military authorities of the State. The claimant herein is in poor financial circumstances, and for that reason the case is being submitted to this court rather informally, in order to expedite its disposition and to minimize the expenses to the claimant in presenting his claim. It appears from the facts.submitted to the Attorney General by the Adjutant General that since the first injury to the claimant, the Adjutant General has given the case close observation, and as a result thereof we are in a position to fully and satisfactorily lay the facts before the court in this way. We submit statements in regard to the case signed by the following parties: Major Herbert W. Styles, Private Richard W. Newell, Dr. E. S. Spindel, Sergeant George W. Boggs and Dr. H. H. Tuttle, relating to the accident and nature and extent of claimant’s injuries. We also submit herewith photo static copy of physical examination of the claimant made by Colonel George C. Amerson,'surgeon general of the Illinois National Guard, on March 1, 1924, and also photostatic copy of the surgeon general’s final examination of the claimant on December 4, 1924. These examinations by the surgeon general were made under orders issued by the Adjutant General. We believe the facts thus presented are sufficient to enable the court to determine the nature and extent of the claimant’s injuries. Special attention of the court is called to the report of the surgeon general, Amerson, on his examination made December 4,1924, wherein he states: It is my opinion that the above has a permanent disability of 15 per cent.
+We wish to further suggest that in view of the claimant’s second injury, occurring before he had fully recovered from his first injury, that some consideration should be given to the possibility and probability of the original injury being to a certain extent responsible for the second injury. The Attorney General desires to call to the attention of the court information furnished him by the Adjutant General to the effect that since claimant sustained his first injury on February 15,1924, there has been paid to him by order of the Adjutant General a sum of $106 on salary. The Adjutant General also caused to be paid to Dr. H. H. Tuttle for medical and surgical attendance $214, and to St. John’s Hospital, of Springfield, for hospital services rendered claimant the sum of $150.75. The Adjutant General has recommended to the Attorney General “that this case be expedited in every way possible for an early adjustment on an equitable basis.”
+The court finds that, this case arises under the military code of the State, and that the claimant is entitled to an award. The.court therefore awards the claimant the sum of $975.00.
