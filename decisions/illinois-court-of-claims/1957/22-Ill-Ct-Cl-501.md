@@ -1,0 +1,57 @@
+---
+court: "Illinois Court of Claims"
+docket: "4665"
+decided: "1957-03-22"
+citations: ["22 Ill. Ct. Cl. 501"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter Brewton, a minor by his father and next friend, Ogean Brewton, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/22/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5343837
+cites_cases: ["308 Ill. 189"]
+---
+
+# Brewton v. State
+
+## Majority (Fearer, J.)
+
+Fearer, J.
+Walter Brewton, a minor, 14 years of age, has filed his verified complaint against the State of Illinois, by his father and next friend, Ogean Brewton.
+The record consists of:
+1. Amended complaint.
+2. Answer to amended complaint.
+3. Transcript of evidence.
+4. Claimant’s and respondent’s exhibits.
+5. Briefs and arguments of claimant and respondent, and reply brief of claimant.
+6. Commissioner’s Report.
+Walter Brewton, having met all of the requirements for admission to the Jacksonville School, which is operated by the State of Illinois for the deaf, was admitted on September 21, 1946.
+At 8:15 A.M. on September 6, 1954, he was readmitted into the regular school program, which included a beginning class of woodworking in the vocational department from 8:55 to 10:15 A.M. The class assignment on the first day was to clean up the benches and tools, and to receive tools and preliminary instructions for future work in the class.
+This was further found in the Departmental Report of John T. Tyler, vocational supervisor, in a letter dated September 9, 1954 to Thomas K. Kline, Superintendent of the Illinois School for the Deaf, a part of which is the school assignment for the day of the accident, which was to clean up the shop in preparation for the school year.
+It was stipulated by the parties at the time of the trial that no power tools of any kind were operated by the students in this class. The beginning classes in woodworking are not permitted to have the use of power tools until they have one or more semesters of experience in the shop, and then only under supervision. It was further stipulated that, at approximately 9:30 A.M. on September 8, 1954, Walter Brewton sustained injuries to his thumb and index finger, when they were severely lacerated by a woodworking machine called a jointer. The jointer was one of the machines located in the woodworking class room at the Jacksonville School for the Deaf.
+The vocational woodworking space in question was one large room, as shown by claimant’s exhibit No. 3. At one end of the room were work benches, and at the other end were located the power tools. While the instructor of the beginning woodworking class was carrying out the program outlined for the day, Walter Brewton lost his forefinger and thumb as aforesaid.
+The class consisted of approximately eleven boys, who were under the instruction of Mr. John T. Boat-wright, vocational teacher of the deaf at the institution.
+The evidence offered by the state and claimant varies as to certain instructions given to Walter and the rest of the boys pertaining to their duties on the day in question. Respondent contends that the boys were instructed to clean the tools, place them in the racks, and dust the benches; and were warned not to go near the power machinery. Walter testified that he was given a cloth with which to clean within the vicinity of the machinery, including the jointer.
+It is apparent that previous classes had been shown pictures, and had been given preliminary instructions as to the hazards of the machinery located within the room. They were instructed in the methods of the use of the machinery to eliminate accidents, and were shown methods employed in the operation of the machines. However, the class in question, including Walter, was never shown the pictures, and apparently the only instructions received by the members of the class were those given on the morning of the accident.
+There were no signs posted in and near the power machinery, including the jointer, as to any warnings whatsoever, and the class had been in session only thirty minutes prior to Walter’s accident.
+A Mr. Coop, an agent of respondent, just prior to the accident had been seen in the room operating the jointer, and upon completion of his work he turned off the switch, but the blades were still running after he left the room. This was during the period of time when the boys were in the room, and were told to dust where the jointer was located. Two photographs were admitted in evidence, being respondent’s exhibit No. 3, which showed the machine and the condition it was in on the day of the accident. It was also used in explaining the guard, which was activated by a spring putting the guard in place after the machine was used for cutting. There is no question but what the guard was in place protecting the blades. The cutting head of the jointer is partially obscured from view by the guard. The pictures of the machine indicate the cutting head is covered. There is no light or other signal for the purpose of warning a deaf person that the machine is in operation. As Walter was dusting in and around the guard, at a time when the blades were still in motion, the cloth he was using caught and pulled his right hand into the blades of the cutter. His thumb and index finger were severely cut, requiring amputation at the distal phalanges of the right thumb and index finger.
+Mr. Boatwright was the only supervisor in the room at the time of the accident, and at the time the boys were dusting, and he did not see Walter go near the jointer.
+The evidence reveals that Walter was right-handed, and that the right hand is used to a great extent in sign language employed by deaf persons.
+The charges of negligence relied on are:
+1. Failure to properly warn a boy 14 years of age, who had no previous experience with power machinery, relative to the dangers involved; failure to properly instruct him in the methods to protect himself; and, failure to determine whether the boy understood and appreciated the dangers involved.
+2. There was a duty on the part of the vocational instructor to survey his activities at all times, while in the proximity of dangerous power machinery.
+3. The vocational teacher owed a duty to protect a deaf infant of 14 years, while under his charge, from the hazards caused by others, especially when in the proximity of dangerous power machinery.
+4. Respondent was negligent in placing an instructor, who was afflicted with a loss of hearing, in a class room where dangerous power machines were employed. Further it is contended that Walter Brewton, due to his age and physical handicap, was not guilty o£ contributory negligence.
+Respondent, of course, contends that its agents were not guilty of negligence, which was the proximate cause of the accident resulting in claimant’s injuries. It further contends that claimant, Walter Brewton, was guilty of contributory negligence in going near the jointer, which he had been warned not to go near; that he disobeyed the instructions of the vocational teacher, and that his injury was the sole and proximate cause of his carelessness and negligence.
+In a suit for personal injuries to a child, in weighing the evidence, the Court must take into consideration the age of the plaintiff and his capacity to appreciate danger, and, in the absence of proof to the contrary, he would be expected to exercise that discretion and intelligence in protecting himself, which would be expected of an average child of the same age under like circumstances. Morrison vs. Flowers, 308 Ill. 189.
+It has been repeatedly held that “negligence” is the omission to do something, which a reasonable man, guided by those considerations which ordinarily regulate the conduct of human affairs, would do; or doing something, which a reasonable and prudent man would not do under the same or similar circumstances.
+This Court passes not only upon the law, but is a tryer of the facts, in the absence of a jury. We are of the opinion that claimant has maintained the affirmative by a preponderance of the evidence, after taking into consideration the age, intelligence, experience and physical handicap of Walter Brewton.
+It appears that respondent’s agents were negligent in not keeping closer supervision over Walter Brewton, and that the maintenance personnel, especially Mr. Coop, were negligent in turning off the power equipment, and leaving the power tool before it had come to an absolute stop, knowing that there were inexperienced boys of tender years working in and about the power machinery. Deaf children must rely upon their sense of sight and sense of touch. Even though the blades were protected by a guard, it would not afford sufficient protection to prevent injury to one dusting such a machine, and, knowing this to be true, close supervision should have been placed over Walter Brewton to see that he did not go near the machine while it was in operation. It also appears to us that maintenance personnel should be excluded from the work shop, and not be permitted to use the power machinery during a time when classes are being conducted in woodworking.
+We are of the opinion that Walter Brewton was not guilty of contributory negligence under the circumstances, considering the fact that he was a boy 14 years of age, and handicapped by the loss of hearing; and it is our opinion that the proximate cause of his injuries was the negligence of respondent’s agents.
+Immediately after the accident claimant was removed to Passavant Hospital where surgery was performed, and the distal phalanx of the right index finger and the distal phalanx of the right thumb were amputated. He was returned to the infirmary at Jacksonville on September 10, 1954.
+The only physician testifying in the case was Dr. Phillips, who identified claimant’s exhibits Nos. 1 and 2, being X-Rays taken on December 31, 1955. The doctor’s findings are as follows: Irritation of the nerve endings as the result of the amputation, for which medication and diligent nerve therapy were recommended in an attempt to rehabilitate the nerve muscles, which were, in part, amputated at the time of the original surgery, so that claimant would have a good function of his right hand, realizing in terms of the grasp ability of the hand, which depends primarily on the thumb and index finger; and also his inability to communicate with his companions and friends by reason of the loss of the thumb and index finger, which are used materially in sign language.
+We are not bound by any estimate made by the doctor as to percentage of loss of use of the hand. However, it was testified that the doctor considered this to be a fifty per cent loss.
+In arriving at the amount of the award, we are taking into consideration the loss of the thumb and finger .at the first phalanx of the right hand. Walter, being a right-handed individual, would be handicapped in the use of his hand for. sign language, and also would be handicapped in future years in the operation of machines.
+The Commissioner, in his report, recommended an award be entered for $3,500.00, which we believe to be a fair award under the circumstances.
+It is, therefore, the order of this Court that Ogean Brewton, father and next friend of Walter Brewton, be awarded the sum of $3,500.00.
