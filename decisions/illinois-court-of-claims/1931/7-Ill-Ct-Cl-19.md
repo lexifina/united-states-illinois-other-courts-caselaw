@@ -1,0 +1,22 @@
+---
+court: "Illinois Court of Claims"
+docket: "1170 and 1171"
+decided: "1931-11-05"
+citations: ["7 Ill. Ct. Cl. 19"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tony Thomas, Claimant, No. 1170 and Rose Thomas, No. 1171, Claimants, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/7/cases/0019-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2797676
+---
+
+# Thomas v. State
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+Now comes Oscar E. Carlstrom, Attorney General, and makes motion for dismissal, pursuant to an order to show cause entered by this court on the 8th day of September, A.
+D. 1931, wherein the claimant was ordered to show cause on or before November 3rd, 1931, why this case should not be dismissed for want of prosecution.
+And it appearing to the court that cause has not been shown by claimant in accordance with said order, it is hereby ordered that the claim be dismissed without an award and the case stricken from the docket.
