@@ -1,0 +1,39 @@
+---
+court: "Illinois Court of Claims"
+docket: "4173-4174-4175—Consolidated"
+decided: "1950-09-19"
+citations: ["20 Ill. Ct. Cl. 149"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oscar Lamore, No. 4173, Barbara Ellen Smith, Helen Catherine Smith, minor heirs at law of Edmond P. Smith, deceased, by Margaret F. Keigher, their next friend and guardian, No. 4174, Otto Brandt and Ella Brandt, husband and wife, as joint tenants, and John Hilgendorf, No. 4175, Claimants, vs. State of Illiois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/20/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5340010
+---
+
+# Lamore v. State
+
+## Majority (Sohuman, C. J.)
+
+Sohuman, C. J.
+The above entitled cases are all claims for damages caused by the pollution of a stream known as “Rock Creek” by the Manteno State Hospital. All grew out of the same state of facts, and, therefore, upon stipulation of the parties have been consolidated for the purpose of the hearing and consideration thereof.
+It was stipulated that Oscar Lamore, claimant, is the owner, and is in possession of the real estate described in paragraph 1 of the complaint in Case No. 4173.
+It was stipulated that Barbara Ellen Smith and Helen Catherine Smith are the owners of the land described in paragraph 1 of the complaint in Case No. 4174, ánd Francis W. Smith is the tenant..
+It was also stipulated that Otto Brandt and Ella Brandt, husband and wife, as joint tenants, are the owners of the real estate described in paragraph 1 of the complaint in Case No. 4175, and that John Hilgendorf is the tenant on said premises.
+It was further stipulated that the State of Illinois operates and maintains a hospital for the care of mental patients at Manteno, Illinois, known as the Manteno State Hospital, located in Sections 23 and 26, Township 32 North, Range 12 East of the Third Principal Meridian in Kankakee County, Illinois; and that the west boundary of the property of the State of Illinois is a highway, which is also the eastern boundary of the property of the claimant, Oscar Lamore.
+It was further stipulated that the population of said institution during the month of December for the following named years was as follows:
+1946; 6,542 inmates and 976 employees for a total of 7,518; for the year 1947, 6,973 inmates and 975 employees for a total of 7,948; and in the year 1948, 7,319 inmates and 1,099 employees for a total of 8,418.
+It was further stipulated that “Rock Creek” runs in a southwesterly direction along the northwest corner of the lands of the State of Illinois in Section 23, and proceeds southwest through the lands of claimant, La-more, and thence through the lands of the Smith heirs and Brandt; and that “Rock Creek” is a natural water course which empties into the Kankakee River 8 or 9 miles farther southwest.
+The State maintained a sewage treatment and disposal plant on Section 23, and all the effluent from the hospital, except from certain farm buildings, is gathered into and treated in the plant, and is emptied into the creek near the northwest corner of Section 23, a distance of approximately two hundred (200) feet east of the Lamore land. There is no question from the testimony that from the discharge of the sewage into said, creek it became contaminated and polluted, and that the claimants suffered damages by reason thereof.
+The testimony, without contradiction, was that if the sewage plant had been properly handled that this condition would not have existed.
+A similar factual situation was determined by this Court in the ease of McComb v. State of Illinois, 11, C.C.R. 580, and the Court feels that the decision in that case was correct, and that any question with reference to the legal rights of the claimants to recover has been determined by this Court, whether on the theory of negligence, or on the theory of taking property without just compensation. For this reason we do not feel it necessary to discuss the legal questions raised by the respondent, and conclude that the State is liable and as stated by the Court in said decision and we quote on page 591:
+“The cases cited would seem to be conclusive of the right of the several claimants to recover, under the provisions of the Constitution, such damages as they have sustained, limited, however, to the allegations of their several complaints, the testimony in the record, and the law governing the proper measure of damages in cases of this kind.”
+It is, therefore, only necessary for this Court to consider the proper measure of damages.
+Claim No. 4173, Oscar Lamore. This claimant was the owner of the property in question, and claimed that he had 35 acres of ground affected by the overflowing of the creek. The Court feels that the only reasonable conclusion that can be drawn from the evidence on this particular claim is that during the years 1947 and 1948 claimant had to take his live stock out of pasture for 3 months during the years mentioned. That, as a result of such pollution, his cattle had to be dry fed, and that he lost some milk production. That the claimant would be entitled to 90 days for dry feed at the rate of 25 cents per day for each head of cattle or a total of $270 for each of the years 1947 and 1948 or a total of $540.00. For a loss of milk 36 cans at 64 pounds to the can for each of the years 1947 and 1948 or a total of 72 cans equivalent to 4,608 pounds at $5.00 per 100 pounds or the sum of $230.00, making a total damage award to said claimant, Oscar Lamore, of $770.00.
+Barbara Ellen Smith, Helen Catherine Smith, minor heirs at law of Edmond P. Smith, by Margaret F. Keigher, their next friend and guardian, and Francis W. Smith, Claim No. 4174. The only conclusion that the Court can reach on this claim, taking into consideration the facts on the other claims, which the Court is bound to consider, is that the said owners of said ground are entitled to damages for loss of use of said ground for pasture land. The Court concludes that the damages for such loss of use is in the amount of $648.00 for the two years 1947 and 1948.
+Otto Brandt and Ella Brandt, and John Hilgendorf, Claim No. 4175. The only testimony with reference to any damages sustained by the owners, Otto Brandt and Ella Brandt, was that they lost $12.00 per year per acre on 29 acres of pasture. The Court feels that from the other factual situations and evidence that this is a fair measure of damages for the owners, Otto Brandt and Ella Brandt, and a claim is allowed in the amount of $696.00 to the said Otto Brandt and Ella Brandt. As to the tenant, Hilgendorf, the Court feels that the evidence definitely shows that he suffered damages in purchasing extra feed for his 30 head of cattle for the two year period in the amount of $1,350.00. He sustained loss in milk production of 1 can a day for 90 days in each of the 2 years, making a total damage of $580.00, figured at $5.00 per 100 pounds. However, he was allowed $12.00 an acre per year on the 29 acres of pasture by his landlords, Otto Brandt and Ella Brandt, making a total of $696.00 for the two year period which would have to be deducted from his total award, leaving a net claim to be paid of $1,234.00 to the claimant, John Hilgendorf, by the Court.
+An award is, therefore, entered in favor of the several claimants as follows:
+Claim No. 4173, Oscar Lamore, $770.00.
+Claim No. 4174, Margaret F. Keigher, guardian of Barbara Ellen Smith and Helen Catherine Smith, minor heirs of Edmond P. Smith, deceased, $648.00. As to this claim a certified copy of Letters of Guardianship should be furnished before the claim is paid.
+Claim No. 4175, Otto Brandt and Ella Brandt, $696.00. John Hilgendorf, tenant, $1,234.00.
