@@ -1,0 +1,30 @@
+---
+court: "Illinois Court of Claims"
+docket: "4044"
+decided: "1948-11-09"
+citations: ["18 Ill. Ct. Cl. 42"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ruth Spencer, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/18/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2762120
+---
+
+# Spencer v. State
+
+## Majority (Eckert, C. J.)
+
+Eckert, C. J.
+This is a suit brought by Ruth Spencer, the widow of Forrest Spencer, in her own behalf and on behalf of her minor children Ruth Beatrice Spencer and Charles Jason Spencer, against the State of Illinois under Section 7a of the Workmen’s Compensation Act. The decedent, Forrest Spencer, was employed by the respondent at the time of his death, and had been so employed for more than a year prior thereto, in the Department of Public Safety, Division of State Police, as a Highway Police Officer.
+Shortly after three o’clock in the morning, on October 27, 1946, the decedent received a telephone call at his home reporting an automobile accident on S.B.I. Route No. 37 about %th of a mile north of the Village of Olmstead, in Pulaski County, Illinois. Together with Officer Chesley Warren, the decedent drove to the scene of the accident where he found two trucks parked in the lane for south bound traffic and a passenger car in the ditch on the west side of the highway. The officers parked the police car south of the scene of the accident on the west shoulder of the highway. Officer Warren began an investigation while Officer Spencer, carrying a lighted fuse and flash light, directed traffic from a position at the rear and north of the parked trucks. One of the victims of the accident came to him, stating that her lost purse had been found, and the decedent turned to his left to send word to discontinue - the search. As he turned, a car driven by Coy L. Slack of Brownfield, Illinois, approaching from the north, struck the decedent and crushed him between the car and the rear of the truck. Officer Spencer was killed instantly.
+In her complaint, filed in this court on October 25, 1947, the claimant states that as administrator of the estate of Forrest Spencer, she granted a covenant not to sue Coy L. Slack, in consideration of the payment to her as such administrator of the sum of $5,000.00. She alleges that the Director of the Department of Public Safety consented in writing to this settlement, and waived on behalf of the respondent all rights against Coy L. Slack under the Workmen’s Compensation Act. She alleges that the $5,000.00 was received by her as administrator, and that she and each of the children received one-third thereof under the laws of descent.
+Claimant further alleges that the State Employees’ Retirement System of the State of Illinois has failed and refused to pay any part of the pension due claimant as a death benefit, of one-half the monthly salary of the decedent, payable to her each month. Claimant requests an adjudication of her rights to such pension, together with a determination of the extent of the legal setoff: which respondent may claim to such pension.
+At the hearing before Commissioner Jenkins, a purported release signed by the Director of the Department of Public Safety was offered by the claimant, and received in evidence. On cross-examination, claimant was asked whether or not she had received any sums of money on account of the death of her husband from any parties connected “either directly or indirectly with the cause of his death.” Over objection of counsel, claimant answered that she had received “from certain taverns under-the Dramshop Act” $10,500.00. There is no further evidence regarding the $5,000.00 payment to claimant as administrator, or the $10,500.00 payment made under the Dramshop Act.
+At the time of the accident the employer and the employee were operating under the provisions of the Workmen’s Compensation Act of this State and notice of the accident and claim for compensation were made within the time required by Section 24 of the Act; the accident arose out of and in the course of decedent’s employment. During the year immediately preceding his death, decedent’s earnings totalled $2,556.00; any award payable to claimant under the Workmen’s Compensation Act would therefore be in the aggregate sum of $5,760.00.
+Section 29 of the Workmen’s Compensation Act provides that if the death for which compensation is payable under the Act was caused under circumstances creating a legal liability for damages on the part of some person other than the employer to pay damages, such other person not being bound by the act, legal proceedings may be taken against such other person to recover damages, and if an action is brought by a personal representative of a deceased employee, such judgment is obtained and paid, or settlement is made with such other person, either with or without suit,, from the amount received by such personal representative therio shall be paid to the employer the amount of compensation paid or to’ be paid by him to such personal representative.
+It is obvious that the claimant in this case has received on account of the death of her husband moneys greatly in excess of compensation payable under the Workmen’s Compensation Act. The court specifically finds: that the amount payable to claimant,under the provisions of the Workmen’s Compensation Act of this State on account of the death of her husband is $5,760.00; that claimant has received, on account of the death of her husband, moneys in excess of that amount; that Section 29 of the Act therefore bars her recovery against the respondent.
+Award denied.
+Hugo Antonacci was employed to take and transcribe the evidence at the hearing before Commissioner Jenkins. Charges in the amount of $16.50 were incurred for these services,' which charges are fair, reasonable, and customary.
+An award is entered in favor of Hugo Antonacci in the amount of $16.50 payable forthwith.
