@@ -1,0 +1,24 @@
+---
+court: "Illinois Court of Claims"
+docket: "4102"
+decided: "1948-12-09"
+citations: ["18 Ill. Ct. Cl. 90"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hersel L. Houghton, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/18/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2762468
+---
+
+# Houghton v. State
+
+## Majority (Bergstrom, J.)
+
+Bergstrom, J.
+Claimant filed Ms complaint on July 8, 1948 to recover the sum of $1,035.00 as the value of phonographic records, albums, and equipment, damaged or destroyed by the alleged negligence of an employee of respondent.
+The record consists of the complaint, departmental report, transcript of evidence, claimant’s waiver of brief, and respondent’s waiver of brief.
+The two questions presented for determination are, whether the alleged damage was caused by the negligence of respondent, and if so, the amount of the damages sustained by claimant. The undisputed evidence shows that Robert Brown was employed by respondent as a jamtor in the Department of Public Health. It was part of Ms duties to fill a bottle with drinking water from an old fashioned bottle-type water cooler. He did tMs by connecting a rubber hose to the water faucet in the photographic dark room and inserting the other end of the hose to the bottle placed on the floor. He was in the midst of filling the bottle on the evening of September 9, 1947 when a fire broke out in the jamtor’s trash paper pickup box. He put out the fire but forgot about the running water, with the result that a considerable volume concentrated on the floor of the room where the bottle was being filled, seeped through the composition ceiling of the second floor, and then poured down in a considerable volume on to the phonograph records and equipment of claimant. From the record, we are of the opinion that the first question should be resolved in favor of claimant, and accordingly find that the damages sustained resulted through the negligence of respondent.
+With reference to the question of damages — the burden of proof is upon the claimant. It must be established by evidence from which a court is able to ascertain the extent of such damages by the usual rules of evidence and to a reasonable degree of certainty. It is also a well established rule that the best evidence must be produced of which the nature of the case is capable. The only evidence of damage in th einstant case is the uncorroborated testimony of claimant without the production of any books, records, or paid bills. He testified that approximately 1,050 records were destroyed or damaged; that their individual cost varied somewhat, namely, 49 cents to 85 cents each, and he thought that about $619.00 would cover their cost; that as far as he could remember he paid $56.00 for the damaged rack, then when further questioned said he traded $65.00 worth of records for the two new racks and that the records cost him about $46.00; that 850 envelopes, or shirts, were destroyed, which cost $3.50 per hundred, for which he claimed $24.00; that 800 record cards were destroyed, which cost $2.50 per hundred, for which he claimed $18.00; that 85 albums were destroyed, which had cost him approximately $64.00 to replace; that claimant, his wife, and another party worked approximately 265 hours after store closing hours to clean up the mess, for which labor he claimed $264.00. Obviously, the rather indefinite testimony of claimant is not the best evidence to establish claimant’s damages to a reasonable degree of certainty from which the Court can make a just and fair award. The Court is also of the opinion that claimant did not use reasonable care and caution to mitigate or minimize the damage. He testified that immediately after he noticed the water leaking from above, it sprung a flood-gap through the ceiling and practically all the water came down at once; that the phonograph record rack was so constructed that it caught the water as it fell and held it in the rack; that a substantial part of the damaged records were in the rack; that the rack, which was made of wood, got pretty well saturated and expanded considerably, resulting in a good deal of breakage. He testified, on cross examination, that he removed the things from the rack as soon as he could. Ordinarily, it takes more than a matter of minutes for wood to absorb water and expand to a point necessary for the breaking of records. Claimant was present when the water fell and it would appear that had he exercised reasonable alert action in removing the records from the rack that a substantial part could have been saved from breakage.
+For the reasons stated, the claim is hereby denied.
