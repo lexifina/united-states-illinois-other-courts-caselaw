@@ -1,0 +1,34 @@
+---
+court: "Illinois Court of Claims"
+docket: "88-CC-3495"
+decided: "1992-05-15"
+citations: ["44 Ill. Ct. Cl. 246"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roosevelt Lee, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/44/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3046097
+cites_cases: ["21 Ill. Ct. Cl. 282", "35 Ill. Ct. Cl. 782", "36 Ill. Ct. Cl. 326", "37 Ill. Ct. Cl. 251", "39 Ill. Ct. Cl. 175"]
+---
+
+# Lee v. State
+
+## Majority (Burke, J.)
+
+OPINION
+Burke, J.
+On March 30, 1988, Claimant, Roosevelt Lee, a prison inmate, filed his complaint in tort alleging various injuries resulting from the negligence of prison authorities. Claimant alleges that on July 23, 1987, while working a prison job assignment, he slipped on a dangerous grate and he fell into a vat of hot water. He further alleges he suffered burns and a wrenched back. He seeks damages for lost earnings, permanent injuries, and pain and suffering. His prayer for relief seeks $1,500.00.
+The cause was tried before Commissioner Robert Frederick. Claimant filed a brief but Respondent failed to file a brief. The commissioner has duly filed his report.
+On July 23, 1987, Claimant was an inmate at Dan-ville Correctional Center. His prison job was cleaning pots and pans. At the time of the accident, Claimant had been working at the job for three or four months. The water in the sink was not hot enough to cut the grease so Claimant obtained a five-gallon bucket of hot water from a vat. When he lifted the bucket to carry it back to the sink, his foot slipped off the concrete ledge and hit the railing. The railing shot straight from under Claimant and his leg went down in the well beneath the rail. He pushed the bucket away and threw his hand up to cover his face as he was falling into the vat of boiling water. He received severe burns. Claimant testified that numerous repair maintenance slips had been made out for this grate and well area where he fell prior to his fall but repairs were not made.
+Claimant twisted his back when he fell and suffered back pain. He had a thickness burn on his left forearm and a small abrasion on his left knee. The departmental report corroborated Claimant’s injuries. He was given a 48-hour lay-in and seen daily in the health care unit for eight days to change the dressing on his arm. He also saw Dr. Delgado for leg pain and back pain. The diagnosis of Dr. Delgado was mild dorsal sprain and contusion of the left leg. On September 3, 1987, Claimant saw Dr. Tanner for back stiffness and he was given a muscle relaxant pill. According to Claimant, at the time of the hearings on December 21,1988, he still had to sleep on a bedboard and still had sharp pains. Claimant did admit that he had been working since September of 1987.
+The State called three witnesses. Pam Lowery, the prison dietary manager, testified that she knew Claimant ever since he worked in the kitchen. She had seen Claimant carrying heavy items since the incident of July 23, 1987. Claimant had told her that he blamed the maintenance department for his injuries and that his fall had aggravated an old back injury. She stated Claimant had been a furniture mover and had previously hurt his back.
+John Dudek testified he was employed as a correctional food supervisor at Danville Correctional Center. He was in middle management of the dietary department at the prison and was supervisor of sanitation at the time of Claimant’s injuries. He testified it was a common practice to have inmates take hot water out of the vats prior to July 23,1987. It was normal procedure to do so to meet sanitation requirements of the department. He had seen Claimant take such hot water out of the vats prior to July 23, 1987, on many occasions, several times a day.
+Mr. Dudek described the vats as raised and having a spigot bottom. Running in front of the vats is a gírate with a well beneath it. The whole vat and grate system is up on a raised curb. The vats hold 60 gallons. He stated that the container Claimant was using when he fell held either five or 15 gallons.
+Mr. Dudek further testified he had warned all kitchen worker inmates that were working in his shift, including Claimant, that they were working in an extremely dangerous situation, that the grates have a tendency to fall through or slide, and that by no means are inmates or anyone to step on the grates with their full body weight. He informed them to try to avoid the grates as much as possible.
+Dr. Tanner testified that he treated Claimant. On July 31, 1987, Claimant first complained about his back pain and requested a bedboard. In September, Claimant still had some back stiffness. Dr. Tanner further testified that the medication for Claimants back was given for three weeks and that Claimant’s back injury did not appear to be permanent.
+The State has a duty to supervise the work of the inmates in State penitentiaries and to provide safe and adequate work tools. (See Hughes v. State (1984), 37 Ill. Ct. Cl. 251; White v. State (1987), 39 Ill. Ct. Cl. 175.) As an inmate, Claimant was required to take orders and carry them out. An inmate does not enjoy the same independence as a person outside of the penitentiary. To refuse to take hot water out of the vats would have subjected an inmate to disciplinary action, so inmates keep quiet and do as they are told. See Goodrich v. State, 36 Ill. Ct. Cl. 326; Moore v. State (1951), 21 Ill. Ct. Cl. 282.
+It was the normal procedure for the inmates to take hot water from the vats because the water from the sink was not hot enough to cut grease and meet Department of Corrections sanitary standards. Rather than obtain hot water from some safe source, the inmates were required to obtain hot water from a vat across a dangerous grate on a raised surface. The supervisors were aware of this dangerous condition and, though inmates were warned of the dangerous condition, nothing was done to correct it. (See Burns v. State (1982), 35 Ill. Ct. Cl. 782.) The inmates were required to work in a dangerous situation. The State in the instant case breached its duty to provide safe tools and working procedures by failing to provide hot water in a safe manner. We do not find comparative negligence on the part of Claimant because he was following what appears to have been normal procedures in an inherently dangerous situation.
+Claimant has requested an award of $1,500.00 for all of his injuries and pain and suffering in this case. Such appears to be reasonable under the facts presented.
+Based on the foregoing, it is hereby ordered that Claimant be, and is, hereby awarded $1,500.00 in full and final satisfaction of this claim.
