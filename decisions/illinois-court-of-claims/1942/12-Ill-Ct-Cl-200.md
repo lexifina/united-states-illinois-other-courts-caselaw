@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "3732"
+decided: "1942-09-08"
+citations: ["12 Ill. Ct. Cl. 200"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Equitable Life Insurance Company of Iowa, a Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/12/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2820874
+cites_cases: ["2 N. W. 2nd 765"]
+---
+
+# Equitable Life Insurance v. State
+
+## Majority (Fisher, J.)
+
+Fisher, J.
+Claimant is a corporation of Des Moines, Iowa, doing an insurance business in Illinois, and alleges that on the 19th day of June, 1941 there was paid under protest the sum of Two Hundred Ninety-eight and 13/100 Dollars ($298.13) to the Director of Insurance of the State of Illinois as tax on dividends applied toward the purchase of paid-up additions to policies issued by claimant in Illinois as part of its business for the year 1940 in this State.
+That in pursuance to a ruling by the Attorney General of Iowa, the Insurance Department of said State imposed a tax of two and one-half per cent (2%%) on all dividends credited in the form of paid-up additions during the year 1940 on all foreign life insurance companies doing business in Iowa as a part of their Iowa business.
+That as a result of the action by the State of Iowa in imposing said tax, the State of Illinois did, under paragraph 1056, chapter 73 of the Illinois Revised Statutes 1941, in retaliation, compel claimant herein to pay the aforesaid sum of Two Hundred Ninety-Eight and 13/100 Dollars ($298.13) on dividends applied toward the purchase of paid-up additions to policies issued by claimant in Illinois as a part of its 1940 business in Illinois.
+That said amount was paid under protest to the Director of Insurance of the State of Illinois on the 19th day of June, 1941.
+That on the 17th day of March, 1942, the Supreme Court of the State of Iowa, in the case of The Prudential Insurance Co. of America, vs. C. F. Green, et al., reported in 2 N. W. 2nd 765, held that the ruling of the Attorney General of Iowa was erroneous.
+Claimant prays for an award in the sum of Two Hundred Ninety-eight and 13/100 Dollars ($298.13).
+The record in this case consists of the complaint and respondent’s motion to dismiss.
+From the facts alleged, the State of Illinois insurance companies had been assessed in Iowa a tax of two and one-half per cent (2%%) on all dividends credited in the form of paid-up additions during the year 1940 for doing business in Iowa as a part of the Iowa business, and in retaliation therefor the State of Illinois, through its Department of Insurance, taxed Iowa insurance companies doing business in Illinois on the same basis. The assessment made by the Department of Insurance of the State of Illinois against Iowa companies was properly made, as it is not the business of the Department of Insurance to question the authority of the officials of Iowa to collect this tax and the legality of their action. It is the business, however, of the Department of Insurance of the State of Illinois, under Section 444 of the Illinois Insurance Code, known as the Retaliatory Provision, to protect Illinois insurance companies so that they can operate on a parity with foreign insurance companies.
+There is nothing in the record which shows that the Department of Insurance of Iowa could, or did, refund moneys paid by the Illinois companies in that State, although in view of the decision of the Supreme Court of Iowa in declaring the collection of this additional tax illegal, it is possible that some Illinois companies took appropriate legal steps and obtained a refund. In view of the purpose of the Statute under which the tax was collected, it would appear that the Illinois Department of Insurance made a proper levy of this tax and acted within their statutory authority in collecting it. Even if this court made awards strictly on the basis of equity and good conscience — which it does not do — the claim could not be allowed. This court is also of the opinion that there is no basis, in law or equity, on which an award can be made.
+Where a taxpayer has an adequate remedy in a court of general jurisdiction and is afforded a legal remedy to protect his rights, but fails to do so, he cannot be permitted to say that the tax was paid involuntarily or under duress. In the instant case the taxpayer did file a protest, but did nothing further. It should have, under the Statute, within thirty (30) days filed a bill in chancery seeking to restrain the deposit of such money in the State Treasury. Paragraph 172 of Chapter 127, Illinois Revised Statutes 1941, provides for the means of obtaining relief when moneys are paid under protest. When sums of money are received and paid under protest, the State Treasurer is under obligation to hold said sums for thirty (30) days, after which it becomes his duty to transfer it into the fund into which it would have been paid had it not been paid under protest. The State Treasurer may only retain the moneys in the Protest Fund where a temporary injunction is obtained within thirty (30) days restraining the transfer of said sum from the Protest Fund. It is a reasonable position to take, to say that a taxpayer who has not availed himself of the legal remedies the Statute gives him, should be denied relief at a later date, especially in view of the fact that government agencies must at some time know where they stand financially if there is to be any financial stability. As was said in the case of City of Oglesby vs. State of Illinois, 10 C. C. R. 694, on page 701:
+“Payment under protest, in order to justify a recovery of funds from the State involves not only due notice of protest at the time of such payment, but requires the further action upon the part of the claimant of enjoining the transfer of such money until the legality of such. payment can be determined. This provision is an important one as a matter of public policy to the entire financial structure of the State government. It is only by due notice of what funds previously paid to the State officers are tied up by injunction proceedings that the Director of Finance can determine the current financial status of the State.”
+For the reasons stated, the motion to dismiss is allowed, and the case is hereby dismissed.
