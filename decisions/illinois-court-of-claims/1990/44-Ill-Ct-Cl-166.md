@@ -1,0 +1,56 @@
+---
+court: "Illinois Court of Claims"
+docket: "86-CC-2925"
+decided: "1990-09-10"
+citations: ["44 Ill. Ct. Cl. 166"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gary McCord, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/44/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3047234
+cites_cases: ["25 Ill. Ct. Cl. 1", "25 Ill. Ct. Cl. 313", "34 Ill. Ct. Cl. 248", "36 Ill. Ct. Cl. 338", "38 Ill. Ct. Cl. 138"]
+---
+
+# McCord v. State
+
+## Majority (Patchett, J. Patchett, J. Montana, C.J.)
+
+ORDER
+Patchett, J.
+This cause coming on to be heard upon the motion of Respondent, Claimant having received due notice, and the Court being fully advised in the premises;
+The Court hereby finds that Claimant failed to file notice as required by section 22—1 of the Court of Claims Act (Ill. Rev. Stat. 1985, ch. 37, par. 439.22—1); that section 22—2 of the Act mandates the dismissal of any claim wherein Claimant has failed to file proper notice as required by section 22—1 (Ill. Rev. Stat. 1985, ch. 37, par. 439.22—2).
+It is hereby ordered that Respondent’s motion to dismiss be, and is hereby granted, and that Claimant’s complaint is hereby dismissed with prejudice.
+OPINION
+Patchett, J.
+This cause comes on for hearing upon the motion to dismiss filed by the Respondent. The Claimant filed his original complaint on April 9, 1986. The complaint stated a claim in tort because of events that took place on or about April 9,1984. Attached to the complaint was a copy of the notice of intent to commence action in the Court of Claims filed on April 4, 1985. The notice that was attached to the complaint was a copy of the notice received by the Court of Claims. Subsequent to the filing of the complaint, certain discovery was filed by the Petitioner. The Respondent answered the discovery on August 5,1987.
+On March 3,1988, the Respondent filed a motion to dismiss. The motion to dismiss was based on the failure of the Claimant to file a notice of intent to pursue a claim with the Attorney General. As we have consistently ruled, section 22—1 of the Court of Claims Act requires strict compliance. The Claimant must file a notice of intent to sue with the office of the Attorney General and the clerk of the Court of Claims within one year following the accrual of a cause of action for personal injury. Failure to comply with this notice provision requires a dismissal of the claim with prejudice.
+The motion to dismiss was filed by the Respondent on March 3,1988. On July 21,1988, this Court entered an order dismissing the cause, with prejudice. The Claimant had not filed any response to the motion to dismiss during the interim period.
+On August 15, 1988, the Claimant did file a motion for reconsideration. Attached to the motion for reconsideration was a copy of the notice of intent to commence action in the Court of Claims previously referred to. A copy of that notice was previously attached to the original complaint filed in this Court. Also attached to the motion to reconsider was an affidavit from Gregory Barrett, the attorney who was representing the Claimant at the time the original notices were filed and served.
+A close examination of the original notice of intent filed with the Court of Claims clearly indicates that the Claimant was aware that the Attorney General also had to be served with a notice of intent. The notice of intent to commence action in the Court of Claims, marked “Exhibit A” and attached to the complaint, and to the motion for reconsideration, clearly delineates the proper address for the Attorney General, as well as for the clerk of the Court of Claims. The basis of the motion to dismiss was that the Attorney General’s office stated that they had never received nor did they have in their files a copy of a notice of intent to commence a claim.
+The affidavit filed by attorney Barrett states that notices of intent to sue were mailed on April 3, 1985, to the Attorney General and the clerk of the Court of Claims. Attorney Barrett also stated that certified return receipts were received back from the United States post office indicating receipt of the notices of intent by the clerk of the Court of Claims, and also a receipt indicating service at the Attorney General’s office in Springfield, Illinois. However, the Claimant is unable to produce those receipts at the present time.
+The Respondent urges this Court to deny reconsideration and let the order dismissing this claim with prejudice stand. In so doing, the Respondent cites several cases previously decided by this Court which hold that the compliance with the notice requirements as set forth in section 22—1 of the Court of Claims Act (Ill. Rev. Stat., ch. 37, par. 439.22—1) are conditions precedent to filing a complaint against the State of Illinois for personal injury. Failure to comply with the notice requirements mandates the dismissal of a claim with prejudice. The Respondent has cited the cases of Palmer v. State (1964), 25 Ill. Ct. Cl. 1; Munch v. State (1966), 25 Ill. Ct. Cl. 313; Byrne v. State (1980), 34 Ill. Ct. Cl. 248; and McGee v. State (1985), 38 Ill. Ct. Cl. 138. Respondent has correctly stated the law, and we reaffirm those prior decisions.
+However, the Respondent also cites the case of Barton v. State (1984), 36 Ill. Ct. Cl. 338, for authority that the present claim should be dismissed with prejudice. A close reading of the Barton case shows several facts which are distinguishable from the case at hand. In Barton, like the case at bar, there were affidavits by both the Claimant’s attorney and the Attorney General’s office as to factual matters. In the present case, the Respondent has filed an affidavit by one of its attorneys. However, that affidavit simply states that notices are filed in the notice section of the Attorney General’s office when received. The affidavit also states that the attorney in question, a highly experienced assistant Attorney General, Suzanne Schmitz, has searched the notice section of their files and can find no notice submitted by the Claimant. The affidavit goes on to note that there are no other places where notices received in the office are stored.
+However, the affidavit of the Attorney General does not in any way counter the claims by the attorney for the Claimant as to the actual mailing of the required notice to the Attorney General’s office. The Attorney General urges us to find that receipt of the notice is required for compliance with the notice requirement.
+In the Barton case, the claimant had filed an affidavit stating that the doors to. the office were closed and locked at 4:25 p.m. when he attempted personal service of the notice. A counter-affidavit was filed indicating that the doors were open until 5:00 p.m. This is not the same kind of dispute before us. In the present situation, we have uncontradicted evidence by affidavit that the Claimant knew of the notice requirement, and Claimant complied with it by mailing the required notice. That leaves the possibility that either the United States mail failed to deliver the required notice, or that the Attorney General’s office misplaced it. We do not agree that actual receipt of the notice is required for compliance with the notice requirement. Both Illinois Supreme Court Rule 12 and Illinois Revised Statutes, chapter 1, paragraph 1026 would apply.
+“Illinois Supreme Court Rule 12: Proof of Service in the Trial and Reviewing Courts — Effective Date of Service by Mail
+(a) Filing. When service of a paper is required, proof of service shall be filed with the clerk.
+(b) Manner of Proof. Service is proved:
+(1) by written acknowledgement signed by the person served;
+(2) in case of service by personal delivery, by certificate of the attorney, or affidavit of a person, other than an attorney, who made delivery; or
+(3) in case of service by mail, by certificate of the attorney, or affidavit of a person other than the attorney, who deposited the paper in the mail, stating the time and place of mailing, the complete address which appeared on the envelope, and the fact that proper postage was prepaid.
+(c) Effective Date of Service by Mail. Service by mail is complete four days after mailing.
+Amended June 25,1971, eff. July 1,1971; amended eff. July 1,1975.”
+“Illinois Revised Statutes, Chapter 1, Section 1026:
+1026. Filing or payment by mail, effective dates — Duplicate filing or payment after notification of mail' not received — Registered mail, certified mail, and certificate of mailing as evidence
+1.25. Unless An Act otherwise specifically provides, any writing of any kind or description required or authorized to be filed with, and any payment of any kind or description required or authorized to be paid to, the State or any political subdivision thereof, by the laws of this State:
+(1) if transmitted through the United States mail, shall be deemed filed with or received by the State or political subdivision on the date shown by the post office cancellation mark stamped upon the envelope or other wrapper containing it;
+(2) if mailed but not received by the State or political subdivision, or if received but without a cancellation mark or with the cancellation mark illegible or erroneous, shall be deemed filed with or received by the State or political subdivision to which it was required or authorized to be directed on the date it was mailed, but only if the sender establishes by competent evidence that the writing or payment was deposited, properly addressed, in the United States mail on or before the date on which it was required or authorized to be filed or was due. In cases in which the writing or payment was mailed but not received, the sender must also file with, or pay to, the State or political subdivision to which the writing or payment was required or authorized to be directed, a duplicate writing or payment within 30 days after written notification is given to the person claiming to have sent the writing or payment, by the State or political subdivision to which the writing or payment was required or authorized to be sent, of its nonreceipt of the writing or payment.
+If a writing or payment is sent by United States registered mail, certified mail or certificate of mailing, a record authenticated by the United States Post Office of such registration, certification or certificate shall be considered competent evidence that the writing or payment was mailed. The date of registration, certification or certificate shall be deemed the postmarked date.
+Added by P.A. 76-1111, §1, eff. Aug. 28,1969.”
+Clearly, the Claimant attempted to do everything properly. Therefore, we hereby reverse our earlier order and vacate the order of dismissal. We remand this claim to the commissioner for further proceedings.
+ORDER
+Montana, C.J.
+This matter coming before the Court on the Petitioner’s motion for voluntary dismissal, the Court being fully advised in the premises, orders, adjudges and decrees as follows:
+1. Petitioner’s motion to voluntarily dismiss his claim against the State is hereby granted, and plaintiffs complaint is dismissed without prejudice.
