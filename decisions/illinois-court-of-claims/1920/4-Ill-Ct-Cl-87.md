@@ -1,0 +1,25 @@
+---
+court: "Illinois Court of Claims"
+decided: "1920-09-20"
+citations: ["4 Ill. Ct. Cl. 87"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Felix Carver v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2842693
+---
+
+# Carver v. State
+
+## Majority
+
+The claimant, Henry Felix Carver, files this claim for damages for injuries claimed to have been sustained by him on January 14, 1918, while in the performance of his duties as a guard at the State penitentiary at Joliet. While in the performance of such duties, he was attacked by one of the prisoners and severely cut and slashed with a knife. The State, through the Attorney General, has filed its demurrer to the declaration filed in this case, and in the opinion of the Court, the demurrer should be sustained.
+There is no liability on the part of the State in this case. The “Workmens’ Compensation Act” does not apply, as the evidence shows that the enterprise in which claimant was engaged is not included in the extra hazardous employment mentioned in section 3 of the “Workmens’ Compensation Act”, in force July 1st, 1917. Moreover, the State in conducting its institutions such as the Joliet penitentiary, is exercising governmental function and is not liable for injuries to those it employs. This has been repeatedly held in pervious decisions of this Court, such as "2lorissey v. State”, Vo. 2, Court of Claims, 267. In another case, this Court rejected the claim of the administrator of the estate of Harry Davy against the State of Illinois, holding that there was no liability on the part of the State. That was a case similar to this one. Harry Davy, a guard in the Joliet penitentiary, was killed while in the performance of his duty. The Court rejected the claim although it made a recommendation of a proper amount to allow to his widow in case the Legislature saw fit to do so.
+For the above reasons,, this claim is rejected.
+We make the following findings of fact in the case:
+That the claimant was an employee of the State of Illinois, serving as a guard in the State penitentiary at Joliet, and that on January 34, 1918, while in the performance of his duties as such guard, about the hour of 4:30 p. m., of said day, and while in the exercise of due care and diligence for his own safety, ho was attacked by a colored prisoner who was returning to his cell from his evening meal. The line of prisoners was apparently returning in an orderly manner when August Eskridge, one of the prisoners, broke out of line while on gallery 10 of one of the cell houses of said institution, and approached claimant and without provocation on the part of claimant, attacked and assaulted him by attempting to throw him over the railing of said gallery, and with a blunt knife, slashed him from the back of the neck forward across the throat and left cheek, making a gash 6 or 7 inches in length, and also cutting him across the face, leaving a gash about 4 inches in length, and also stabbed him in the back below the shoulder blade; that there was a severe struggle between claimant and his prisoner, and finally claimant broke away and rushed down the stairway of the gallery, bleeding and injured. He was there met by one of the other guards and taken to the hospital and placed under the care of the penitentiary physician. It required about 42 stitches to close the wound and claimant was in bed for about a week and did not resume his employment for a period of about 5 weeks after the injury.
+It appears from the evidence that there is a scar caused by the long gash across the face and neck of claimant, which still draws and becomes sore, and that there will be a permanent scar which will disfigure claimant. Claimant suffered considerable pain for about three months after the injury and the evidence shows that his face is drawn and becomes sore during the different changes of weather. After receiving this injury, claimant enlisted in the Marine Corps and was honorably discharged on July 26, 1919. Claimant was not required to expend any money for medical services or hospital bills, as the State furnished this service and attendance.
+Under the foregoing finding of facts, we have rejected this claim the State not being liable for the reasons hereinbefore set forth. We find that if at the time the claimant was injured, employees of the State were under the protection of the “Workmens’ Compensation Act”, the same as employees of private persons or corporations, claimant would be entitled to compensation under that Act.
+Under the circumstances of this case, if the Legislature sees fit to waive the legal defenses of the State, it would be an act of justice to appropriate not to exceed one thousand dollars ($1,000) as relief and compensation for all injuries sustained by claimant as claimed in his declaration.
