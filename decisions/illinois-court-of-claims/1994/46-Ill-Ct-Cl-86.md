@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "85-CC-2367"
+decided: "1994-05-16"
+citations: ["46 Ill. Ct. Cl. 86"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protective Insurance Co., Subrogee of Richard Fusselman d/b/a Gene Fusselman, Denver L. Echternkamp & William M. Gully, Subrogors, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/46/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5501352
+cites_cases: ["37 Ill. Ct. Cl. 104", "42 Ill. Ct. Cl. 8"]
+---
+
+# Protective Insurance v. State
+
+## Majority (Mitchell, J.)
+
+OPINION
+Mitchell, J.
+A final hearing on the above entitled claim was held on March 29, 1993 at the James Thompson Center, Chicago, Illinois. Stephen M. Passen and David G. Susler appeared on behalf of the Claimant, Protective Insurance Co. and Roland Burris, Attorney General, State of Illinois, by David Rodriguez, Assistant Attorney General, appeared on behalf of the Respondent, State of Illinois.
+From the testimony introduced at the hearing, it appears that the Claimant, Protective Insurance Co., was the insurer of a certain trucking company that employed as a driver Denver L. Echternkamp. On January 23, 1984, Echternkamp testified that at about 5:30 a.m. he was driving a tractor-trailer westbound on U.S. 24 at or near mile post 4 in Brown County, Illinois. He had driven a load of dairy products from Quincy to Springfield, Illinois, delivered the load and was returning to Quincy. He left Springfield at about 1 or 2 a.m. When he reached mile post 4, he was involved in an accident which resulted in the death of Stanley Max Hulme.
+He testified that it was snowing heavily and visibility was limited at the time of this accident. As Mr. Echtemkamp was driving westbound on U.S. 24 in the Mount Sterling area, he testified that out of nowhere came a pair of headlights that appeared to be in Mr. Echternkamp s lane of traffic. To avoid hitting the approaching vehicle, a small General Motors station wagon, Mr. Echternkamp stated that he eased his truck to the right. As he did so, his truck dropped off on to the shoulder, down to what turned out to be a six-inch drop-off. After the car passed, he tried to ease back onto the highway. He stated that he could feel the truck lurch against the edge of the six-inch drop-off.
+He stated that when the truck went off the shoulder, he was driving about 35 or 40 miles per hour. He felt that this was a safe and reasonable speed under the weather conditions. He stated that the left side of the tractor-trailer remained on the pavement while the full right side dropped off onto the shoulder. In order to bring his vehicle safely back on to the roadway, he stated that he decelerated and applied light pressure to the brakes. He stated the right front wheels finally regained the pavement but the rear dual axle kept sliding against the ledge. When the front wheels jumped up, he stated he felt the truck start to jackknife, so he released the foot brake and pulled the hand valve down to apply brakes to the trailer hoping it would straighten it out. However, he stated that the truck jackknifed, spinning in a counter-clockwise direction. It came to rest with the trailer blocking both the east and westbound lanes. At this time Stanley Max Hulme was driving eastbound on U.S. 24, was unable to stop and ran into the passenger side of the trailer. As a result of the impact, the truck slid around and came to rest on the south shoulder facing south. Mr. Hulme died as a result of the injuries he received in the collision.
+After the accident, Mr. Echtemkamp stated he got out of his truck and observed a large, lengthy drop-off along the northern shoulder where his tmck had dropped off. He stated there were no warning signs of any kind along the northern shoulder that would indicate to Mr. Echternkamp, or to any driver on the roadway, that there was a drop-off in that area. Mr. Echtemkamp stated he was not aware of any drop-off in that area before this accident. He also stated there is no overhead lighting on that stretch of highway.
+The Illinois State Police investigated the accident. Trooper Meyer and trooper Groesch, an accident reconstruction specialist certified by the State of Illinois, measured the drop-off from the highway pavement down to the shoulder to be six inches deep. This six-inch drop-off stretched for approximately one mile both east and west of the accident site. According to witnesses, the drop-off had existed for at least three years and probably as long as ten years.
+The experts for both the Claimant and the Respondent believe that the six-inch drop-off resulted in an unsafe condition. Furthermore, Claimants expert along with that of the Illinois State Police reconstruction expert believe that the drop-off was a contributing factor in the accident.
+The first issue the Court must deal with is whether the States failure to maintain the shoulder allowing a six-inch drop-off was a proximate cause of the accident which resulted in Stanley Max Hulme's death. We believe the cases of Peterson v. State (1984), 37 Ill. Ct. Cl. 104, and Seifert v. State (1989), 42 Ill. Ct. Cl. 8, as cited by the Claimant are applicable. The Court believes here as in Seifert v. State, supra that the State caused a dangerous condition to exist by neglecting to maintain the shoulders after having had actual or constructive notice of the defects.
+Therefore, it is the Courts ruling that the State was negligent in this case and contributed to the accident.
+The second issue for the Court to deal with is the amount of damages to be awarded. The Claimant on behalf of Mr. Echternkamp paid the decedent’s estate $300,000 in full settlement of their claim. The doctrine of comparative negligence applies in this case and the Court must now determine the percentage of the $300,000 which should be attributed to the State. Having reviewed all of the transcript and exhibits placed in evidence, it is the Court’s belief that Mr. Echternkamp was negligent in the operation of the truck; however, the Court believes the State to be 3373% negligent in this case.
+Therefore, the Court awards $100,000 to the Claimant, Protective Insurance Company, Subrogee of Richard Fusselman, d/b/a Gene Fusselman, Denver L. Echternkamp and William M. Gully, Subrogors.
