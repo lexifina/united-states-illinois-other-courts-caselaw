@@ -1,0 +1,26 @@
+---
+court: "Illinois Court of Claims"
+docket: "5092"
+decided: "1965-01-29"
+citations: ["25 Ill. Ct. Cl. 75"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Hopkins, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/25/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2782423
+---
+
+# Hopkins v. State
+
+## Majority (Pezman, J.)
+
+Pezman, J.
+Claimant, James Hopkins, seeks to recover for loss of use of property damaged by escaped inmates of the Illinois State Training School for Boys. Respondent does not dispute the facts, but contends that claimant failed to establish and prove that the damage to his property arose out of the negligence of respondent.
+On July 8, 1962, claimant was employed by the Illinois Youth Commission of the State of Illinois as a Cottage Parent I at the Illinois State Training School for Boys, St. Charles, Illinois. On the particular night in question, claimant’s duty was that of night custodian of the Security Building, commonly known as Roosevelt Cottage. He worked a shift from 10:00 P.M. to 6:00 A.M., and worked this same shift six and one-half nights per week, and had held this particular assignment for approximately two years. Roosevelt Cottage is a one-story building, which contains sixteen cells, where boys are confined for disciplinary purposes. The custodian on duty sits at a desk in a hallway at the front of the building. A wash room, a linen room, offices, a utility room, and a kitchen open off either side of this hallway. The hallway continues from the front of the building to the rear of the building, but a locked cage door bars access to the portion of corridor into which the cells open. In the portion of the building beyond the locked cage door there is a shower and eight cells on one side of the corridor, and a utility room and eight cells on the other side of the corridor. Each cell door is of solid metal, and contains a slot, approximately eight inches by ten inches, that goes up and down, and works with the same key that opens the cell door. One key unlocks the cage door, and a master key unlocks all of the cells.
+On the night of July 8, 1962, claimant reported for work at his customary time, and relieved a Mr. Lowry, who had been on duty during the previous shift. After Mr. Lowry left there were no other State employees in the building, and claimant was alone with the inmates. At approximately 11:00 P.M., one of the inmates called out for some toilet paper. Each cell has its own toilet bowl, but the inmates are not permitted to keep paper in the cells, because the paper can be used to flood the toilets and create a disturbance. Claimant unlocked the cage door, proceeded down the corridor to the cell of the inmate, who had called, and, as he was handing the paper to the inmate through the slot of his door, one John Egan came from his unlocked cell across the corridor, and attacked claimant with a piece of metal eighteen inches long and one-quarter inch thick, which he had taken from his bed. Egan, weighing 150 pounds, knocked claimant, weighing about 90 pounds, to the floor, took his keys away from him, and unlocked the cell of his fellow escapee across the hall. The two escaping inmates beat claimant, shoved him into an office in the front portion of the building, and left the premises taking claimant’s 1956 Buick Super Sedan, using the keys that they had forcibly stolen from him. The two escapees drove in the direction of the gate, and the gateman, seeing them coming, opened the gate for them, and let them out upon the highway. After he had let them through the gate, the gateman realized that they were not employees. In the interim, claimant recovered sufficiently to telephone for help. About a mile and a half west from the entrance of the school, the escaping inmates struck a curbing, turned the car over, and demolished it.
+Claimant must make sufficient showing of negligence on the part of respondent that the State of Illinois should have reasonably foreseen the consequences. The facts disclose that the guards on duty, prior to claimant’s arrival, failed to lock Egan’s cell after returning him to that cell from his shower; and, that they also failed to check the door of each cell before going off duty. It was not the practice of the incoming employee to make a check of the cells, nor was there an institution rule requiring him to do so. It does not appear from the testimony that claimant was guilty of contributory negligence in failing to check the cell doors. It is the opinion of this Court that claimant did not violate the rules of the institution.
+This Court, therefore, holds that claimant should not be held to a degree of care for his own safety, which was not required by the rules of the institution at the time that he was employed, and also at the time that the escape occurred. Callbeck vs. State of Illinois, 22 C.C.R. 722.
+Claimant’s ad damnum has been fixed by testimony in the transcript at approximately $545.00, that amount being a reasonable cost or market value of the vehicle.
+Claimant is awarded the sum of $545.00.
