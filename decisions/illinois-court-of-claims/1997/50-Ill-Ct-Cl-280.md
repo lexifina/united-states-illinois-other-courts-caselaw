@@ -1,0 +1,59 @@
+---
+court: "Illinois Court of Claims"
+docket: "92-CC-0744"
+decided: "1997-10-02"
+citations: ["50 Ill. Ct. Cl. 280"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patricia Byrd, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/50/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 753760
+cites_cases: ["27 Ill. Ct. Cl. 135", "40 Ill. Ct. Cl. 121", "44 Ill. Ct. Cl. 235", "44 Ill. Ct. Cl. 238", "45 Ill. Ct. Cl. 276", "46 Ill. Ct. Cl. 293", "47 Ill. Ct. Cl. 292", "47 Ill. Ct. Cl. 372"]
+---
+
+# Byrd v. State
+
+## Majority (Frederick, J. Frederick, J.)
+
+OPINION
+Frederick, J.
+This cause is before the Court on Claimant, Patricia Byrds, first amended verified complaint which was filed on February 10, 1995, alleging that the Respondent, State of Illinois, was negligent in its maintenance responsibilities as lessee of a building. Claimant alleges that on October 23, 1989, she was a business invitee of the Illinois Department of Public Aid, hereinafter referred to as “IDPA.” The IDPA was a tenant of the second, third and fourth floors a.t 6317 S. Maryland, Chicago, Illinois. Claimant fell as she descended stairs in a common area. Claimant alleges that the condition of stairs between the second and first floors caused her injuries.
+A trial was conducted in this cause on December 12, 1996, before the Commissioner. Claimant appeared at the hearing and testified. Claimants Group Exhibit No. 1, copies of 17 pages of various medical records, and Claimants Exhibit No. 2, wage loss verification, were admitted into the record without any objection. Respondent presented one witness, Mr. Victor Kurpita, the assistant supervisor of the building on the day of Claimants injury. Respondents Exhibit No. 1, a copy of a one-page report by a security employee, was admitted without objection.
+The Facts
+Claimant, Patricia A. Byrd, testified that she was a recipient of public aid. She was leaving the public aid office when she fell on October 23, 1989. The Illinois Department of Public Aid had its offices at 6317 S. Maryland, Chicago, Illinois. Claimant had to meet with her caseworker on the second floor.
+On the date of the injury, Claimant was employed as a bus attendant for Windy City Coaches. She strapped kids into the bus. Claimant worked twenty hours a week at the rate of $4.35 per hour.
+Claimant left the office and fell down the stairs leading to the first floor. She walked down 15 to 20 stairs with nine more stairs to go when she fell. Claimant testified she slipped on a “piece of paper, crack and striping in the stairs.” She reached for the rail but it was not safe. It was hanging off the wall. There were approximately ten candy wrappers on the staircase. Claimant thinks the wrappers caused her to fall. She further testified there were cracks in the stairs, that there was no striping on the stairs, and that the staircase was slick. Claimant fell face first down the last nine stairs. Her right hand hit the concrete floor. Her wrist may have been broken. Claimant then ran outside the building. There were two guards on the landing of the staircase above where she fell. One of the guards retrieved her and called an ambulance. Claimant did not go in the ambulance. She took the bus to the Chatham Clinic. At the clinic, she had an x-ray and her arm was put in a cast. The third finger on her right hand was “popped out” of place. Two fingers were put into the cast that went to her elbow. Claimants arm was fractured and tire cast went from the tip of her fingers to her elbow. Claimant testified she hurt and she cried when the doctor set her finger. The cast was on her right hand for approximately three weeks. She had pain in her hand for six weeks. She could not do anything with her right hand such as cook, bathe, comb her hair, or housework. Claimant took Ibuprofen for the pain. Claimant’s hand still hurt after the cast was taken off. The doctor instructed her on exercises to improve her strength.
+On cross-examination, Claimant stated that she saw the condition of the stairway on her way up the stairs but “didn’t pay attention when she was coming down the stairs.” Additionally, the Claimant had visited the same office and used the same stairs many times since 1980 to the date of injury.
+Respondent presented Victor Kurpita, a supervisor in administrative services with the IDPA. He was an assistant supervisor at the time of the incident. Mr. Kurpita supervised the people who take care of the facilities and was the liaison with the landlords. In 1989, he was supervising monitors that went to the buildings every other day. The monitors would check for any problems in the buildings, anything that needed to be done by the landlords or the State, and make the facility ready for staff and clients. Mr. Kurpita did not have any recollection of maintenance problems or loose railings or tiles with respect to the stairwell in 1989. This was the type of information that monitors would bring to him.
+The Department contracts with a janitorial service which cleans the facility nightly. If there were loose handrails or tiles, the Department was to notify the landlord and the landlord was responsible for repairs. On cross-examination, Mr. Kurpita testified that he had no knowledge of what Joe Hawkins, the monitor assigned to the building in question, knew in relation to the condition of the stairs in 1989. He did not know when the monitor last inspected the building prior to the Claimants fall and he did not review any maintenance records of the building prior to the hearing.
+Neither party filed a brief in this matter. Both parties communicated to the Commissioner that they would not file a brief. However, the parties did make closing arguments at the hearing.
+The Law
+The State is not an insurer of the safety of persons visiting its buildings. (Berger v. Board of Trustees of the University of Illinois (1988), 40 Ill. Ct. Cl. 121.) Rather, the State owes a duty of reasonable care to business invitees in maintaining the premises. (Hall v. State (1992), 45 Ill. Ct. Cl. 276.) The Claimant bears the burden of estabhshing by a preponderance of the evidence that the State breached its duty of reasonable care, that the breach proximatefy caused the injury and that the State had actual or constructive notice of the dangerous conditions. Hardeman v. State (1995), 47 Ill. Ct. Cl. 292.
+During the trial in this cause, the parties at times made reference to a lease, a contract for janitorial services, a deposition of Claimant wherein certain admissions may have been made, and motions to dismiss and responses to motions. Neither party presented into evidence any of these documents and, therefore, none of said documents are a part of this record and are not considered by the Court. The parties were advised prior to the hearing by the Commissioner that any evidence they desired the Court to consider must be made a part of the record at the hearing. Neither party filed a brief or any other documents subsequent to the hearing.
+From the testimony and exhibits, the Court makes the following findings:
+That the IDPA was the lessee of the second, third and fourth floors of the building in question;
+That the IDPA contracted for janitorial services;
+That Claimant was on the premises to conduct business with the IDPA during normal business hours;
+That Claimant fell on the steps leaving the IDPAs office on the second floor; and
+That Claimant fractured her right wrist, suffered from pain, lost two days of work, and lost the ability to attend to her personal affairs for a period of time.
+Claimant testified that there was debris on the stairs and that the surface tiles were cracked and broken. She testified that these conditions caused her fall. There was no credible evidence offered by the Respondent to rebut or refute this testimony.
+There was, however, no evidence presented by Claimant that the Respondent had notice of the condition of the stairs. The burden is on Claimant to produce such evidence. (Divis v. State (1969), 27 Ill. Ct. Cl. 135.) Mr. Kurpita stated that he did not recall any defective conditions on the day in question coming to his attention. He also testified that he was only contacted the day before the hearing and he did not review any documents in preparation for the hearing. His testimony is not credible on tire issues of whether dangerous or defective conditions existed at the time, or whether such conditions may have been reported to the lessor, or whether the Department or others had a duty to clean or repair the stairs. Respondent had control of the stairs and a duty to take action to keep them clean and in good repair. A janitorial service was hired to do so. It is clear from the evidence that the Claimant was an invitee for whom a duty of reasonable care was owed by Respondent. (Harder v. State (1991), 44 Ill. Ct. Cl. 235.) The salient issue in this case is whether the defective condition of the staircase existed for such a period of time as to allow the State to know of the defect and correct it. (Holman v. State (1995), 47 Ill. Ct. Cl. 372.) Constructive notice is to be determined on a case by case basis. Lambatos v. State (1992), 44 Ill. Ct. Cl. 238.
+The evidence shows that Claimant walked up the same stairs about 20 minutes prior to her fall. She presented no testimony that she reported a broken handrail and candy bar wrappers on the stairs to her caseworker or any guard or other employee of Respondent. She did not testify that she saw defective conditions 20 minutes prior to her injury.
+If Claimant failed to see defective conditions in such close proximity to the incident we cannot hold the State to constructive knowledge of a defective condition. The Respondent had a nightly janitorial serviced hired to clean the stairs. It was the Claimants burden to present evidence of actual or constructive notice. Claimant could have sought the monitors reports through discovery and presented evidence of notice if such evidence existed. No such evidence is before the Court.
+We find that Claimant has failed to meet her burden of proof in that she has failed to prove by a preponderance of the evidence that Respondent had actual or constructive notice of a defective or dangerous condition.
+For the foregoing reasons, it is the order of the Court that Claimants claim be and hereby is denied.
+ORDER
+Frederick, J.
+This cause comes before the Court on Claimants motion for a rehearing, and the Court having reviewed the pleadings, evidence, the Courts opinion, and Claimants petition, and the Court being fully advised in the premises, wherefore, the Court finds:
+1. That on October 2, 1997, the Court issued an opinion denying Claimants claim.
+2. That the Courts opinion denying the claim was based on the Claimants failure to prove by a preponderance of the evidence that the Respondent had notice of a dangerous or defective condition.
+3. That Claimant walked up the stairs she fell down just prior to the fall.
+4. That Claimant testified she did not pay attention when she walked down the stairs.
+5. That the fact Claimant fell does not prove the stairway to be dangerous or defective.
+6. That it was Claimants burden to prove a dangerous or defective condition and that the State had actual or constructive notice of the dangerous, condition or defect.
+7. That Claimant did not call the security guards to testify about a dangerous condition or defect and their knowledge thereof.
+8. That the State is not an insurer required to pay for all accidents that occur on its premises. Dewalt v. State (1994), 46 Ill. Ct. Cl. 293.
+9. That the Court’s decision denying this claim was based on the evidence and the law.
+Therefore, it is ordered that Claimant’s petition for a rehearing is denied.
