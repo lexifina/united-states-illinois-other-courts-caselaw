@@ -1,0 +1,19 @@
+---
+court: "Illinois Court of Claims"
+docket: "73-CC-392"
+decided: "1973-08-06"
+citations: ["29 Ill. Ct. Cl. 39"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Salvation Army, Claimant, vs. State of Illinois, Department of Public Aid, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/29/cases/0039-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5324076
+---
+
+# Salvation Army v. State of Illinois, Department of Public Aid
+
+## Majority (Per Curiam.)
+
+Per Curiam.
