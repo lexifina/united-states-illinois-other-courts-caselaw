@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "82-CC-1407"
+decided: "1984-09-10"
+citations: ["37 Ill. Ct. Cl. 190"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stratford Homes, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/37/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5814941
+cites_cases: ["153 N.E.2d 498", "19 Ill. App. 2d 290", "425 N.E.2d 1349", "99 Ill. App. 3d 835"]
+---
+
+# Homes v. State
+
+## Majority (Holderman, J.)
+
+Holderman, J.
+On October 1, 1980, Lincoln Land Special Education, a State agency acting on behalf of the Department of Corrections, entered into a contract with Classroom Distributors of Tomah, Wisconsin, to purchase a mobile modular classroom unit. On March 3, 1981, Classroom ordered a unit for the Lincoln Land contract from Claimant Stratford Homes. Claimant transported the unit to the Joliet Correctional Center and installed the unit on the premises. Lincoln Land made payments on the unit to Classroom’s assignee, the Bank of Tomah, as per contract, and the unit has been paid for in full. Classroom, however, failed to pay Stratford for its work on the unit. Classroom has filed for Chapter 11 bankruptcy relief. Stratford claims the State of Illinois, Department of Corrections, should pay for Classroom’s default because the State failed to obtain a bond from Classroom which would have protected Stratford from this situation.
+It is Respondent’s contention that there are two issues to be decided in this case:
+1. Whether the sale and installation of a mobile classroom unit constitutes a “public work” within the meaning of the Bond Act; and
+2. Whether the State is liable to a supplier, not in privity of contract with the State and who has not been paid by the State’s promisor, for not requiring its promisor, who has fully performed and been paid in full by the State, to post a bond.
+The Bond Act was intended to protect subcontractors and materialmen working on major public construction projects within the State from a general contractor’s default because the use of a mechanic’s lien against a public work is prohibited. (Board of Education Northfield Township H.S. Dist. 225 v. Pacific National Fire Insurance Co. (1958), 19 Ill. App. 2d 290, 153 N.E.2d 498.) To extend the Act to cover sales of commodities would unduly burden commerce by increasing the time and other costs of doing business.
+It is Respondent’s contention that this transaction was a purchase and sale of a commodity and therefore not a construction project. In support of its contention, Respondent sets forth that all State construction projects are required to go through the Capital Development Board (CDB). Respondent points out that not one of the 10 classroom units purchased went through CDB. This argument is based primarily on the fact that the modular classroom units are not considered construction projects because they are already put together before being brought to the site, and they are not considered permanent construction because they are used temporarily until permanent buildings meeting the Board of Education code can be built. It is Respondent’s further contention that if Stratford believed its relationship with Classroom was that of a subcontractor to a general contractor involved in a construction project, then Stratford was obliged to protect itself before doing work for Classroom by checking to see if Classroom had posted a bond. Stratford either negligently failed to look out for its own interests, or Stratford assumed the risk, based on a satisfactory four-year business relationship with Classroom, that Classroom would pay for materials and labor supplied by Stratford. Respondent points out that if Stratford was neither negligent nor assumed the risk, then it must also have regarded Classroom’s order as one for a commodity and Classroom’s contract with Lincoln Land as a commodity purchase.
+The language of the Bond Act precludes a suit against the State on a negligence theory for failing to obtain a bond for a public works project. Section 2 of the Bond Act expressly states:
+“that this Act shall not be taken to in any way make the State, or the political subdivision thereof entering into such contract (for public work), as the case may be, liable to such subcontractor materialman or laborer to any greater extent than it was liable under the law as it stood before the adoption of this Act.” Ill. Rev. Stat. 1981, ch. 29, par. 16.
+In Emulsicoat, Inc. v. City of Hoopeston (1981), 99 Ill. App. 3d 835, 425 N.E.2d 1349, in a carefully considered opinion, the Illinois appellate court for the first time interpreted section 2 of the Bond Act. The Emulsicoat court clearly states that the Bond Act and the Immunity Act preserved the State’s immunity where the State fails to require a bond as well as where a bond is procured. Emulsicoat, Inc. v. City of Hoopeston (1981), 99 Ill. App. 3d 835, 838,425 N.E.2d 1349, 1352.
+The facts of Emulsicoat are stronger but nevertheless analogous to those of this case. The plaintiff subcontractor furnished labor and materials to a general contractor who had a construction contract with the defendant municipality. The plaintiff claimed the municipality negligently failed to obtain a contractor’s bond as required by section 1 of the Bond Act (Ill. Rev. Stat., ch. 29, par. 15). The Emulsicoat plaintiff, unlike the Claimant in this case, undeniably was a subcontractor who had performed work on what was undisputedly a public construction project and was thus clearly an intended beneficiary of the Bond Act. Nevertheless, the appellate court denied the plaintiff relief against the municipality because the municipality’s failure to obtain a bond was not a breach of the statute and did not cast liability upon the municipality. The legislature intended that governmental immunity be retained and so it included the limitation on liability provision in section 2 to make its intent clear.
+It is the Court’s opinion that the opinion in the Emulsicoat case, cited above, must determine the decision of the Court. The Court therefore must deny an award and this cause is dismissed.
