@@ -1,0 +1,52 @@
+---
+court: "Illinois Court of Claims"
+docket: "75-CC-0717"
+decided: "1979-06-07"
+citations: ["32 Ill. Ct. Cl. 567"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ara Services, Inc. (Successor to Fry Consultants, Inc.), Claimant, v. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/32/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5323412
+cites_cases: ["230 N.E.2d 465", "25 Ill.Ct.Cl. 139", "87 Ill. App. 2d. 28"]
+---
+
+# Ara Services, Inc. v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Claimant filed this action seeking payment in the amount of $54,944.87 for services allegedly performed for the Respondent by Claimant.
+The matter was orally argued on the basis of a stipulation of facts between the parties and stipulated exhibits.
+The stipulation may be summarized as follows:
+On October 23, 1973, Respondent and Claimant entered into a written contract for services performed and to be performed by Claimant for the period of time of August 15, 1973, through November 15, 1973, as a consultant to the Department of Motor Vehicles, Secretary of State for the sum of $100,000.00 The parties agree that this contract is a valid and enforceable contract. The work was actually commenced in August, 1973, by oral agreement which was formalized by the written contract of October 23,1973.
+After the termination date of the contract, Claimant continued to supply its services from November 15, 1973, to February 15,1974, and it is for these additional services that the instant claim is made.
+The services performed during the written contract period and during the disputed period was in connection with a project called Vadis, the purpose of which project was for the revising of systems utilized for the collecting and disseminating of information on driver’s licenses, vehicle registration, and other motor vehicle type applications.
+During both the time encompassed by the written contract and the time period in issue, there were held weekly meetings between Claimant’s representatives and representatives of the Respondent including Patrick J. Halperin, Executive Assistant to the Secretary of State and Director of the Department of Management Services; Norman Ross Otters, Director of the Department of Motor Vehicle Services; I. Lawrence Richardson, Deputy Secretary of State and other representatives of the Secretary of State’s Office. During these weekly meetings, Respondent orally requested Claimant to perform additional services through February 15,1974, and Claimant did, in fact, perform these additional services.
+After February 15, 1974, in view of the fact that Claimant had sold its subsidiary which has been performing the work, it was agreed that Claimant would cease its performance and the work be completed by a former employee. The work was, in fact, completed and the former employee’s services were paid in full.
+The work performed by Claimant which is in dispute was a continuation of consulting efforts started under the original contract. The project could not have been completed if the work performed prior to F ebruary 15, 1974, had not been performed by Claimant. The requirement of the additional work was the result of various changes in the scope of the contract requested by Respondent’s representatives. It was known by Respondent’s representatives that the costs incurred by Claimant in performing the additional work exceeded the contract price of $100,000.00 but at no time did any individual connected with the project or any representative of the Respondent ask the Claimant to discontinue the work between November 15,1973, and February 15, 1974.
+From November 15,1973, and thereafter, although orally promised by the representatives of Respondent, and although repeatedly requested in writing and orally, no written agreement was entered into.
+It was agreed by the parties that $54,944.87 was a fair and reasonable amount for the additional services performed. Claimant has not been paid any part of this amount.
+In his deposition, Patrick J. Halperin, Executive Assistant to the Secretary of State and Director of the Department of Management Services admitted that the money was owed.
+Respondent argued, both in oral argument before the Commissioner and in argument on its motion to dismiss before the Court that although the work was performed and performed satisfactory no payment is authorized by law because of the lack of a written contract.
+This Court in its order of May 23, 1977, denying Respondent’s motion to dismiss stated that:
+“We do not depart from our holding in Schnepp & Barnes v. State 10 609 but we cannot say at this stage of the case that it is controlling. The better view is to permit Claimant to have his day in Court and from the evidence determine whether the work was indeed performed as a modification of a valid contract or whether it constitutes a new contract and thus void under Schnepp.
+This issue must be resolved as well as the issue of whether there was a waiver of the contract provisions requiring any cost increase to be in writing.”
+In view of the stipulation of the parties it is clear that the course of dealing between Claimant and Respondent shows that the original written contract was modified at the request and with the approval of duty authorized officials of the Secretary of State’s Office. The work performed during the disputed period of time was substantially the same type of work performed during the written contract period. The work performed after February 15,1974, was a continuation of the previous work performed by Claimant.
+The facts are such that impel one to the conclusion that the sevices in dispute in this case were actually a modification of the original written contract. As such, payment for the same is not voided under the doctrine enunciated in the Schnepp case where the Court held that even where the State receives a thing of value and appropriates it to its own use, payment is not authorized unless the statutory requirements in the execution and performance of the same are performed.
+The instant case is, therefore, distinguished from Schnepp in that it is a modification of a validly executed contract and not a new contract.
+In the case of Stahelin v. Board of Education, 87 Ill. App. 2d. 28, 230 N.E.2d 465 (1967), the Court held that a contractor was entitled to payment for extras even though the requests for the extras were not in writing as required by the contract and were not approved by the School Board as required by Statute. There, as in the instant case, the School Board had been aware that the extras were being requested and received the benefit of the extras and was therefore obliged to pay for those extras.
+The next issue to be decided by the Court is whether Respondent waived the provision in the contract providing for a written modification agreement in the event the contractor is obliged to incur costs in excess of the stated contract price.
+Halperin in his deposition testified as follows:
+Q. “Isn’t it true, and for this contact, that certain amplifications were made to the contract by the State, and certain services that were to be performed by the State were not thereby done, causing both an increase in the amount of services necessary to be rendered by Fry (Claimant), and also a delay in the completion of the project?
+A. Yes, because of our external requirement, we were not allowed to dedicate the amount of resources to give Fry (Claimant) total assistance. Therefore, it was incumbent upon them to assign certain resources to the project. Because of certain management decisions the scope of the contract was changed, and therefore became a little larger, therefore causing them to do more work to complete the stated goals. . .
+Q. Who sponsored Fry (Claimant) to perform work such as the implementation that was not originally called for in the contract?
+A. They were verbally authorized by myself, after discussions with the Executive Assistant for the Department of Motor Vehicles, Mr. Otters, and discussion with the Deputy, Mr. Lawrence Richardson.”
+Halperin further testified that all of the parties present at the weekly meetings were aware of the fact of the requirement of additional costs and all agreed that the Claimant was to continue working on the project.
+By reason of the fact that the increased costs and time requirements were the result of the failure of the Respondent to properly perform the support services contemplated by the original contract and by reason of various changes made in the project by the Respondent’s representatives and their knowledge of the increased costs, it is our conclusion that Respondent waived the provision of the contract requiring written modifications.
+In Marhoefer v. State, 25 Ill.Ct.Cl. 139 (1965), this Court held that where the State was responsible for delays and change of plans, the increased costs resulting from the same were to be borne by the State. The State further waived the written modification provision of the contract by reason of their affirmative conduct requesting, ratifying and supervising the additional work. There can be no clearer waiver of that provision than the fact that weekly meetings were held during the course of the disputed period which reviewed the work and authorized continuation of the work. The representatives of the State were at all times aware that changes were being made for which extra compensation would be sought. They understood and consented to the procedure which was followed by Claimant. They agreed to provide a written modification but failed to do so after many requests. The waiver of the requirement that modifications to the contract be in writing is clear.
+To allow the State to deny payment to Claimant by reason of its own derelictions in providing support services and in executing a written contract, while at the same time leading Claimant down the garden path in orally authorizing work on a weekly basis would be a gross injustice.
+To be paid from Fund #011-35051-1200-0000 regarding Secretary of State Contract #73-5.
+It is hereby ordered that the sum of $54,944.87 be and is hereby awarded to Claimant, Ara Services, Inc. (Successor to Fry Consultants, Inc.), in full satisfaction of any and all claims presented to the State of Illinois under the above-captioned cause.
