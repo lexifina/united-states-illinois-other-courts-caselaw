@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "3022"
+decided: "1939-03-15"
+citations: ["10 Ill. Ct. Cl. 499"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clement Warkins, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/10/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2812205
+---
+
+# Warkins v. State
+
+## Majority (Mb. Justice Yantis)
+
+Mb. Justice Yantis
+delivered the opinion of the court:
+It appears from the record that claimant went to work in the highway department on December 19, 1935 as an extra man in grubbing trees. He worked December 19th, 23rd, 28th, 30th and 31st. On the later date they were on S. B. I. No. 89 near Kasbeer grubbing ont trees under the direction of James Beilly. They had! cables and ropes attached to a tree and stretched across the hardroad ready to pull the tree over. The traffic was heavy and according to the foreman they waited to let as many cars get by as they could. One car came along and when the driver seemed impatient, the workmen unhooked the tacklebloclcs and let them down flat on the slab; then motioned to the driver to go ahead. When he drove over the ropes one of the ropes caught on the car and jerked claimant’s feet out from under him and dragged him about ten or fifteen feet. There were several inches of snow on the ground at the time, and when claimant got to his feet Mr. Beilly asked him if he was hurt and whether he should go to a doctor. Claimant said “No, that he was not hurt and would be all right.” He then returned to his work and finished the day. Foreman Beilly had received orders to lay off the extra men at the close of work that day and claimant was notified before leaving the job. Two or three days after this Foreman Beilly was told by a filling station attendant that claimant desired to see him. Beilly called at Warkins’ home and was told by the latter that his finger hurt. Beilly took the doctors’ copy of the accident report and went to see the doctor and had the latter make out the report according to the facts as given them. This report under date of January 7, 1936, signed by Dr. J. M. O’Malley, shows the nature of the injury to be, ‘ ‘ Contusion of muscles of right leg below the knee and injury to the knee joint.” The treatment prescribed was, “Best, hot applications and bandaging,” and the length of his disability was estimated at “one week.” A letter to Mr. Goeke of the highway department from Dr. O’Malley states that he saw the patient but once and that his bill for services to claimant had been paid. The only evidence of any payment is the amount of $1.00, paid by Mr. Goeke and this would indicate that only one treatment by the doctor was necessary or was incurred.
+Claimant contends that he was disabled until the last of February and that he should be entitled to $1.60 per day for the months of January and February, or a total of $94.40.
+Unless the period of temporary total incapacity for work lasted for more than six working days immediately following the accident, no award is due under the terms of the Workmen’s Compensation Act.
+We find from the record that claimant suffered an accident which arose out of and in the course of his employment. While he was apparently unemployed thereafter for a period of two months, the record does not support a finding that claimant suffered any temporary total incapacity for work as a result of such accident for a period in excess of six days thereafter. Dr. O’Malley’s report, dated January 7, 1936, shows that patient would be able to return to work in one week, and that there would be a complete recovery within that time of the injuries then complained of.
+On April 29, 1936 Dr. O’Malley wrote a letter to Mr. G-oeke of the highway department, stating that he saw the claimant but once, and that in his opinion at that time he should have been able to return to work in a week. In this letter he further stated that, “From the evidence I now gather it appears he was disabled for a much longer time * * * but he did not come to see me and I was not aware of his condition.”
+In his testimony at the hearing on March 12, 1937, Dr. 0 ’Malley stated that at the time he made out the above report and at the time he wrote the above mentioned letter, he thought the statements therein made were correct, and that to the best of his opinion they were correct. Apparently the only evidence as to claimant’s condition that Dr. O’Malley had, as referred to in his letter, were statements made to him by the claimant on or about the time the doctor wrote the letter in question.
+Foreman Reilly testified that immediately after the accident claimant got to his feet and when asked if he was hurt said, “Ño, he thought he would be all right,” and that claimant proceeded to work the balance of the day. That he laid him and the other extra men off that evening as that was the last work he had for them at that time.
+There is no competent and sufficient evidence in the record upon which to support an award for any period in excess of two weeks.
+Claimant was unmarried and had no children under sixteen years of age at the time of the accident, and his rate of pay would bring him within the minimum allowance of Seven and 50/100 Dollars ($7.50) per week compensation. As no compensation is payable for the first week’s disability, when such disability is for a period of less than 30 days, an award can be allowed herein for only one week.
+An award is hereby made in favor of claimant on the basis of Seven and 50/100 Dollars ($7.50) per week for one weeks’ disability from January 7, 1936 to January 15, 1936 in the sum of Seven and 50/100 Dollars, ($7.50) in full satisfaction for injuries growing out of said accident.
+This award being subject to the provisions of an Act entitled, “An Act Making an Appropriation to Pay Com-., pensation Claims of State Employees and Providing’ for the Method of Payment Thereof,” approved July 3, 1938 (Sess. Laws 1938 p. 83), and being, by the terms of such Act, subject to the approval of the Governor, is hereby, if and when such approval is given, made payable from said appropriation from the Eoad Fund in the manner provided for in such Act.
