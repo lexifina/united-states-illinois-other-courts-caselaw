@@ -1,0 +1,28 @@
+---
+court: "Illinois Court of Claims"
+docket: "3701"
+decided: "1942-06-15"
+citations: ["12 Ill. Ct. Cl. 179"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Christina Thompson, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/12/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2821968
+---
+
+# Thompson v. State
+
+## Majority (Chief Justice Damron)
+
+Chief Justice Damron
+delivered the opinion of the court:
+Christina Thompson, the claimant herein, seeking an award of $10,001.00, states in her complaint that she was a housewife residing at 514 Oneida Street, Joliet, Will County, Illinois, with her husband and two minor children. That she had been employed for several years by the Weber Dairy Company, of Joliet, Illinois, as a bookkeeper. That prior to the incidents hereinafter related, she was in good health and was strong, robust and physically able to do her work as a bookkeeper and also perform all her duties and obligations as a housewife. That on November 25, 1941, at about 7:45 P. M. while in her home she was suddenly confronted by one Philip Yates, a convict who had escaped from the Northern Illinois State Penitentiary, a State institution, located at Stateville, in the vicinity of Joliet, Illinois, who was in the act of attempting to rob her home; that on being discovered the said Philip Yates grappled with claimant, seized her by the throat and various parts of her body and applying force to her person choked, kicked and struck her many violent blows, knocking her teeth out, causing severe injury to her arms, legs, throat and various portions of her body, and threatened to kill her; that all of said ill treatment caused her nervous system to suffer a great shock from which she has suffered from that time and even up to and including the present time, also as a result of said injuries the claimant was unahle to eat properly for many weeks thereafter; that she was prevented for a long space of time from performing her duties as a bookkeeper at her place of employment; that she required medical attention and still requires medical attention; that she was unable to perform her household duties for a long space of time; that she was compelled to employ the services of another person to assist her in performing her household duties; that she still requires such assistance at great expense to her; that she has been advised, in order for her to attain normalcy, to take a complete rest and vacation for at least a year; that as the result of said assault she has been compelled to expend vast sums of money: For medical services $300.00; wages lost in occupation as bookkeeper up to date $36.00; wages lost as bookkeeper during period of twelve months unemployed (under medical attention) as result of injuries suffered, 52 weeks at $18.00 per week $936.00; sums paid for assistance in household duties the claimant was unable to perform because of said accident 10 weeks $120.00; estimated time in the future during which claimant will be compelled to employ help in house work estimated at 40 weeks at $12.00 per week $480.00; dental bill incurred because of injuries for loss of teeth, and new plate, etc. $75.00; and damages estimated for pain and suffering $8,054.00; making a total of $10,001.00.
+The claimant says that she would not have suffered any of these injuries if the said Philip Yates had been guarded by the respondent through its agents, servants and employees at its said penitentiary, and that the entire responsibility for the said escape of the said convict and the assault committed upon her rests entirely upon the negligence of the respondent, the State of Illinois, through its agents, servants and employees.
+The Attorney General has entered a motion to dismiss the case for the reason that there is no liability on the part of the respondent under the facts set forth in the complaint.
+This court has repeatedly held that the State in the conduct of its penal and charitable institutions is engaged in a governmental function and that in the exercise of such functions it is not responsible for the negligent acts of its servants and agents in the absence of a statute making it so liable. Jones vs. State, 8 C. C. R. 77; Palumbo vs. State, 8 C. C. R. 196, and cases there cited.
+The case of Wood vs. State, 9 C. C. R. 501, is analogous to the claim presented herein. In that case the claimant, a 70-year-old woman responding to a knock on the door of her home was met there by Joseph Flynn, an escaped patient of the Jacksonville State Hospital at Jacksonville, Illinois, who asked her for food. While claimant was preparing the same for him, Flynn seized her, dragged her to the basement where she was assaulted, this court refused to make an award, stating:
+"This court has repeatedly held that the State in the conduct of its penal and charitable institutions is engaged in a governmental function and that in the exercise of such functions, is not responsible for the acts of its servants and agents in the absence of a Statute making is so liable.”
+We have no authority to allow an award in any case unless it would be a legal liability on the part of the State if the State were suable. Crabtree vs. State, 7 C. C. R. 207.
+There being no legal liability on the part of the State we have no authority to allow an award, regardless of how much the case might appeal to the sympathies of the court. Award must therefore be denied. The motion of the Attorney General is granted, and case is dismissed.
