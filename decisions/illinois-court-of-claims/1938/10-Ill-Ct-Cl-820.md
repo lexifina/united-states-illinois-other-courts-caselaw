@@ -1,0 +1,25 @@
+---
+court: "Illinois Court of Claims"
+decided: "1938-12-20"
+citations: ["10 Ill. Ct. Cl. 820"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clara E. Bailey, Claimant vs. Illinois Emergency Relief Commission, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/10/cases/0820-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2817517
+---
+
+# Bailey v. Illinois Emergency Relief Commission
+
+## Majority (Mr. Justice Yantis.)
+
+Advisory Opinion by
+Mr. Justice Yantis.
+To the Illinois Emergency Relief Commission:
+Pursuant to your request for an Advisory Opinion, based upon the attached statement of facts submitted by you in the matter of the claim of Clara E. Bailey vs. Illinois Emergency Relief Commission, the following Opinion is rendered, based upon the aforementioned statement:
+In November, 1934 claimant was employed as an accounting supervisor for the Bond County Emergency Belief Committee, at 101 East Oak Street, Greenville, Illinois. From the statement of facts submitted by respondent, the following appears: On the 30th day of November, 1934 while performing her usual duties in and about the Belief Offices she arose from her chair to reach for certain papers which were on the far corner of her desk, and as she attempted to sit down claimant misjudged the position of her chair, striking the projection protruding from the side of the desk and the floor. She continued to work through that day and the following day, but complained to the Executive Director of the Bond County Emergency Belief Committee about soreness in her side and back. Mr. McLain apparently witnessed the accident, and made a report of same on December 3, 1934, showing that claimant had been directed to Dr. H. D. Cartmell. From statements attributed to Dr. Cartmell it appears that she went to him on December 3rd, complaining of soreness in her left side and back; that Dr. Cartmell taped her sides and told her to remain in bed; that she responded to treatment and that the last treatment he gave her was on the 27th day of December, 1934. His bill for such services was Fourteen ($14.00) Dollars and the record does not disclose whether same remains unpaid, or by whom paid.
+After being discharged by Dr. Cartmell, claimant appears to have gone at her own accord to an osteopath by the name of Dr. A. M. Keith, who treated the patient until the 8th day of June, 1935, when he considered that she had recovered and was in need of no further services. It further appears that he rendered claimant a bill for Sixty ($60.00) Dollars, Forty ($40.00) Dollars of which has been paid by her. It further appears that her full salary at the rate of One Hundred ($100.00) Dollars per month was paid to her during the time of her disability; the total amount that was so paid to her for unproductive time being One Hundred Ninety-nine and 97/100 ($199.97) Dollars. Thereafter she filed a claim known as Clara E. Bailey vs. State of Illinois, No. 2739, in this court, and under your statement of facts submitted, indicates her willingness to settle whatever right she may have, including unpaid doctor bills, for the sum of Seventy-Four ($74.00) Dollars. By her statement, in a transcript of evidence submitted from the Attorney General’s office, it appears that she was incapacitated from work from December 2nd to December 27, 1934, and from February 9, 1935 to March 25, 1935, a total of nine (9) weeks.
+There is considerable question in the court’s mind from the statement of facts submitted as to whether claimant’s accident is compensable. Her duties were apparently entirely clerical and there is nothing in the record to show that she was brought into contact with relief clients, or that any part of her work subjected her to hazardous exposure. However that may be, we are of the opinion that no compensation would be due, for it further appears that for the nine weeks during which she was absent from work during December, February and March, she was paid approximately One Hundred Ninety-nine and 72/100 ($199.72) Dollars. All of this was for unproductive time during which, compensation, if payable, would have amounted to only One Hundred Eight ($108.00) Dollars. Therefore, Ninety-one and 72/100 ($91.72) Dollars would be chargeable against any award to which she might be entitled for any additional time. There is nothing in the record to disclose that she would be entitled to an award in excess of such sum, and therefore in the opinion of the court payment of the further sum of Seventy-five ($75.00) Dollars to her by your commission, in settlement of her demands is not justified; nor would claimant be entitled to any award by this court upon the record before us. Her employment of Dr. Keith was without apparent authority from her superiors and was entirely upon her own initiative, and she would not be entitled, under the terms of the Workmen’s Compensation Act, to any award and payment for such services.
+We therefore recommend that the proposed settlement be declined.
