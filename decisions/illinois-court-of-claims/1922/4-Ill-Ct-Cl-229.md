@@ -1,7 +1,7 @@
 ---
 court: "Illinois Court of Claims"
 decided: "1922-09-11"
-citations: ["4 Ill. Ct. Cl. 229", "4 Ill. Ct. Cl. 233"]
+citations: ["4 Ill. Ct. Cl. 229"]
 reporter: "ill-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
