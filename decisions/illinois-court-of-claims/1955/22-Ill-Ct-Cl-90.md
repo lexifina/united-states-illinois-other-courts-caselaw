@@ -1,0 +1,37 @@
+---
+court: "Illinois Court of Claims"
+docket: "4395"
+decided: "1955-02-25"
+citations: ["22 Ill. Ct. Cl. 90"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glenn Larson, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/22/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5343374
+---
+
+# Larson v. State
+
+## Majority (Fearer, J.)
+
+Fearer, J.
+The petition in this case was filed in the Court of Claims on February 5, 1951. A hearing was had before the Commissioner on September 10, 1954 in the city of Kewanee, Illinois.
+At the hearing, a stipulation was entered into between the parties, by their respective counsel, as follows: On December 18, 1948, claimant, Glenn Larson, was employed by the Division of Highways of the Department of Public Works and Buildings of the State of Illinois as a section man. His territory included parts of Route No. 34 in Henry and Bureau Counties, Illinois. On said day at the hour of 9:00 P.M., claimant was driving a snow plow dli that portion of the highway, which had been assigned to him for maintenance. The snow plow struck an obstruction, skidded across the highway, and overturned, catching his right leg under the truck. The truck and plow were the property of the Division of Highways of the State of Illinois, and were furnished to claimant to be used in his work.
+It was stipulated that at the time of the accident claimant was earning, or receiving, a monthly salary of $203.00. The claim was brought under the provisions of the Illinois Workmen’s Compensation Act, which was in full force and effect as of the date of the accident. Respondent, the State of Illinois, elected to accept the provisions of said Act in effect at that time.
+It was further stipulated and agreed that the injury, received by claimant upon said date, occurred during the course of, and arose out of his employment by respondent; and, that at said time he was 59 years of age, married, but had no children under sixteen years of age dependent upon him.
+It was further stipulated and agreed that claimant was paid compensation for temporary total disability in terms of full salary and compensation at the rate of $19.50 a week from December 19, 1948 to and including March 11, 1950, a period of 64 weeks, making a total sum of $1,353.37; and that respondent has paid all hospital, medical and surgical expenses, totalling $5,609.87, for treatment and services rendered claimant on account of said injury.
+. It was further stipulated that the only issue in the case to be decided at this time is the nature and extent of the injury to claimant, as the result of said accident, and that a final determination can be made at this time, by reason of the fact that the injury has reached stage of permanency.
+This is one of the few “carry-over” cases, which had not been passed upon at the time the Act was amended removing compensation cases from the Court of Claims.
+The only evidence that the Court has to pass upon, as to the extent of specific loss sustained, is the testimony of claimant. He stated that he was not suffering any further pain in his right leg, but that it was necessary for him to wear a specially constructed shoe, which was made by a firm specializing in orthopedic appliances. This was made necessary by reason of the fact that there was a shortening of 1% inches in his right leg, as a result of the accident.
+The Commissioner, who heard this case, examined claimant’s right leg and the appliances therefor, and stated for the record that claimant was wearing a specially constructed black shoe, with a built-up heel, approximately 3 inches high, and with a sole, approximately % of an inch in thickness.
+Claimant further testified that his right foot was deformed in the ankle and instep. At the time of the hearing his ankle was stiff, and there was also a depression on the inside of the ankle, which appeared to be the entire depth of the flesh. He stated that he experienced difficulty in walking; that it tired after he was on it for a period of time; that he used two canes to aid him in walking; and, that he could walk a short distance without the aid of canes.
+Claimant further testified that he had made attempts to obtain employment, but had been unsuccessful, the reasons for which being his physical condition and age. On cross-examination, he further testified that he was not employed in any capacity, and that he had not worked since December 18, 1948. He further testified that the only injury, which he had received in the accident, was the fractured right ankle, and that he had had no previous injury to his ankle or leg.
+The Commissioner made a further statement for the record to the effect that, upon his examination, he found a scar, approximately two inches in diameter, on the inside part of the right calf of claimant; that the right calf was markedly smaller than the left calf; and, that at the time of the hearing the right ankle was swollen.
+Respondent offered the Report of the Division of Highways, dated July 9, 1954, which was admitted into evidence under Rule 16 of the Court of Claims. Objection was made by counsel for claimant to a letter, dated December 12, 1950, which was attached as an exhibit to the Report. It was written by Dr. Hugh Cooper, and contained an expression of his opinion as to the extent of the injury to claimant’s right leg. Objection was sustained as to the letter, in that it was for this Court to pass upon the question of permanent disability. We are of the opinion that the objection was well taken, and the Commissioner hearing the case should have sustained the objection to the exhibit.
+In reading the Report and the exhibits attached thereto, there is no question but what claimant suffered a severe and permanent injury to his right leg, necessitating both medical and surgical treatment, which was quite extensive, as indicated by the medical reports • attached to the Report of the Division of Highways. The fractured area became ulcerated, and after long and careful treatment skin refused to form over said area, and two skin grafts were performed to remedy this condition.
+The Commissioner, who heard this case, had an opportunity to examine claimant’s right leg and ankle. Being conversant in compensation matters of this nature, and by reason of his experience, he found that claimant suffered an eighty per cent disability, and recommended to this Court that an award be made for 152 weeks at a rate of $19.50 a week, which would make a total sum due of $2,964.00.
+We are, therefore, of the opinion that, under the Workmen’s Compensation Act at the time the injury was incurred, claimant is entitled to an award in the sum of $2,964.00. The entire amount of the award has accrued, and is hereby ordered paid in full.
+Lucille Redebaugh, 115½ W. Third Street, Kewanee, Illinois, was employed to take and transcribe the testimony in the hearing of this case, and charges in the total amount of $23.50 were incurred for these services, which charges are fair, reasonable and customary. An award is, therefore, entered in favor of Lucille Eedebaugh in the amount of $23.50.
+This award is subject to the approval of the Governor, as provided' in Section 3 of “An Act Concerning the Payment of Compensation Awards to State Employees”.
