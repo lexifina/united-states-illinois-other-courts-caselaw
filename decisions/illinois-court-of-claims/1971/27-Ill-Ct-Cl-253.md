@@ -1,0 +1,19 @@
+---
+court: "Illinois Court of Claims"
+docket: "6062"
+decided: "1971-08-30"
+citations: ["27 Ill. Ct. Cl. 253"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Norman E. Larson, M.D., Claimant, vs. State of Illinois, Division of Health Care Facilities and Chronic Illnesses, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/27/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2751359
+---
+
+# Larson v. State of Illinois, Division of Health Care Facilities & Chronic Illnesses
+
+## Majority (Perlin, C.J.)
+
+Perlin, C.J.
