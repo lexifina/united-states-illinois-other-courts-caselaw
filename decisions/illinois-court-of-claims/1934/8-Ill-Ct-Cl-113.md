@@ -1,0 +1,26 @@
+---
+court: "Illinois Court of Claims"
+docket: "1820"
+decided: "1934-06-19"
+citations: ["8 Ill. Ct. Cl. 113"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Cox, Claimant vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/8/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2809827
+---
+
+# Cox v. State
+
+## Majority (Me. Jvstice Lin,scott)
+
+Me. Jvstice Lin,scott
+delivered the opinion of the court:
+Claimant by his counsel, filed his petition with the clerk of this court on October 22, 1931 alleging that on the 25th day of June, 1931, he was in the employ of the Department of Public Works and Buildings, Division of Highways, State of Illinois, and was with others, engaged in the construction of a certain hard road near the Village of Chesterfield, County of Macoupin, and State of Illinois, and at the time of Ms injury was operating a trip mixer on a truck in dumping a mixture of concrete and Ms hand was caught between the body of the truck and the frame while engaged in that occupation; that at the hearing it was stipulated that the claimant was in the employ of the State at the time of the accident; both he and the State were under the Compensation Act and that the injury arose out of and in the course of the employment. The only questions in dispute are notice of the injury and demand; the nature and extent of the injury or disability and the amount of compensation due.
+Claimant was sixty-one years of age, and was receiving thirty-five cents per hour. He had no cMldren under sixteen years of age and had oMy been in the employ of the Highway Department for a week or two before the date of the injury. He was employed by Harvey Smith the foreman of the job and both Mr. Smith and one Lawrence Brooks, the General Superintendent received notice a short time after the injury. It was stipulated that compensation should be paid at the rate of Ten Dollars and Fifty Cents ($10.50) per week. Claimant did receive as compensation, the sum of Ten Dollars and Fifty Cents ($10.50) on August 3rd, the further sum of Twenty-one Dollars on August 11th, and the further sum of Twenty-one Dollars ($21.00) on August 19th, or a total of Fifty-two Dollars and Fifty Cents ($52.50), all in the same year of the accident.
+Immediately after the injury, claimant walked around the mixer and informed Harvey Smith that he had his hand mashed, and Smith directed him to be sent to Chesterfield. Mr. Brooks the superintendent was out there. Claimant visited Dr. Knoop who rendered first aid and claimant requested that he be transferred to a doctor at Carlinville, and was accordingly sent to Dr. Chamness who treated him from thence on, and now has a claim pending for the services rendered. X-ray pictures were taken which showed an injury to the bony structure of his fingers. Claimant had a compound fracture of the distal phalanx of the second finger of the right hand and a contusion of the third finger on the right hand. There is some flattening of the finger because there is an excess of callous there, and a part of the distal phalanx worked out.
+He was last treated by his physician on August 5, 1931, .and three weeks thereafter was the time fixed by the physician when he could return to work.
+It is apparent that this injury arose out of and in the course of his employment and the State did receive notice and had waived demand by paying compensation as above set forth and no question arises as to whether or not this accident arose out of and in the course of his employment.
+We, therefore, hold that the third finger of the right hand fully recovered; that the second finger was severely injured and that he has a fifty per cent, loss of the permanent and complete use thereof. Claimant has been paid Fifty-two Dollars and Fifty Cents ($52.50) for a temporary total disability, but nothing has been paid for the specific loss of the finger nor the full amount of his temporary total compensation. -The evidence shows that from the time his temporary disability ceased on the 26th day of August, 1931, sixty-one (61) days or eight and five-sevenths (8 5/7) weeks elapsed, which was the period of the total temporary disability. It was stipulated that the amount he was entitled to is Ten Dollars and Fifty Cents ($10.50) per week as compensation ; having received five (5) weeks compensation for this injury, he is further entitled to Ten Dollars and Fifty Cents ($10.50) per week for three and five-sevenths (3 5/7) weeks, or Thirty-nine Dollars ($39.00). The Compensation Act provides for thirty-five (35) weeks for loss of the second finger, and as he has sustained an approximate 50% complete loss of the use of the second finger, he is entitled to receive therefor the sum of Ten Dollars and Fifty Cents ($10.50) per week, for a period of seventeen and one-half (17%) weeks, or the total sum of One Hundred Eighty-three Dollars and Seventy-five Cents ($183.75). Adding to this, the said further sum of Thirty-nine Dollars ($39.00), makes a total of Two Hundred Twenty-two. Dollars and Seventy-five Cents ($222.75). We recommend an award in that sum.
