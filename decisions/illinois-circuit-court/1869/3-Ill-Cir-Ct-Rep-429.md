@@ -1,0 +1,48 @@
+---
+court: "Illinois Circuit Court"
+decided: "1869-01"
+citations: ["3 Ill. Cir. Ct. Rep. 429"]
+reporter: "ill-cir-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. H. Littlefield vs. William Green."]
+source_url: "https://static.case.law/ill-cir-ct-rep/3/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4794708
+cites_cases: ["47 Ill. 167", "9 Ind. 475"]
+---
+
+# Littlefield v. Green
+
+## Majority (Scott. J.:—)
+
+Scott. J.:—
+This is a proceeding under chapter 37 of the revised statutes of 1845, entitled "Elections,” to contest, for a certain cause set forth in the notice, the election held in Cass county-on the 9th day of April, A. D. 1867, to remove the county seat of said county from the town of Beardstown to the town of Virginia in said county. The act under which said election was held provides that any citizen oí said county who may legally vote at said election may contest the legality and validity of said election by giving his notice in writing of his intention so to do to any other citizen of said county who may legally vote at said election in opposition to the vote cast at said election by the person contesting, and said contest shall be conducted in compliance with the existing laws of this state with reference to the contest of elections for county ■officers, in all respects so far as the same may be applicable.
+This proceeding was commenced in the mode prescribed hy the statute, and was heard before three justices of the peace in Cass county, who made their certificate in favor of the contestant, H. H. Littlefield, who contested said election on behalf of those who voted against the removal of the county seat from the town of Beardstown, and thereupon the contestee perfected his appeal under the statute to the circuit court of Cass county.
+At the March term, A. D. 1868, of the Cass county circuit ■court, the contestee filed his petition, verified by affidavit, praying for a change of venue from said circuit on account of the prejudice of the judge of said circuit court, and on motion of the contestee the court awarded a change of venue in said proceeding.
+Affidavits on file show that after the court had determined to award a change of venue in said cause against the protest of the contestant, that the contestant, by his counsel, consented that if the venue was to be changed, the cause should be sent to the county of McLean, although that circuit was not the next nearest circuit.
+The papers in the cause were accordingly sent to the circuit court of McLean county, and were filed in that court on the 28th day of March, A. D. 1868. At the September term, 1868, of the McLean circuit court, the parties appeared, and the contestant, by his counsel, entered his motion to remand the cause to Cass county, which motion, without being heard by the court, was withdrawn by the contestant, and thereupon the contestant filed his affidavit and motion for the continuanee of said cause, which motion the court was about to overrule, and the motion to continue was by consent of parties withdrawn, and the cause set for hearing on the second day of the next December term of said court.
+On the second day of the December term, A. D. 1868, of said circuit court, the parties again appeared, and the contestant by his counsel entered his motion to remand this cause to the circuit court of Cass county, for the reason that the venue of said- cause was improperly changed.
+The contestee insists: First, that the venue was properly changed. Second, that the motion comes too late; for the reason that the contestant has submitted to the jurisdiction of the McLean circuit court, by filing his affidavit and -motion and consenting to a continuance and setting the cause for hearing.
+If the court has no jurisdiction of the subject matter of the controversy between the parties, no consent can confer the jurisdiction. If the court has jurisdiction of the subject matter of the controversy, then all irregularities in the manner of taking the change of venue are waived by the motion to continue, and the consent to set the case for hearing at the present term of this court.
+It is only necessary, therefore, to consider whether the circuit court of Cass county had power to award a change of venue in this case.
+The first section of the “Venue Act,” revised statutes of 1845, page 527, provides as follows:
+“If either party in any civil cause in law or equity which may be depending in any circuit court shall fear that he will not receive a fair trial in the court in which the action is pending on account that the judge is interested or prejudiced, or is related to or shall have been of counsel for either party, * * * such party may apply to the court in term time, or the judge thereof in vacation, by petition, setting forth the cause of the application, and praying a change of venue, accompanied by an affidavit verifying the facts in the petition stated, and such court or judge, reasonable notice of the application having been given to the other party or his attorney, shall award a change of venue to some county where the causes complained of do not exist.”
+It is insisted that the proceeding to contest an election is not a civil cause in law or equity within the meaning of this act, and therefore that there is no authority of law for changing the venue in such a proceeding.
+There is no special act of the legislature authorizing such change, and if allowed at all, it must be done under the provisions of the act above cited.
+The question presented seems to be entirely new. It has been argued with great ability on both sides by counsel who have made diligent search for authority exactly in point on this question, but no case has been found in which this exact question has been determined.
+I am not aware that it has ever been decided. If it has, I have been unable to find such ease, and if such case exists, I am persuaded that the diligence and earnestness of the counsel in this cause would have produced it for examination.
+Is this a “ease” in law or equity? If it is, the venue can be changed under the provisions of the act above cited. If it is not a “case” in law or equity, then I know of no provision, of law for changing the venue in such a proceeding.
+When this cause was first submitted to me, I was of opinion, and so announced to the counsel, that any question to be tried and determined by a court, was necessarily a “case” in law or equity. In the section of the statute above quoted the words “civil cause,”" “action” and “case,” are all used as meaning the same thing.
+An “action” is defined to be the “form of a suit given by law for the recovery of that which is one’s due, or it is a legal demand of a man’s right.”
+On the contrary, it would seem that a mere “proceeding” is the determination of a question by a person or persons designated by law to determine the same, who are not judicial officers.
+The case of Lighty v. French, 9 Ind. 475, is a case of contested election under a statute very similar to that of this state. In that case the court, after determining that no appeal would lie in such a case under the laws of that state, cite approvingly the ingenious argument of the counsel, thus:
+“Appeals to the supreme court are authorized by the provisions of the practice act in civil and criminal cases only. A proceeding to contest an election is neither the one nor the other, but simply what it is named — the contesting of an election.”
+It was not necessary to the decision of the question then before the court to adopt that line of argument; the statute allowed no appeal, and there the argument might have stopped.
+I was not inclined to adopt the reasoning of the court after the decision of the case, for it seemed impossible to me to define a question pending before and to be decided by a court except to designate it as a “case” in law or equity.
+I was at a loss to see why the “contesting of an election” is not the “form of a suit given by law for the recovery of that which is one’s due” as much as the demand by one man of another of so many dollars and cents is a civil cause in law.
+Since announcing the above views, and before the disposition of the case, the supreme court filed their opinion in the ease of Moore v. Mayfield, error to Morgan county.
+I regard this case as decisive of the question now before this court. It is here clearly decided that the proceeding to contest an election is not a “ease” in law or equity; that it is “merely a statutory proceeding for recanvassing the votes cast at an election, in which the illegal votes may be rejected, and those which are legal may be counted and the result ascertained.” It must, therefore, be the duty of the court designated by law to make such re-canvass to perform this duty itself, and it cannot transfer such duty to another court. If, then, the proceeding to contest an election is not a “case” at law or in equity, I am of opinion that the first section of the venue act does not authorize a change of venue in such cases.
+And as there is no special act of the legislature authorizing such change of venue, I am of opinion that the circuit court of Cass county had no power to award a change of venue in. this case, and consequently such order could give this court no jurisdiction to hear and determine this case on its merits.
+It becomes my duty to conform whatever imperfect views I may have formed on this question to the judgment of the supreme court, which I most cheerfully do. The cause is remanded to Cass county.
+47 Ill. 167. — Ed.
