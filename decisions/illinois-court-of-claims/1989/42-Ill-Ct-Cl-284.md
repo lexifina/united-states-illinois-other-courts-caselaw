@@ -1,0 +1,38 @@
+---
+court: "Illinois Court of Claims"
+docket: "89-CC-1221"
+decided: "1989-10-02"
+citations: ["42 Ill. Ct. Cl. 284"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mansfield Electric Co., Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/42/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3175609
+---
+
+# Mansfield Electric Co. v. State
+
+## Majority (Montana, C.J.)
+
+Montana, C.J.
+This cause comes on to be heard on the parties’ stipulation of judgment and joint motion for entry of judgment, due notice having been given, and the Court being advised;
+On October 31, 1988, the Claimant, Mansfield Electric Company, commenced this action by filing its complaint against the Respondent’s Capital Development Board (hereinafter referred to as the CDB) seeking $14,635.82 plus interest. In May of the following year the Respondent filed a departmental report compiled by the CDB and offered as prima facie evidence of the facts contained therein pursuant to section 790.140 of the rules of the Court of Claims (74 111. Adm. Code 790.140.) In relevant part the report stated as follows:
+1. The CDB entered into a contract with Mansfield Electric Co., on April 12, 1984, in the amount of $50,129.00 for electrical work, rehab, of vocational & dietary buildings, Illinois School for the Deaf, Jacksonville, Illinois, CDB Project No. 765-160-012, CDB Contract No. 84-0665-85.
+2. CDB issued change order no. 1 dated November 1,1984, in the amount of +$2,875.90 to revise electric outlets and lighting in three rooms and install electric panel as described on architect’s field order. Relocate electrical conduits at girls’ restroom in dietary building. The adjusted contract amount was $53,004.90.
+3. CDB issued change order no. 2 dated November 1,1984, in the amount of +1,099.82 to extend power to compressor as defined by equipment requirements in southeast corner of automotive shop. Connect equipment to power. Original location of welder was changed. Add two additional F-l fixtures adjacent to existing F-l fixtures. Switch with existing fixtures. The adjusted contract amount was $54,104.72.
+4. On or about November 21,1984, Mansfield (sic) Electric Co., submitted a final payment application for payment in the amount of $15,760.22.
+5. On or about February 19, 1985, CDB accounting section processed the final payment application for payment in the amount of $15,760.22.
+6. On or about February 25, 1985, CDB issued a certificate of final acceptance certifying that the work contained in the contract had been inspected, that all punch list items had been completed, and Mansfield Electric Co. had fulfilled all his contractual obligations, guarantees and was hereby authorized to receive final payment in full, including all retainage.
+7. On or about July 14,1988, CDB received a letter from Mansfield Electric Co. detailing subsequent information regarding the plans and specifications for this project which required the replacement of three single phase, oil filled, 75 KVA transformers. The replacement was made and the transformers removed from the site during the contract term. However, upon attempting to dispose of these units, it was brought to Mansfield’s attention by salvage dealers that the transformers contained Pyranol which is a PCB based material.
+Mansfield Electric Company contacted several hazardous waste disposal companies. Mansfield Electric contracted with Rose Chemicals of Kansas City, Missouri, who operated a hazardous waste disposal facility in Holden, Missouri, for the disposal of these materials. Rose Chemicals was paid and Mansfield believed that they had fully discharged their responsibilities with respect to the contract and hazardous waste.
+On or about April 17,1986, Mansfield was advised by a representative of Illinois Power Company acting in behalf of the potentially responsible parties that Rose Chemicals had not disposed of the hazardous waste for which it was responsible. Further, Rose Chemicals was in violation of Environmental Protection Agency rules and regulations, also, was in the process of seeking bankruptcy.
+On or about May 8, 1986, at Rose Chemicals PRP’s meeting, it was determined that each PRP would contribute $200 to cover initial costs of investigating the magnitude and severity of the problems. The steering committee contracted with Clean Sites, Inc., to direct the cleanup effort.
+On or about April 25,1988, the steering committee notified Mansfield Electric- Co. of a buy-out offer which represented the cleanup of the Rose site to the extent of the agreement in exchange for a payment of $2.60 per pound of material sent to Rose, which amounts to $12,324.
+8. The remaining balance of the line item appropriation was insufficient to cover the costs of Mansfield Electric Co., incurred under this contract. The remaining unobligated balance of line item appropriation number: 141-51198-6600-14-82 was $11,752.62.
+9. On or about December 13,1988, CDB was only able to issue change order no. 3 in the amount of $11,752.60 which is the remaining unobligated balance of the line item appropriation which covers a portion of the expense incurred by Mansfield Electric Company.
+CONCLUSION
+Capital Development Board agrees that Mansfield Electric Company is due the $14,635.82 as there was no mention of PCB contamination in the contract documents and the transformers were not labeled. Due to the unobligated balance of the line item appropriation being only $11,752.62, which the CDB issued change order no. 3 in the amount, would leave a contract balance of $11,752.62 which would have lapsed as of September 30, 1985. Therefore, CDB agrees that $11,752.62 is due and owing to Mansfield Electric Company.
+The pleading now before the Court was filed on July 21, 1989. Therein at paragraph three they stated: “3. Mansfield and the CDB agree that the court should enter judgment forthwith in favor of Mansfield and against the CDB in the total amount of Fourteen Thousand, Six Hundred Thirty-Five and 82/100ths Dollars ($14,635.82). This stipulated judgment amount is in full settlement of all claims made by Mansfield in its complaint herein.” This Court is not bound by such stipulations and we cannot acquiesce in approving this one. In effect the parties are asking us to award $2,883.20 in excess of the funds appropriated for the project. To award that money would be tantamount to making a deficiency appropriation. Appropriating funds is the prerogative of the legislature. For purposes of possible future consideration of this issue by the legislature, we point out that, other than the agreement of the parties and the conclusion of the CDB, there is nothing in the record to indicate that the Claimant suffered any more damages than the $200 investigation cost and the $12,324 cost stated in the bid for cleanup of the Rose site which, after the award we will enter, would leave uncompensated damages of $801.38. The departmental report does indicate that Rose was paid an unspecified sum prior to seeking bankruptcy. No bill of particulars itemizing the damages sought was filed with the complaint as required by section 790.50a(9) of the rules of this Court (74 111. Adm. Code 790.50a(9)).
+For the reasons stated above, it is hereby ordered that the Claimant be, and hereby is, awarded the sum of $11,752.62. Because of the lack of sufficient funds appropriated and the amount of the award, we need not comment on the issue of there not being a change order in an amount sufficient to cover the agreed settlement. Evans Construction v. State, No. 88-CC-0017.
