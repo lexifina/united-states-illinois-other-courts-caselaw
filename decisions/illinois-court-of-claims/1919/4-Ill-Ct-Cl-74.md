@@ -1,0 +1,28 @@
+---
+court: "Illinois Court of Claims"
+decided: "1919-03-03"
+citations: ["4 Ill. Ct. Cl. 74"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank J. Smith v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2837450
+cites_cases: ["135 Ill., 269"]
+---
+
+# Smith v. State
+
+## Majority
+
+The claimant, Frank J. Smith, brings this suit against the State for damages for injuries claimed to have been sustained by him on August 1, 1914, while performing his duties as a day turnkey in the Pontiac Eeformatory. On that day, while he was on duty, one of the inmates of said institution escaped, and said claimant was directed by the assistant superintendent who was his superior officer, to go and search for said escaped inmate. Claimant started in a buggy for the Eeformatory with someone else who was driving the horse, and in order to pass from- the grounds of said Eeformatory out upon the public highway, it was necessary to open a gate at the entrance to said grounds. While claimant and his companion were riding in said buggy and approaching said gate and before said horse and buggy had stopped, claimant jumped from the buggy to the ground in order to run ahead and open said gate and injured his left ankle and foot. He was treated at the hospital and had an operation performed on his foot, but he did not recover from his injuries and on December 21, 1917, the foot was amputated above the anide, and he claims that he incurred a large indebtedness for medical services and also claims damages for the injuries.
+In the opinion of the Court, there is no liability on the part of the State in this case. The Workman’s Compensation Act does not apply to this case, as the liability of the State under that Act is limited to the enterprises enumerated under section 3 of said Act, and it is not claimed that this case comes under the provisions of said section. The State is not liable in this kind of a case for the reason that ‘the doctrine of respondeat superior does not apply to the State’, Elmore v. Drainage Commissioners, 135 Ill., 269. Under the holdings of this Court in previous decisions, The State is not liable for the torts of its officers, agents and employees’, Henke v. State of Illinois, 2nd Court of Claims Reporte, page 11.
+The State, through the Attorney General, pleaded the Statute of Limitations. The declaration inThis case shows that the injury complained of occurred on August 1, 1914, and under the Statutes in force at that time, this claim would be barred within two years from the time it accrued. The declaration was filed in this Court on April 29, 1918. The defense of the Statute of Limitations having been raised, it is the duty of this Court to enforce same.
+For the reasons above stated, this claim is rejected.
+At the request of the Governor, we make the following findings of law and fact in this case:
+(1) That claimant was an employee of the State of Illinois, serving as turnkey in the Pontiac Reformatory and that while in the performance of his duties under the direction of the assistant superintendent who was his.superior officer, he injured his left ankle and foot, and as a direct and approximate result of said injury, it was necessary to amputate the foot above the ankle. Said Frank J. Smith is 37 years of age; is married, and has one child, 8 years old. Both his wife and child are dependent upon him for their support. He has no property of any kind. His salary at the Reformatory at the time he was injured was sixty dollars ($00.00) per month and he has continued in the employment of said Reformatory since said time except for the time he was in the hospital when his foot was amputated, and he is still in the employ of said Repormatory. The injuring of said ankle caused a diseased condition of the bone. Hecrosis set in and the bone became tubercular and it was necessary to amputate, the foot in order to save his life. The claimant now receives a salary of seventy dollars ($70.00) per month in said institution. "We further find that claimant expended two hundred and fifty ($250.00) for physicians’ services in endeavoring to be cured of his injuries and that he suffered considerable pain since said injury occurred in 1914.
+(2) We find that the authorities of the Pontiac State Reformatory are acting in a governmental capacity as a branch of the State Government and that the State is not liable for injuries received by its employees as the Workman’s Compensation Act does not apply to this class of cases.
+(3) We find that if the State of Illinois waived its souvereigntv and submitted to the same liability in this case that a private individual or corporation ivould bear, then and in that case the State would be liable to the claimant for his injury, if the Workmen’s Compensation Act applied.
+(4) We find that if at the time the claimant was injured, employees of the State enjoyed the protection of the Workman’s Compensation Act the same as employees of private persons or corporations, and that the State of Illinois had elected to come under the provisions of said Act, then and in that case, the claimant herein would have been entitled to compensation under such Act.
+(5) We believe that it would be only an Act of justice and right under the circumstances of this case for the State Legislature to appropriate not to exceed three thousand dollars ($3,000.00) as'relief and compensation for all injuries sustained by the claimant‘while working in the Pontiac Keformatory in the service of the State of Illinois.
