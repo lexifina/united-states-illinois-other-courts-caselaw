@@ -1,0 +1,30 @@
+---
+court: "Illinois Court of Claims"
+docket: "92-CC-3059"
+decided: "2000-09-26"
+citations: ["53 Ill. Ct. Cl. 54"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Gushes, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/53/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 92718
+---
+
+# Gushes v. State
+
+## Majority (Patchett, J.)
+
+OPINION
+Patchett, J.
+Claimant is claiming recovery for personal injuries sustained by him as a result of the alleged negligence of the Respondent, State of Illinois, by and through its agents and employees in the Department of Transportation in maintaining one of its roadways. The incident in question occurred on May 30, 1991, at approximately 8:00 p.m. in the northbound lane of LaGrange Road.
+There is little dispute as to the basic facts and circumstances surrounding the incident. On May 30, 1991, at approximately 8 p.m., he was going to visit a business associate. He was proceeding in a northerly direction on LaGrange Road, which has been known as the mile-long bridge because it spans 294 to the Stevenson Expressway. Claimant testified that a semi-trailer truck in front of his automobile apparently drove over an expansion joint on the roadway, which then became loose and flew onto the roadway. Claimant hit his brakes, but the metal expansion joint hit the car and went underneath the carriage of his vehicle and caused him to crash into the guardrail. Claimant was taken to LaGrange Hospital where he was treated for a possible concussion, shoulder and back injuries. He submitted to the Court all medical bills totalling $3,799 and seeks from this Court a total award of $12,000. It appears abundantly clear that the proximate cause of this accident was the fact that the expansion joint on the road in question became loose. There is no contributory or comparative negligence on the part of Claimant. In addition, there is no evidence of any negligence on the part of the driver of the semi-trailer truck.
+While the State is not an insurer of the condition of its roadways, it has a duty to exercise reasonable care in maintaining its roadways. The case law is clear that if a defect exists on the surface of a roadway maintained by the State, we must inquire further to determine whether the State can be held liable for injuries caused by that defect. Claimant must prove by a preponderance of the evidence that a dangerous condition or defect existed, and that the State had actual or constructive notice of it. In this case it seems clear that the State did not have actual notice of the expansion joint being loose. The very nature of the accident suggests that it was impossible to have actual knowledge of the defect.
+Each case of constructive notice must be decided on its own particular facts. As both Claimant and Respondent accurately suggest, the two general methods of proving constructive notice of a defect are the length and time the defect had existed and/or the defect being so obvious that notice can be imputed by the nature of the defect itself.
+In this case, the Claimant argues that the State had actual notice or actual notice of a similar expansion joint that was within 100 feet of the one in question being loose. It apparently came loose and was subsequently patched by the IDOT Maintenance Crew within five days prior to the accident.
+Mr. Gilbert Rendon testified that he was employed as a highway maintainer and foreman for the Illinois Department of Transportation for more than 20 years. He worked out of the Hillside Yard. He testified that on May 25, 1991, he had been contacted by a supervisor regarding an- expansion joint which had popped loose on the bridge deck on LaGrange Road between the Stevenson and I-294. Mr. Rendon found a loose expansion joint on the northbound lane on LaGrange Road. He was able to slide the expansion joint back into position and cold patch the area to create a smooth transition from one deck to the other. Mr. Rendon explained that expansion joints relieve the stress on the bridge deck so the concrete does not buckle. He believes there are approximately 20 to 30 joints along that stretch of road.
+After Mr. Rendon completed his repair, he notified the communications center of IDOT that a bridge crew should be notified.
+Respondent argues that, unlike a pothole that may grow over time, an expansion joint that pops is immediate by its very nature. They argue that it is impossible to have notice of the joint being loose, and that there is no evidence whatsoever that the patchwork performed by Mr. Rendon was negligent in any way. In fact, indications in the record reflect that his patchwork was holding. Further, there can be no contention that IDOT knew or had actual notice of this defect. The evidence implies that if they had notice they would have responded immediately as they did in Mr. Rendons case. However, there is no evidence that the bridge crew was notified and no evidence of any followup after Mr. Rendons repair to the other joint.
+It seems to the Court that the State would exercise reasonable care and diligence in the maintenance of its highways if they did in fact have their foreman follow up by reviewing the condition of the other expansion joints. This Court further believes that it is reasonable to believe that if one joint becomes loose, that others along that stretch of road should be inspected immediately. For this reason, we find liability on the basis of constructive notice, or alternatively on the failure of the State to inspect when they had actual notice that an inspection should have been made. Considering the doctor bills totalling $3,799, we find Claimants request for $12,000 in damages, regarding an accident which occurred almost a decade ago, to be reasonable. Accordingly, we award the same.
+The effective date of this order is the date stamped hereon.
