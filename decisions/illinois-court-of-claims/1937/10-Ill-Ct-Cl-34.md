@@ -1,0 +1,37 @@
+---
+court: "Illinois Court of Claims"
+docket: "2576"
+decided: "1937-09-15"
+citations: ["10 Ill. Ct. Cl. 34"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sterling Brewers, Inc., a Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/10/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2819048
+cites_cases: ["200 Ill. 202", "287 Ill. 469", "331 Ill. 330", "336 Ill. 645", "337 Ill. 122", "363 Ill. 418", "364 Ill. 254"]
+---
+
+# Sterling Brewers, Inc. v. State
+
+## Majority (Mr. Chief Justice Hollerich)
+
+Mr. Chief Justice Hollerich
+delivered the opinion of the court:
+Claimant is an Indiana corporation duly authorized to transact business in this State, and duly licensed as an importing distributor under the Illinois Liquor Control Act.
+It has been stipulated by the parties hereto that the material allegations of fact contained in the complaint hérein are true and correct, and the case comes on for hearing upon the facts set forth in the complaint, and admitted to be true and correct as aforesaid.
+From the complaint herein it appears that during the period from February 1st, 1934 to March 13th, 1934, claimant imported into this State twenty whole barrels; 1,719 half-barrels ; 1,023 fourth-barrels; 19,953 cases; and twelve half-cases of beer; that claimant computed the total of such imports to be 82,739 gallons, and paid to the Department of Finance a tax of two cents per gallon thereon, to-wit, $1,654.78; that as a matter of fact, the total of such imports was 80,000% gallons, on which the tax legally required to be paid was $1,602.01.
+It further appears from the complaint herein that during the period aforementioned, claimant sold to certain named retailers in this State the aggregate amount of 10,646% gallons of beer, on which it paid the Department of Finance a tax of two cents per gallon, to-wit, the sum of $212.93; that each such sale was made under the mistaken assumption that the claimant was required to pay the tax in the first instance, and add the same to its charge for such beer; that thereafter the Liquor Control Commission and the Department of Finance, or one of them, determined that the tax in question should be imposed upon and paid by the retailers; that thereupon the Liquor Control Commission, or the Department of Finance, again collected the amount of the tax required to be paid on such beer from such retailers, whereby such tax was twice paid to the respondent.
+It further appears from said complaint that the aforementioned period was a period of uncertainty and confusion in the administration of the Illinois Liquor Control Law, and the aforementioned payments were made by claimant without the benefit of administrative rulings and orders such as were subsequently promulgated by said Liquor Control Commission, and said Department of Finance, and were made by the claimant in fear of the penalties provided in the Illinois Liquor Control Law for the failure to comply with the requirements thereof.
+Claimant asks for a refund of the amount overpaid by it as aforesaid, to-wit, $52.77, as well as the amount which it claims was erroneously paid by it as aforesaid, to-wit, $212.93, making a total amount of $265.70.
+The rule is well established in this State that where an illegal or excessive tax is paid voluntarily, with full knowledge of all the facts, the same cannot be recovered. It is equally well established that where such tax is paid under a mistake of fact, it is not considered as having been paid voluntarily ; also that where such tax is paid under a mistake of law, it may not be recovered. Yates vs. Royal Insurance Co., 200 Ill. 202; Board of Education vs. Toennigs, 287 Ill. 469; School of Domestic Arts vs. Harding, 331 Ill. 330; Richardson Lubricating Co. vs. Kinney, 337 Ill. 122; Hettler Lumber Co. vs. Cook County, 336 Ill. 645; Cooper Kanaley & Co. vs. Gill, 363 Ill. 418; American Can Co. vs. Gill, 364 Ill. 254.
+In the case of Western Dairy Co. vs. State, No. 2916, decided at the May 1937 term of this court, the question involved was whether a corporation which had paid an excessive franchise tax as the result of its own mistake or error was entitled to recover the amount of the excess so paid. After a consideration of the authorities upon the subject, we there held that where an illegal or excessive tax is imposed by reason of the negligence or inadvertence of the taxpayer and thereafter paid by him, such payment is not made under a mistake of fact and cannot be recovered.
+The item of $52.77 was paid as the result of an error on the part of the claimant in computing the gallonage upon which the tax should be paid. The facts with reference to such gallonage were peculiarly within the knowledge of the claimant. There was no error on the part of the respondent. The tax was paid voluntarily and with a full knowledge, or means of knowledge, of all the facts, and solely as the result of an error on the part of the claimant. Under such circumstances, and under the authorities above set forth, the claimant is not entitled to a refund of the excess tax so paid by it as aforesaid.
+The' payment of the item of $212.93 as above set forth, presents a different question. The tax there involved arose under the provisions of “The Malt and Vinous Beverage Act,” of 1933. Sections 12, 13 and 15 of such Act provided as follows:
+Section 12 — “A tax is imposed upon the privilege of engaging in business as a manufacturer or as an importing distributor at the rate of two cents per gallon on all malt and vinous beverages sold by such manufacturer or importing distributor in the course of such business.” * * *
+Section 13 — “Every manufacturer and importing distributor shall between the first and fifteenth day of the next calendar month after the taking effect of this Act and of each calendar month thereafter, make return under oath to the Department of Finance of all malt and vinous beverages sold by him in the course of such business during the preceding calendar month and shall at the same time pay to the department the tax herein imposed."
+Section 15 — “The Department of Finance may make such reasonable rules and regulations as may be deemed necessary for the administration of the duties vested in it by the provisions of this Act.”
+Under the aforementioned provisions, the tax in question was required to be paid by the claimant and not by the retailer. The Department of Finance was authorized to make reasonable rules and regulations for the administration of the duties vested in it, but had no authority to make any rules or regulations which were inconsistent with the provisions of the statute; consequently, any rules or regulations adopted by the Department, where the tax in question was required to be paid by the retailer instead of the distributor, were unauthorized and void. The mere fact that the tax was twice paid to the State, does not give the claimant a right of recovery, as the tax was required to be paid by it. If anyone was entitled to a refund on account of the double payment, it was the retailer who was not legally required to pay the tax.
+Under the law then in force, the claimant was required to pay the tax, and consequently is not entitled to a refund.
+Award denied. Case dismissed.
