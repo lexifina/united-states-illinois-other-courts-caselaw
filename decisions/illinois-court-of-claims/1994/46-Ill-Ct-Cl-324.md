@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "90-CC-1548"
+decided: "1994-02-04"
+citations: ["46 Ill. Ct. Cl. 324"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glenn Jones, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/46/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5504499
+cites_cases: ["40 Ill. Ct. Cl. 99", "42 Ill. Ct. Cl. 247"]
+---
+
+# Jones v. State
+
+## Majority (Frederick, J.)
+
+OPINION
+Frederick, J.
+Claimant, Glenn Jones, an inmate with the Illinois Department of Corrections, seeks damages against Respondent, State of Illinois, in the sum of $100,000 for injuries sustained by Claimant by the actions of a correctional officer. Claimant’s complaint contends that on September 21, 1989, Claimant was returning from the chow hall when he was struck and injured by a correctional officer for no reason.
+At the hearing before the Commissioner, Claimant testified that on September 21, 1989, Claimant was an inmate with the Illinois Department of Corrections. The institution was on deadlock but the inmates were allowed to leave their cells to eat. Claimant testified that when he was returning from eating, a correctional officer stopped the line and put his arm up and told Claimant to hold on and then hit Claimant in the mouth with his elbow. Claimant testified that he then pushed the officer back, was sprayed with mace, and was then later attacked by the same officer in the company of additional officers. Claimant contends that he was beaten while handcuffed. Claimant testified that he could not tell if the blow with the officers elbow was deliberate because Claimant said he “wasn’t even paying no attention to him, you know.” No words had been exchanged. Claimant admitted that it could have been an accident. The blow to Claimant’s head by the correctional officer’s elbow did not cause any injury. Claimant contends that after receiving the blow, Claimant just pushed his hand down and said to the officer, “watch what you’re doing.” Claimant contends that he did not push the officer’s hand down violently. Claimant had no previous problems with this particular correctional officer. Claimant testified that after he pushed the officer’s hand down, the officer went for his mace. Claimant contends that after the initial incident, he was beaten and kicked by multiple officers. After the incident complained of, Claimant was given medication when medical personnel came to his cell to see him which continued for a week. Claimant contends that he does not suffer from his injuries.
+Claimant received discipline by being placed in segregation for a year.
+On cross-examination, Claimant testified that the officer whose elbow struck the Claimant was simply doing his job by directing the line traffic. On cross-examination, Claimant admitted that the correctional officer had accidentally struck Claimant with his right elbow in the nose. Claimants nose did not bleed nor did he suffer any fracture, nor was the skin in his face injured. Claimant contends that when he pushed the officers arm down, it was simply a “common reaction.” Claimant admits that Claimant was not supposed to come in physical contact with an officer. Claimant further admits that when he touched the officer he, in a sense, assaulted the officer.
+Claimant explained that his complaint arose not so much from the fact that he could have been written a disciplinary ticket for pushing the officers arm down but that he was thereafter beaten or handled roughly by the officer in question and other officers.
+Correctional Officer Raymond Hall was called to testify by Respondent. Officer Hall testified that on the date and time in question he had been instructed to move inmates upstairs. Inmate Jones was one of the inmates. Hall testified that he told the inmates to “take it upstairs.” None of the inmates moved so Hall advised the inmates if they were not going to move, he was going to have to use chemical agents. Hall testified Claimant tried to “break past me.” Hall extended his right arm out and Claimant pushed it down. Claimant then grabbed Hall by the hair and started hitting Hall about the face and head. At that time, the rest of the inmates jumped Officer Hall. Another officer “up on the catwalk” fired a shotgun warning shot. At that time, Hall jerked away from Claimants grip while Claimant still retained a hold on Hall’s hair. Hall gassed the Claimant and every other inmate who was in the flag area with his chemical agent. Hall testified that Claimant broke and ran down the gallery and up a back staircase. Hall went looking for the Claimant and another inmate named Michaels who had assisted Claimant in assaulting Hall. When Hall found the Claimant, Hall attempted to restrain the Claimant with cuffs and Claimant struggled. Hall testified that necessary force was used to subdue the Claimant, get him cuffed, and remove him from the unit. Hall escorted the Claimant for medical treatment, advising medical personnel that Hall had sprayed Claimant with a chemical agent. Hall testified that following this incident, he was off work from nine months to a year with back and head injuries.
+Hall testified that he had had no previous encounters with the Claimant.
+Claimants “version” of the incidents from which Claimant contends he was injured are substantially refuted by clear and credible testimony offered by Respondents witness, Officer Hall. Indeed, not only was Claimant not injured in the manner alleged, but instead, Claimant was the aggressor against Officer Hall. There is absolutely no credible evidence to support Claimant’s allegations.
+The issues in this case are not complex. The evidence offered by Claimant is directly contradicted by Officer Hall. Claimant was impeached on cross-examination. Under the circumstances, we believe that the testimony of the correctional officer was more believeable than that of the Claimant. (Peters v. State (1987), 40 Ill. Ct. Cl. 99.) The Claimant has the burden of proof and we conclude he has not sustained his burden of proof. Ball v. State (1989), 42 Ill. Ct. Cl. 247.
+It is therefore ordered that this claim is denied.
