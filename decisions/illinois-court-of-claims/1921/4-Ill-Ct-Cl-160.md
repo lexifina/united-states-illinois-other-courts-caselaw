@@ -1,0 +1,19 @@
+---
+court: "Illinois Court of Claims"
+decided: "1921-01-19"
+citations: ["4 Ill. Ct. Cl. 160"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Browning Company, an Ohio Corporation v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2840545
+---
+
+# Browning Co. v. State
+
+## Majority
+
+The claimant is an Ohio corporation, but is duly authorized to do’ business in the State of Illinois. Pursuant to section 102 of the General Corporation Act of this State, claimant made its annual report in writing to the Secretary of State of Illinois for the calendar year 1919, on a form furnished by the 'latter. Claimant negligently, but without any intent to evade the laws of the State of Illinois, failed to include in said report certain detailed information called for in paragraphs 10 to 16, inclusive, of said form, said information relating to the total value of the property of the claimant, everywhere, the total value of the property of the claimant located in Illinois, the total business of the claimant for the year 1919 transacted by it at or from places of business in Illinois, and the total business of the claimant transacted everywhere during the- year 1919. The Secretary of State of Illinois received said report, but failed to call claimant’s attention to the fact of claimant’s failure to furnish said detailed information, or to request claimant to furnish same thereafter. The Secretary of State proceeded to assess against claimant a franchise tax of $500, based upon all the.authorized capitalization ($1,000,000.00) of claimant, and also assessed against claimant an additional fee of $485 for claimant’s certificate of authority to do business in the State of Illinois, based upon all the authorized capitalization of claimant. Claimant, on August 31st, 1920, paid the tax and fee thus assessed, but under protest. The total value of all tangible property of claimant everywhere is approximately $1,118',170.00, and the total value of all.its tangible property located in Illinois is approximately $100. The total business of claimant everywhere in 1919 was $2,-810,964.00, and its total business in Illinois for 1919 was $190,089.00. Upon these figures the claimant should have been assessed a franchise tax for the period from July 1, 1920, to June 30, 1921, of only $22.50, and should have been xequiied to pay an additional fee for its certificate of authority to do business in Illinois of not more than $2.50, it having previously in 1919, paid an initial fee for such certificate of $20.00. Claimant asks for a refund of $960, the excess paid by it over the amount which should have been assessed, in franchise tax and additional fee.
+The State makes no defense to this claim, and consents that judgment may be entered against the State for the amount claimed. It is clear that under the principles of law announced by the Supreme Court of this State in Missouri Pacific Railroad Company v. Utilities Commission, 292 c. 427, the State of Illinois could not collect a tax based upon the business and property of a corporation admitted to do business in this State, which is transacted or located elsewhere than in this State. And further in the opinion of this Court it was in no sense the intention of the Legislature as expressed in the General Corporation Act that such a tax should be collected or attempt made to collect such a tax. The money paid by claimant was paid under protest and under circumstances arising from a mistake of fact, and it is the judgment of this Court that the claim should be allowed. We accordingly award the claimant the sum of nine hundred sixty dollars ($960).
