@@ -1,0 +1,25 @@
+---
+court: "Illinois Court of Claims"
+decided: "1917-05-07"
+citations: ["3 Ill. Ct. Cl. 110"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl P. Dennett and George F. Griffin, Executors of the Estate, of Thomas A. Griffin, Deceased v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/3/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2838566
+---
+
+# Dennett v. State
+
+## Majority
+
+Thomas A. Griffin, a resident of Boston, Massachusetts, died on August 12, 1914, leaving a will which was duly admitted to probate in the County of Suffolk, Massachusetts, wherein claimants were appointed executors.
+Decedent owned certain real and personal property in Illinois, and was also the owner of 60,511 shares of common stock and 16,586 shares of the preferred stock of the Griffin Wheel Company, a Massachusetts corporation, which was doing business in Illinois, and owned property in Illinois. He was also the owner of 1,600 shares of the preferred stock of the Hnited States Steel Corporation, a New Jersey corporation, doing business in Illinois.
+Ancillary probate proceedings were had in the estate of the decedent in the Probate Court of Cook County, Illinois, and an appraiser was' appointed by the County Judge of Cook County to determine the fair market value of the estate for the purpose of fixing the inheritance tax in the estate, on October 13, 1914. The appraiser’s report was filed with the County Judge on December 28, 1914, and ivas approved by the order of the County Judge, entered on December 2-8, 1914. On February 26, 1915, an appeal was taken from the order of the County Judge to the County Court of Cook County, and a final order was entered on April 19, 1916, and from that order an appeal was taken to the Supreme Court of Illinois on December 21, 1916. The Supreme Court of Illinois, in the case of People v. Dennett, reported in 216. Illinois Reports at page 43 reversed the order of the County Court in part and remanded the cause. Subsequently the case was rédocketed in the County Court of Cook County, and an order entered in accordance with the opinion of the Supreme Court. On the order of the County Judge, the Executors paid to the County Treasurer of Cook County, an inheritance tax of $51,933.70 on January 19, 1915, being the total amount assessed, $54,667.05 less five per cent for payment within six months after the death of the testator. This tax was assessed on the theory that the shares of stock of the Griffin Wheel Company were taxable under the Illinois inheritance tax law, because thirty-six per cent of the tangible property and assets of that corporation was located in Illinois, and that thirty-six per cent of the value of the shares were taxable in Illinois, and a like tax was fixed on fourteen per cent of the value of the stock in the United States Steel Corporation, on the theory that fourteen per cent of that corporation’s tangible assets were- located in Illinois. The tax so assessed was approved by the County Judge, and this part of the order urns appealed from the County Court, and it was modified to the extent that that court found that the tax should have, been levied on fifty per cent of the value of the stock in the. Griffin Wheel Company, and that the shares of stock in the United States Steel Corporation were not appraisable and taxable under the Illinois inheritance tax law.
+The question in the Supreme Court was as to whether or not the shares of stock in the Griffin Wheel Company were taxable under the laws of Illinois, and that court held that this stock was not assessable, and the final order of the County Court of Cook County on January 13, 1917, made in conformity with the finding of the Supreme Court, found accordingly, and also found that the tax properly assessable against the estate of the decedent was $10,598.29.
+As this Court has repeatedly held, that claimants having paid the tax within the six months period, which entitled them to a five per cent discount in the amount of payment, had the proper tax been assessed in the first instance, claimants would have paid $10,598.29, less 5%, or $10,068.38.
+Claimants have done everything that should have been done to entitle- them to a refund of the excess tax paid. Appeals were taken and perfected within proper times, and claimants are entitled to a refund of the difference between the amount actually paid, and the amount that should have been paid, taking into consideration the fact that 5% wras deducted from the amount paid, for payment- within six months, and that 5% would have been deducted if the proper amount had been paid within six months.
+The State, by the Attorney General, in its statement filed admits the validity of the claim and the regularity of all proceedings necessary to secure the refund.
+It is consequently the judgment of this Court that claimants be awarded the difference between $51,933.70 and $10,068.38, or forty-one thousand eight hundred sixty-five and 32/100 ($41,865.32) dollars.
