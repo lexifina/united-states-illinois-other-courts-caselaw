@@ -1,0 +1,26 @@
+---
+court: "Illinois Court of Claims"
+decided: "1919-01-30"
+citations: ["4 Ill. Ct. Cl. 57"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Ryan v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2844326
+cites_cases: ["161 Mass. 391", "96 N Y. 71"]
+---
+
+# Ryan v. State
+
+## Majority
+
+The claimant, Joseph Ryan, seeks to recover damages for injuries which he claims were received by him on Sept. 15, 1916, on the quarry train at the Joliet penitentiary where he was serving his term as a prisoner on conviction for the crime of larceny. He was assigned by one ICelly, superintendent of the stone quarry operations, to the duties of brakeman on the quarry train which conveyed stone from the quarry to the main line of the railroad. It was a narrow gauge railroad and on it were operated a small engine and small cars. Claimant claims that while making the coupling of two loaded stone cars, his foot became wedged between a guard rail and the main rail and before the train could be stopped, several loaded cars of stone passed over his foot and it was severed- above the ankle. In attempting to dislodge the wedged foot with his right hand, the hand was also severed. Plaintiff was treated at the prison hospital and the foot and hand were amputated there.
+The evidence as to how the injury occurred is practically undisputed. The evidence, however, tends to show that said Kelly had given said Ryan and other brakemen directions that they should not steji over the outside rail of the narrow gauge track when making a coupling, and when Mr. Ryan was injured, it seems that he was violating orders given him by his superior. It appears also from the evidence that the track was quite narrow and that Ryan could have worked on the outside of the rail of the track and reached over about two feet with his hand and coupled the cars without stepping over the rail between the cars.
+The State has filed a demurrer to the declaration, setting up that the doctrine of respondeat superior is not applicable to the State; that in the absence of Statute, the State is not liable for the torts of its officers, agents and emplo)rees and that in conducting the State penitentiary at Joliet, the State is exercising a governmental function and is not liable for injuries to the inmates thereof or those it employs.
+In our view of this case, it is not necessary to discuss the evidence in detail. This Court, as well as the Superior Court of the State, has repeatedly held ‘that the rule of respondeat superior is not applicable to the State’,- — -Jasper v. State, 2nd Court of Claims, 323; Taylor v. State, 2nd Court of Claims, 243, and Elmore v. Drainage Commissioners, 135-Ill., 269., and this Court has also held ‘that the State is conducting its penitentiary, is exercising a governmental function and is not liable for damages’, — Taylor v. State, 2nd Court of Claims, 243. The quarrying of the stone in the Joliet penitentiary is merely incidental to and a part of the governmental function of conducting the penitentiary and it cannot be said that it is a separate and distinct enterprise conducted by the State for profit, but is part of the plan for providing employment for the inmates of the institution and of carrying out the sentences of hard labor imposed on them. The general doctrine held by the Courts of the different states seem to be that ‘public officers having the custody of prisoners are not liable to a prisoner for injuries caused by defective machinery with which he was put to work, nor is a municipality liable/' O'Hare v. Jones, 161 Mass. 391; Alamago v. Albany Company, 25 Hun. (N. Y.), 551; Lewis v. State, 96 N Y. 71.
+We quote from part of the decision in the latter case, as follows:
+“The claimant was not a voluntary servant for hire and reward nor was the State his master in any ordinary sense. He was compelled to labor as a means of reformation and to endure imprisonment as a punishment and for the protection of the community. While employed lie was subject to such regulations as the keeper charged with his custody might from time to time prescribe, and if, in the course of service, lie sustained injury, it must be attributed to the cause which placed him in confinement.” We think that this doctrine is applicable to the case at bar, aside from the rule that the doctrine of respondeat superior is not applicable to the State.
+Counsel for claimant contends that the Act of 1917, creating the Court of Claims, has practically repealed the rule that the doctrine of respondeat superior does not apply to the State, and that this Court should hear and allow claims of this kind on the ground that they should appeal to the good conscience and equity of the Court. This Court has held in other cases presented at this term of Court, that said Act does not authorize this Court to allow any claims which are not based on principles of law .and equity, however much such cases might appeal to the sympathies of the Court.
+We are therefore of the opinion that the state is not liable in this case and that the demurrer to the declaration should be sustained. The claim is therefore rejected.
