@@ -1,0 +1,40 @@
+---
+court: "Illinois Court of Claims"
+docket: "5682"
+decided: "1980-05-13"
+citations: ["33 Ill. Ct. Cl. 6"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ronald J. Kohut, a minor, by his mother and next friend, Mary Kohut, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/33/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2714274
+cites_cases: ["23 Ill. Ct. Cl. 141", "30 Ill. Ct. Cl. 643"]
+---
+
+# Kohut v. State
+
+## Majority (POCH, J.)
+
+POCH, J.
+The complaint seeks damages for personal injuries alleged to have been sustained by Claimant on a State highway.
+The complaint alleges that Claimant was injured on September 12,1968, at approximately 2:56 a.m. when the car he was driving struck a cement curbing on the west side of Route 53 approximately 50 to 80 feet south of the Chicago, Burlington & Quincy Railroad overpass in Lisle, Illinois.
+Claimant alleges that he suffered severe personal injuries caused by the Respondent’s alleged negligence in constructing the roadway in such a way that it suddenly narrowed from four lanes to two lanes, in failing to post any signs or other devices warning of such sudden narrowing and/or failing to paint the curbing or edge of the road to warn motorists of the alleged sudden narrowing.
+Claimant testified that at the time of the accident he was 19 years of age. He had been working as a short order cook from 10:00 a.m. to 7:00 p.m. on September 11,1968. At 10:30 p.m. on September 11,1968, he picked up some friends and went to Lake Villa and commenced the return trip at about 2:00 a.m. on September 12,1968, with a friend.
+He admitted to having drunk a can of beer at 11:00 p.m. and one at 1:00 a.m. in violation of the Illinois drinking age in effect at that time, and that on the trip which commenced at 2:00 a.m. his passenger had been drinking beer ip the vehicle.
+As the Claimant approached the area of the accident, he did not observe any warning signals or flashing barricades of any kind other than a sign posting the speed limit at 40 m.p.h. at which time he reduced his speed to 40 m.p.h. He was, however, aware that he was in a construction zone by reason of the fact that the lane marking dividing the two southbound lanes ceased just north of the accident’s scene.
+As he proceeded south on Route 53, the right front of his wheel struck the cement curbing at a point where the roadway suddenly narrowed from four lanes to two lanes causing his vehicle to be thrown onto the northbound lanes and into a head-on collision with a northbound vehicle.
+It was undisputed that the scene of the occurrence was actually within a construction zone on the highway.
+Sgt. Frank Kruse of the Lisle Police Department, the investigating officer at the scene, testified on behalf of Respondent that the impact took place 53.8 feet south of the overpass and the vehicles came to rest 82 feet south of the point of impact; that the scene of the occurrence was a construction area and that he observed two to four illuminated barricades equipped with flashing functioning amber lights located on the median strip between the southbound and northbound lanes of traffic and located north of the point of impact; that there were street lights at the intersection of Burlington Avenue and Route 53 approximately 180 feet north of the point of impact; that he observed an empty can of beer in Claimant’s vehicle and that the speedometer of the car was in a stopped position at 80 m.p.h. Sgt. Kruse’s testimony was essentially corroborated by Sgt. Darryl Schul of the Lisle Police Department.
+Joseph Kostur of the Illinois Department of Transportation testified that the area in question was within his district and that he inspected the area on a regular basis at least once a week during the period of time prior to' September 12, 1968. Prior to the accident, he testified, there were present north of the area of the accident three warning signs for a construction zone each of which were four foot by four foot square, reflectorized orange signs with black legends and black borders mounted on wood posts; warning signs within the construction zone with the legend “Construction Ahead”, construction speed limit signs and detour signs 300 to 400 feet north of the point of impact and about 50 reflectorized barricades on the median strip and shoulder; and that a vehicle southbound on Route 53 would have been required to pass all of the above signs and barricades prior to reaching the scene of the accident. All of the signs met the minimum Federal and State standards for construction signs.
+He admitted, however, in cross-examination that where the pavement narrows to a lesser amount of lanes there should have been placed a yellow diamond shaped sign somewhether 1000 to 1500 feet in advance with a forewarning of a reduction in speed. There was no testimony that such a sign was in place at the scene.
+It is fundamental that in order to recover, Claimant has the burden of proving that the Respondent was guilty of negligence and that the Claimant was free from contributory negligence. Howell v. State of Illinois, 23 Ill. Ct. Cl. 141.
+From the testimony we believe that the Claimant sustained his burden as to the negligence of the State but failed to sustain his burden as to his own lack of contributory negligence.
+It is clear that although the State maintained many signs warning of construction area and barricades on the median strip there was no sign warning of the narrowing of the pavement. By the testimony of respondent’s own witness, Joseph Kostur, such a warning sign should have been in place. Thus, the State, by that omission was guilty of negligence which contributed to the Claimant’s injuries.
+However, Claimant was likewise guilty of negligence which contributed to his own injuries. He was driving without sleep for at least 17 consecutive hours. He failed to notice or see 50 reflectorized median barricades, three illuminated construction zone signs and numerous other signs advising of a construction zone.
+A person is required to see what there is to be seen. The evidence as to the existence of these signs is clear and unequivocal. His failure to notice these signs showed an inattentiveness which contributed to his own injuries. In addition, the fact that Claimant’s automobile came to rest over 80 feet south of the point of impact after striking a vehicle going in the opposite direction head on indicates, at least circumstantially, a speed in excess of the limit of 40 m.p.h. One need not rely on the fact that the speedometer was fixed and broken at 80 m.p.h. to reach this conclusion.
+Claimant argues that the presence of the reflectorized barriers in the median was only a warning not to drive on the median strip, were attention getting and in effect provided a trap for the Claimant, directing his attention from the narrowing of the pavement. This contention, however, flies in the face of Claimant’s testimony that he did not see any of the signs or barricades. His attention could not have been diverted by reason of something he did not see.
+Had Claimant seen the various signs and barricades, he would have realized that he was approaching a place of danger and armed with that knowledge he would have reduced his speed sufficiently to have noticed the narrowing of the pavement and could have avoided striking the curbing.
+The fact that the signs maintained by the State failed to adequately advise the Claimant of the specific danger and were thus inadequate does not reduce claimant’s own contributory negligence. Hansen v. State of Illinois (1975), 30 Ill. Ct. Cl. 643.
+We conclude, therefore, from a careful consideration of the entire record and exhibits, that even though the State was negligent, the Claimant’s failure to observe posted signs contributed to his own injuries and this claim is, therefore, denied.
