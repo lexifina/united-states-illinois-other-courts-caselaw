@@ -1,0 +1,27 @@
+---
+court: "Illinois Court of Claims"
+docket: "4040"
+decided: "1947-12-18"
+citations: ["17 Ill. Ct. Cl. 125"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gilbert E. Koerner, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/17/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2758932
+cites_cases: ["164 N.Y. Supp. 678", "164 N.Y. Supp. 869", "179 N.Y. App. Div. 567", "290 Ill. 569", "367 Ill. 458"]
+---
+
+# Koerner v. State
+
+## Majority (Eckert, C. J.)
+
+Eckert, C. J.
+On April 3, 1947, the claimant, Gilbert E. Koerner, an employee of the respondent in the Department of Public Works and Buildings, Division of Highways, while guiding a piece of lumber into. a power-driven jointer, caught the distal phalanx of his third middle finger in the revolving blade. Immediately following the accident, Dr. David J. Lewis of Springfield, Illinois, rendered first aid and amputated a portion of the distal phalanx of the injured finger. Claimant returned to limited duties the day following the injury and continued to work throughout the period of his convalescence.
+At the time of the accident, the employer and employee were operating under the provisions of the Workmen’s Compensation Act of this State, and notice of the accident and claim for compensation were made within the time provided by the act. All medical services were paid by the respondent, and no claim is made for temporary total disability. Claimant, however, seeks an award for approximately a 33%% loss of the third finger of his right hand.
+On April 3,1947, Dr. Lewis submitted a report to the respondent in which he stated that claimant had lost about one-fourth of the distal phalanx of the injured finger; that about one-half of the proximal nail remained On May 16, 1947, Dr. Lewis reported that the laceration was completely healed; that there was a loss of the tip of the-distal phalanx involving about one-third of the length of the normal nail; and that the bony loss was about one-fourth of the distal end of the distal phalanx. There is no evidence of any loss of use.
+The Illinois Workmen’s Compensation Act provides that the loss of the first phalanx of a finger shall be considered a loss of one-half of such finger. Here, the question is what constitutes the loss of the first phalanx. In the case of McMorran & Co. vs. Industrial Commission, 290 Ill. 569, the Supreme Court held that the loss of one-sixteenth of an inch of the first joint of a finger is not the loss of the first phalanx. The court pointed out the distinction between cases in which only a small tip of the bone is taken without the destruction of the use of the first joint of the finger, and eases in which a substantial portion of the first phalanx is amputated. In the case of Ide vs. Paul & Timmins, 179 N.Y. App. Div. 567, where a workman sustained the loss of one-fourth of an inch of the bone of the index finger, and one-eig*hth of an inch of the bone of a second finger, the New York Court held that an award for the loss of the first phalanx was not justified. In the case of Geiger vs. Gotham Can Co., 164 N.Y. Supp. 678, it was held that the loss of one-eighth of an inch of the bone of the first phalanx of the second finger did not constitute the loss of the phalanx within the meaning of the Workmen’s Compensation Act. To the same effect is the case of Thomson vs. Sherwood Shoe Co., 164 N.Y. Supp. 869, where a workman lost approximately one-fourth of an inch from the tip of one of his fingers.
+In the case of Macon County Coal Co. vs. Industrial Commission, 367 Ill. 458, one-third of the bone of the distal phalanx of the second finger of an employee’s right hand was removed by the attending physician following an accident, and the employee’s finger, after healing, was three-eighths of an inch shorter than the corresponding finger of his left hand. The finger nail had grown back to half of its former size, and the flesh at the end of the finger had been restored to a point approximately even with, the end of the nail. The employee testified that his finger was tender, and that there was limitation in the flexion of the first joint. The arbitrator and the Industrial Commission found that the injury amounted to the loss of the first phalanx of the second finger, and the Supreme Court held that these findings were well within the evidence, and should not have been reversed by the Circuit Court “especially in view, of a voluntary admission of partial liability by defendant in error.” The court held that there was an actual loss of a substantial portion of the employee’s finger, which entitled him to statutory compensation as if he had lost one-half of his finger.
+From these decisions it appears that the loss of a small fractional part of the first phalanx of a finger does not constitute the loss of one-half a finger. The court is of the opinion that it would be unreasonable to hold that the loss of one-fourth of the distal end of the phalanx of claimant’s right middle finger, involving about one-third of the length of the normal nail, is a loss of the first phalanx. Furthermore, there is no legal basis for an award for a 33%% loss of a finger, which claimant here seeks. (Macon County Coal Co. vs. Industrial Commission, supra.)
+The claim is therefore denied.
