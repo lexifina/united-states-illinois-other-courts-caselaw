@@ -1,0 +1,38 @@
+---
+court: "Illinois Court of Claims"
+docket: "97-CV-2285"
+decided: "1997-04-24"
+citations: ["52 Ill. Ct. Cl. 669"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Application of Carol McLuckie"]
+source_url: "https://static.case.law/ill-ct-cl/52/cases/0669-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1163689
+cites_cases: ["297 Ill. App. 3d 15"]
+---
+
+# In re McLuckie
+
+## Majority (Sommer, J. JANN, J.)
+
+ORDER
+Sommer, J.
+This cause is before the Court on Claimant’s petition and application for benefits. Claimant filed her application oh February 14, 1997, which states that Claimant was the victim of a violent crime that occurred between 1968 and 1973.
+Section 6.1 of the Crime Victims Compensation Act (740 ILCS 45/6.1) requires that claims be filed with the Court within one year of the date of the occurrence of the crime. The Court may extend that period by one year. These limitations periods are, however, jurisdictional. (705 ILCS 505722(h).) In the present case, Claimant’s application was filed over 23 years after the date of the crime. The Court sympathizes with Claimant’s plight but is constrained by statute from making an award.
+It is hereby ordered that Claimant’s petition and application for benefits is denied and this cause is dismissed with prejudice.
+OPINION
+JANN, J.
+This cause arises out of an incident of childhood sexual abuse. The Claimant alleges that she was sexually abused as a child by her brother for many years. The Claimants brother passed away several years ago. Claimant never brought charges against her brother because she had allegedly repressed any memory of the abuse due to post traumatic stress syndrome.
+Claimant filed her application on February 14, 1997, and she states that she was the victim of a violent crime which occurred between 1968 and 1973.
+The issue in this case is whether the Claimant meets a required condition precedent of the Crime Victims Compensation Act, specifically section 6.1 (740 ILCS 45/6.1.) Section 6.1 of the Act requires that claims be filed within one year of the date of the occurrence of the crime. In this case, the Claimants application was filed over 23 years after the date of the crime, and, thus, her original claim was denied and dismissed by the Court.
+Section 13 — 202.2(b) and (c) of the Code of Civil Procedure (735 ILCS 5/13 — 202.2(b), (c)) provides:
+“(b) an action for damages for personal injury based on childhood sexual abuse must be commenced within 2 years of the date the person abused discovers or through the use of reasonable diligence should discover that the act of childhood sexual abuse occurred and that the injury was caused by the childhood sexual abuse.
+(c) If the injury is caused by 2 or more acts of childhood sexual abuse that are part of a continuing series of acts of childhood sexual abuse by the same abuser, then the discovery period under subsection (b) shall be computed from the date the person abused discovers or through the use of reasonable diligence should discover (i) that the last act of childhood sexual abuse in the continuing series occurred and (ii) that the injury was caused by any act of childhood sexual abuse in the continuing series.” 735 ILCS 5/13 — 202.2(b)(c).
+At the hearing, Claimant entered into evidence an exhaustive document which states what Illinois and other courts have held as to the issue of repressed memory in terms of their statute of limitations. Claimant entered the Illinois Courts’ most recent case involving the Illinois Statute of Limitations for Childhood Sexual Abuse, Clay v. Kuhl (2d Dist. App. Ct., 1998), 297 Ill. App. 3d 15.
+In Clay v. Kuhl, the Illinois Appellate Court states that the plain language of the statute mandates that the limitations period for an action for childhood sexual abuse begins to run only when the person discovers, or should have reasonably discovered, that she was the victim of childhood sexual abuse. The Court also recognized that a plaintiff in a childhood sexual abuse case may subsequently suffer from repressed memory, a condition or disability that renders her unable to recognize that the event occurred or that she suffered a resulting injury. Without specifically considering whether repressed memory represents a valid claim, the Court stated that it is compelled to agree with other courts that recognize it, “in instances where the plaintiff is suffering from a recognized and accepted condition or disability which prevents knowledge of the sexual abuse, section 13 — 202.2 of the Code may apply to toll the applicable limitations period.” Clay v. Kuhl (1998), 297 Ill. App. 3d at 15.
+The Court stated that the second requirement is whether the plaintiff’s actions are timely filed. The Court noted that section 13 — 202.2(d) of the Code of Civil Procedure is a codification of the judicially created “discovery rule.” The discovery rule as developed by common law requires both knowledge of the injury and its wrongful cause before the statute of limitations begins to run. In Clay, the Court noted that the plaintiff did not file her complaint within two years of reaching age 18. The plaintiff was 28 years old at the time she filed her complaint, and alleged that she “had no memory of the molestation at any time during her majority until February of 1995.” The Court found that her allegation was ambiguous and insufficient to toll the statute of limitations under section 13 — 202.2 and noted that, where the discovery rule has applied, the plaintiff had provided a well articulated explanation of why it was impossible to discover her injury sooner. The Court concluded that “as a matter of law mere forgetfulness cannot constitute a sufficient ground to toll the statute. To hold otherwise would defeat the purpose of the statute which is to require prosecution of a right of action within a reasonable time to prevent the loss or impairment of available evidence and to discourage delay in the bringing of claims.” The Court argued that if the plaintiff intends to rely on the psychological condition of “repressed memoiy” in order to toll the statute of kmitations, then the plaintiff is obligated to plead the condition with sufficient specificity to advise the defendant of the alleged basis on which section 13 — 202.2 applies.
+As in Clay v. Kuhl, Claimant here has failed to plead her cause of repressed memoiy with sufficient specificity. Claimant, similar to the plaintiff in Clay, merely stated that she had forgotten the instances. Claimant did not present any witnesses or other evidence of her repressed memory at her hearing. Although Claimant submitted numerous bills from social workers and psychotherapists for counseling and treatment, none of her doctors or counselors testified or submitted affidavits on her behalf.
+This case was an extremely difficult one because the Claimant appeared to be credible and well versed in this area of law of repressed memory. Nevertheless, she failed to present any witnesses and/or documentation that stated that her condition was linked to her alleged childhood sexual abuse. Moreover, unlike the case of Clay v. Kuhl which was a civil action for damages where the defendant was given the opportunity to reject plaintiffs allegations, in this case, the .Court would have to accept all of Claimants allegations without sufficient specificity to advise the Respondent of the alleged basis by which section 13 — 202.2 applies.
+We must affirm our previous denial of this claim. This cause is hereby dismissed.
