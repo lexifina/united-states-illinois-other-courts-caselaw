@@ -1,0 +1,33 @@
+---
+court: "Illinois Court of Claims"
+docket: "4709"
+decided: "1957-05-31"
+citations: ["22 Ill. Ct. Cl. 567"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen B. Maloney, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/22/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5345156
+---
+
+# Maloney v. State
+
+## Majority (Fearer, J.)
+
+Fearer, J.
+Claimant, Helen B. Maloney, has filed a claim against respondent for personal injuries sustained on August 28, 1955.
+On said date, Mrs. Maloney and her sister-in-law went to the Alton State Hospital, a mental institution, to visit her husband, who had been a patient there for more than one month. It was customary for relatives to visit patients, who were not violent or dangerous, or in a, disturbed state, in a room designated as R. C. M., which was used as a dining room. On the afternoon in question, during visiting hours, there were approximately twenty-five to thirty people in the dining room.
+In the room at the same time was a patient by the name of John Pistrui, whose mental condition was described as “a little impulsive”. He had a tendency to have an antagonistic attitude toward women and other patients. However, never before had he been known to be violent.
+During the visiting hours, as claimant and her sister-in-law, Mrs. J anet Searcy, were visiting with claimant’s husband,. Mr. Maloney, they heard a big noise uttered by Mr. Pistrui, which was described as anywhere from a “scream” to a “howl”. The father of Mr. Pistrui left the visiting room, and went in search of an attendant for the purpose of either escorting’ Mr. Pistrui out of the room or quieting him.
+It appears that there were two other attendants on duty at the time in this particular area. One man by the name of Q. T. Mitchell had been employed at the institution for sixteen years. He was the attendant, who was called to escort Mr. Pistrui out of the room. An attendant by the name of Andrew Buescher, who-at the time was in the Psychiatric Aide Room, heard the commotion, and came into the visiting room. From the record it appears that the attendant, in escorting Mr. Pistrui out of the room, walked a few feet in front of him, and was about three feet from him when he stopped at the water cooler near the entrance to the room, which was a very short distance from where claimant, her husband and sister-in-law were sitting. Claimant was sitting with her back toward the attendant and Pistrui. It appears from the evidence that Pistrui picked up a chair, and before claimant could move, struck her over the back, which caused her to fall to the floor. In falling, she injured her hand. The blow from the chair also injured the muscles on both sides of the spinal column, causing abrasions and contusions.
+When Mr. Maloney and Mrs. Searcy saw Mr. Pistrui pick up the chair, they tried to protect claimant, but were unable to do so. The attendant, who had taken charge of Mr. Pistrui, dove for him, but missed him, and was unable to restrain him from striking Mrs. Maloney.
+It is true that prior to this time the patient had never exhibited any acts of violence. However, it is apparent from the evidence that he was antagonistic toward women. He was impulsive, which is also true of other mental patients, and he had, on this occasion, exhibited distinct signs of being emotionally upset. In view of the fact that he was within a few feet of women, including claimant and her sister-in-law, this should have been enough of a warning to the attendant or attendants to escort him manually from the room. This the agents of respondent did not do.
+Respondent has asserted and argued contributory negligence and an intervening cause, as well as the fact that the state is not an insurer against accidents. The latter proposition, of course, is true, but, on the other hand, the agents of the state are required to use ordinary care in situations of this kind to protect persons and their property from being damaged by those placed under their charge, as are the facts in this case.
+As to the question of contributory negligence, we cannot find that claimant did anything to excite or to invoke the attack made upon her. In this regard, we believe claimant has sustained the burden of proof in showing that she was free from negligence. Further we find that respondent was guilty of negligence in not restraining the patient from attacking a visitor during visiting hours, and that claimant did sustain injuries for which she is entitled to be compensated.
+No authorities have been cited to us, which we believe to be directly in point with this particular case. Claimant is relying heavily on the case of Malloy vs. State of Illinois, cited in 18 C.C.R. 137. This was a case where the assailant was described as a dangerous character, and had a criminal record. It was decided on the fact that the state was negligent, knowing of the dangerous propensities of this particular patient, in not keeping him confined, and allowing him to have more freedom than a patient of this kind should have had. We are not basing our decision in this case on the Malloy case.
+However, we do believe that there was enough negligence on the part of the state, and that the state’s agents had sufficient advance warning of Mr. Pistrui’s condition, which would have justified and warranted them to keep him under closer surveillance, and properly escort him from a room where there were approximately twenty-five to thirty men and women present, realizing that he might do bodily harm to some of those present in the room, who had a perfect right to be there.
+As to the injuries, the testimony showed that claimant was x-rayed at the institution, and was asked to remain over night. She chose to leave, and was taken to another hospital in Alton where she was attended by her own doctor. It appears, from the record that there were no fractures. Claimant testified, and so did the doctor, as to slight injuries to her hand and back. However, it appears that she has made a satisfactory recovery.
+She was employed as a stenographer, and was away from her work approximately six weeks. The Commissioner hearing this case found that she had incurred hospital bills in the amount of $332.29, and a doctor bill in the amount of $126.00, and that her loss of earnings was $265.00. The Commissioner further noted that it appeared claimant had made a complete recovery,' and that an award should be made in the amount of $1,723.29.
+It is, therefore, the order of this Court that claimant be given an award in the amount of $1,723.29.
