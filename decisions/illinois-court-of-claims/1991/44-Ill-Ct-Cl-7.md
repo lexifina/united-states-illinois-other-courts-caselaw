@@ -1,0 +1,42 @@
+---
+court: "Illinois Court of Claims"
+docket: "82-CC-0930"
+decided: "1991-05-16"
+citations: ["44 Ill. Ct. Cl. 7"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Altman Construction Co., Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/44/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3048866
+cites_cases: ["132 Ill. App. 3d 718", "152 Ill. App. 3d 873", "35 Ill. Ct. Cl. 384", "38 Ill. Ct. Cl. 227", "41 Ill. Ct. Cl. 202", "41 Ill. Ct. Cl. 5", "42 Ill. Ct. Cl. 195", "477 N.E.2d 745", "504 N.E.2d 1266"]
+---
+
+# Altman Construction Co. v. State
+
+## Majority (Montana, C.J. Montana, C.J.)
+
+OPINION
+Montana, C.J.
+Claimant brings this action pursuant to section 8(b) of the Court of Claims Act (Ill. Rev. Stat. 1983, ch. 37, par. 439.8(b)), which grants this Court exclusive jurisdiction to hear and determine “all claims against the State founded upon any contract entered into with the State of Illinois.” Claimant’s complaint seeks damages incurred as a result of Respondent’s delay in performing its part of a contract.
+The facts in this case are uncontradicted. Claimant, Altman Construction Co., Inc., entered into á contract with the Respondent’s Capital Development Board (CDB) to do “general work” on a tertiary waste-water treatment plant at Southern Illinois University-Edwards-ville (SIU-E). The job consisted of the construction of a building near SIU-E’s existing waste treatment plant. This building was to house equipment used to treat waste water. Claimant actually constructed the building while other contractors provided and installed the above-mentioned equipment.
+The contract provided that the completion of all required work should be within 365 days after the notice of award. Claimant bid on and received the contract on October 16, 1978. The contract also provided that Claimant would carry builder’s risk insurance for the “duration of the job.”
+With the exception of that which will hereafter be discussed, Claimant completed its duties sometime in September or October 1979 (within the time allotted). As far as the contract price is concerned, with the exception of $1,000.00 which was held back until the project was “closed out,” Claimant received all monies which were due and owing as of September (or October) 1979. Claimant eventually received the $1,000.00 retainage after all the other contractors had closed out. However, as alluded to earlier, Claimant was unable to wrap things up in September (or October) of 1979 as it had a duty to perform some minor cosmetic work after the installation of the above-mentioned waste-water treatment equipment and provide supervision of the construction site until the close of the project. Therein lies the problem.
+If the equipment had performed as was anticipated, Claimant should have been able to completely finish its job within the specified contract time. Unfortunately, the equipment did not live up to expectations. After much negotiation and problem-solving (between CDB and the equipment manufacturer), the equipment was modified and installed sometime in July of 1981. The project was finally completed in September 1981 — some two years after the contract deadline. It was at this point that Claimant was allowed to close its books on the project.
+Claimant asks this Court to award damages equal to the expenses it was forced to incur as a result of this delay. In detailing its expenses, Claimant cites the additional risk insurance it was required to maintain (the premiums totaling $1,032.70) and its professional fee for supervision and travel costs (totaling $6,637.00).
+Claimant points out that the failure of the waste-water treatment equipment was in no way its fault. The purchase and installation of said equipment was to be provided by other prime contractors. To be sure, these other prime contractors had separate contracts with the State and were not subcontractors of Claimant. In addition, Claimant argues that its bid proposal was based on a one-year completion time schedule, not the three years it actually took. Lastly, Claimant points to several provisions in its contract allowing for an increase in the contract price for delay caused by acts of CDB.
+It is well settled that a party who fails to complete a contract within the specified time can be held liable for damages caused by the delay. (Structural Sales, Inc. v. Vavrus (1985), 132 Ill. App. 3d 718, 477 N.E.2d 745.) Also see J. F., Inc. v. S. M. Wilson & Co. (1987), 152 Ill. App. 3d 873, 504 N.E.2d 1266, in which it was said that
+“even if a contract contains a no-damage-for-delay provision, a prime contractor may sue and recover from an owner for delay damages caused by another prime contractor.”
+In the case at bar, the evidence is clear that CDB, through its other prime contractors, failed to perform its part of the contract (dealing with the installation of the equipment) until long after the contract deadline. This failure resulted in Claimant having to incur expenses which were not anticipated at the inception of the contract.
+Structural Sales, Inc., supra, also states a party claiming damages for delay in completing a contract must prove that the delay was the fault of the party against whom damages are sought. As alluded to earlier, the record contains uncontradicted testimony as to CDB’s fault.
+Because there was an unreasonable delay which was the fault of Respondent’s agent, and since this delay caused Claimant to incur additional expenses not contemplated in the original contract, Respondent should be held liable in damages for said expenses which we find to be $7,669.70. However, before an award in that amount can be made it is necessary that the fiscal information on the project be made part of the record herein. Specifically the record should reflect the lapsed balance of released appropriations for the project and a list of any other claims which were made against those funds.
+It is hereby ordered that the Respondent file the information described within 30 days of the date of this order.
+ORDER
+Montana, C.J.
+This cause comes on to be heard pursuant to our opinion entered herein on May 16, 1991, and following the filing of the Respondent’s response thereto, due notice having been given, and the Court being advised.
+In the aforesaid opinion we stated, inter alia, as follows:
+“Because there was an unreasonable delay which was the fault of Respondent’s agent, and since this delay caused Claimant to incur additional expenses not contemplated in the original contract, Respondent should be held liable in damages for said expenses which we find to be $7,669.70. However, before an award in that amount can be made it is necessary that the fiscal information on the project be made part of the record herein. Specifically the record should reflect the lapsed balance of released appropriations for the project and a list of any other claims which were made against those funds.”
+The Claimant’s response was filed May 31, 1991. It indicates that the CDB lapsed $0.70 in line item appropriation No. 141-51164-6600-39-77. No other claims arose out of the project against this money.
+In breach of contract claims it is this Court’s policy to limit awards so as not to exceed the amount of funds, appropriated and lapsed, with which payment could have been made. To do otherwise, i.e., to award money for debt incurred beyond the sum allotted by the General Assembly, would be tantamount to making a deficiency appropriation. The appropriation of State funds for governmental operations is the constitutional prerogative of the General Assembly. It is this Court’s duty to uphold that process and advise the General Assembly. (Thorlief Larsen & Son, Inc. v. State (1990), 42 Ill. Ct. Cl. 195; Bojko v. State (1988), 41 Ill. Ct. Cl. 202; J. F., Inc. v. State (1988), 41 Ill. Ct. Cl. 5; Loewenberg/Fitch Partnership v. State (1986), 38 Ill. Ct. Cl. 227; Ude, Inc. v. State (1982), 35 Ill. Ct. Cl. 384.) In the case at bar, virtually no money lapsed to cover the damages.
+We are constrained to deny the claim. However, for purposes of potential consideration of this matter by the General Assembly, for the reasons stated in our May 16, 1991, opinion we find that Claimant suffered $7,669.70 in damages caused by the GDB and that, but for no money having lapsed on the project, an award in that amount would have been made. Claim denied.
