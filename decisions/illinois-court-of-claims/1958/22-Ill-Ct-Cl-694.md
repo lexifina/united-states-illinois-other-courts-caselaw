@@ -1,0 +1,57 @@
+---
+court: "Illinois Court of Claims"
+docket: "4668"
+decided: "1958-01-14"
+citations: ["22 Ill. Ct. Cl. 694"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sara Levy, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/22/cases/0694-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5344478
+cites_cases: ["1 Ill. (2d) 133", "102 Conn. 383", "123 N.E. (2d) 151", "216 Ill. App. 294", "235 Ill. App. 353", "244 Ill. App. 414", "3 Ill. App. (2d) 481", "346 Ill. 636", "408 Ill. 343", "48 N.E. (2d) 695"]
+---
+
+# Levy v. State
+
+## Majority (Tolson, C. J.)
+
+Tolson, C. J.
+On February 17, 1955, Sara Levy filed her complaint against the state seeking damages in the amount of $7,500.00 as compensation for injuries, which she allegedly sustained by reason of the neglect of the state in failing to properly clear the walks of snow and ice at the Elgin State Hospital.
+The facts of the case are as follows:
+Sara Levy, claimant herein, resides in Chicago, Illinois. She has a son, Herbert Levy, who is an inmate or patient at Farm Colony No. 2, Elgin State Hospital, Elgin, Illinois. On January 31, 1954, Mrs. Levy and her husband, Abe Levy, drove out from Chicago to the City of Elgin for the purpose of visiting their son. They left Chicago at approximately 12:00 M., and arrived at Farm Colony No. 2 during the regular visiting hours at the hospital between 1:00 and 2:00 P.M. The building, known as Farm Colony No. 2, fronts on McLean Boulevard, which runs north and south, said building sets back approximately 61 feet in an easterly direction from McLean Boulevard. The sidewalk, which is located on hospital property, runs east and west, and joins the door of the building to the gravel shoulder of McLean Boulevard. The hedge marking the property line of the hospital, runs parallel to it. It appears that claimant left the automobile, which was parked by her husband on the gravel portion of McLean Boulevard, and walked to the west end of said sidewalk, and thence along said sidewalk toward the Farm Colony No. 2 building. Mr. Levy remained behind to lock the door, and then walked to catch up with his wife, who had in the meantime started to walk up the sidewalk. Claimant had walked approximately % of the distance from the end of the sidewalk to the building when she fell. As a result of the fall, she lost consciousness, and fractured her right ankle in three places. She subsequently received medical attention at the Elgin State Hospital, and on the following morning Mr. Levy and his son-in-law took her to the American Hospital in Chicago, Ilinois, where Dr. Allen Hirschtick attended her on Monday, February 1, 1954. A competent physician estimated that claimant has approximately a 25% loss of use of said foot.
+At the time of the accident on January 31, 1954, the ground was covered with snow, and the temperature was below freezing. The United States Weather Observer report by W. O. Beckner, of Elgin, Illinois, was admitted in evidence, and indicated a heavy snowfall in Elgin, Dlinois on January 24, 1954, four days prior to Sunday, January 31, 1954, the day on which claimant received her injury. It appears that the employees of the State Hospital had attempted to clear the sidewalk, or, in fact, did clear it.
+At the outset, it is necessary to determine the status of the complainant as a visitor at the state institution, and, while the definition of the word “invitee” connotes a business transaction in which both parties are mutually interested, it would appear from the decision of Ellguth vs. Blackstone Hotel, 408 Ill. 343, that there is no hard and fast rule.
+The fact that the state institutions have visitors’ days and encourage visits with patients would indicate that claimant was more than a “licensee”, and should be treated as an “invitee”.
+The importance of determining the status is reflected in the degree of care required to be used. Hence, the Court finds and determines that a visitor is an “invitee”, and, therefore, the state must use reasonable care and caution in keeping the premises reasonably safe for use by such “invitees”.
+A difficult legal problem is presented in this case in determining the responsibility, if any, of the state to clear snow and ice from sidewalks with reference to an “invitee”. There are reported cases involving municipalities and landlord and tenant, hut there are no particular cases involving “invitees”, as such.
+To determine such law, it will be necessary to examine the majority and minority rule covering the general proposition regarding liability for snow removal. Attention is directed to the case of Durkin vs. Lewitz, 3 Ill. App. (2d) 481 —123 N.E. (2d) 151, wherein the court discusses and reconciles the conflicting rules and apparent conflicts in the Illinois cases.
+The Massachusetts, our common law rule, is the majority rule, and is followed in Illinois. It is stated as follows: “neither a municipality nor adjacent property owners are liable for injuries resulting from the natural accumulation of snow and ice”. This rule has also been extended to the law of landlord and tenant. Riccitelli vs. Sternfield, 1 Ill. (2d) 133.
+Certain exceptions to this rule are as follows:
+(1) Where laundry bags were dragged across a sidewalk creating a slippery condition. King vs. Swanson, 216 Ill. App. 294.
+(2) Where a city pipe ejected water, which froze on the sidewalk. Hubbard vs. City of Wood River, 244 Ill. App. 414.
+(3) Where abutting property owner maintained a discharging drain spout. Loyd vs. City of East St. Louis, 235 Ill. App. 353.
+(4) Skating pond adjacent to a sidewalk. Graham vs. City of Chicago, 346 Ill. 636.
+The Connecticut rule and minority rule, as it applies to the law of landlord and tenant, requires a landlord to use reasonable care in keeping the premises in a reasonably safe condition, cmd this duty includes the removal of snow and ice. Reardon vs. Shimmelman, 102 Conn. 383.
+The facts of the Durkin case are of interest, as they involve an injury to an “invitee”, but the case was decided on the landlord and tenant law. Plaintiff was an employee of a tenant living on the second floor of the building. Ice had accumulated on the second floor landing, and plaintiff fell and was injured. A jury verdict in her favor was permitted to stand. The court found from the evidence that a leaky gutter had permitted ice to accumulate on the landing, and, further, that the landlord had been notified of this dangerous condition, but did nothing about it.
+The court pointed out that Illinois differs from Massachusetts in its landlord and tenant law in that in Illinois a landlord must use reasonable care in maintaining such portions of the premises, which are used in common, i.e., stairs, corridors, etc. It would further appear that this Appellate District prefers the Connecticut rule over the Massachusetts rule.
+The court finally pointed out that, even under the Massachusetts rule, the fact in this case, i.e., ice from a leaky gutter, and not snow and ice in its natural state, was the proximate cause, and was, therefore, a clear exception from the Massachusetts rule.
+From this maze of law, this Court finds that the Massachusetts rule is the law of this state, and recovery can only be had if the facts in the particular case fall within any of the recognized exceptions.
+Are there any unusual facts in the instant case that would place this case in the exceptional category, so that a recovery could be had? We find no such facts. Plaintiff alleges» that the walks were cleaned in an improper man- - ner, and bits of ice were left as a hazard.
+In the case of McNeill vs. Home State Bank, 48 N.E. (2d) 695, a decision from Massachusetts, it appears that a janitor had cleaned certain walks, and thereafter ice formed in a pocket due to irregularities in the walks. The court reversed a verdict for the plaintiff by stating that the landlord was under no obligation to clear the walks in the first instance, and by clearing them he was performing a gratuitous service, and, hence, would not be liable, unless the dangerous condition was evidence of gross negligence.
+Leaving bits of snow and ice are not evidence of gross negligence. Hence, the Court finds that the facts of this case do not fall within any exception of the rule.
+Apart from the niceties and fine distinctions that appear in the cases, there is one fact alone in this case that would prevent a recovery. The weather report, claimant’s exhibit No. 6, indicates that five inches of snow fell on January 27, 1954. The Departmental Eeport indicates that it was removed from the walks on the same date. The weather report further indicates that there was no further snow and no further precipitation between January 27 and January 31.
+Respondent’s exhibit No. 1, a picture of the walk and building, and respondent’s exhibit No. 3, a diagram of the road and walk, indicate that this walk is the main entry to the building. For four days, including Sunday the 31st, this 61 foot walk must have been used repeatedly by people going to and from the building. With such daily use, the only reasonable conclusion to be drawn is that the sidewalk was in a reasonably passable condition.
+Since respondent was only required to use ordinary care in the maintenance of its premises, it would appear, without question, that it had discharged this duty.
+An award is, therefore, denied.
+On February 13, 1958, claimant filed a petition for rehearing, and, in support thereof, urges that the Court overlooked or misapprehended matters contained in the records.
+We do not believe it will serve any purpose to reexamine the authorities submitted by claimant and respondent, as this Court, sitting as a jury and as a trier of the facts, does not believe that such facts tend to support the charge of negligence.
+Petitioners allege the following:
+“The Court overlooked the fact, however, that the sidewalk in question was only used for visitors to the building during regular visiting hours. The visiting hours during the period in qeustion occurred only for a few hours on Saturday, and a few hours on Sunday, and, therefore, the assumption by the Court that the sidewalk was in daily use by many people was erroneous.”
+Nowhere in the record do we find that the sidewalk in question was “only used for visitors to the building during regular visiting hours ’ ’.
+The building, undoubtedly had other doors for ingress and egress, as a public safety measure. However, the exhibits indicate that the sidewalk in question was the main entrance to the' building. It would be unreasonable to assume that only visitors used the walk, and more reasonable to assume that anyone connected with the hospital would use this walk in the ordinary routine of hospital care.
+Eeasonable care and caution cannot be more precisely defined. It does not mean that the state is an insurer, so that, if any patches of snow or ice remained on the walk, that fact alone would establish liability.
+This accident happened between one and two in the afternoon when there was sufficient visibility for claimant to observe and protect herself from any patches of snow or ice.
+From a review of the facts, we again conclude that respondent used reasonable care in the clearing of its walks, and was, therefore, not guilty of any negligence.
+The petition for rehearing must, therefore, be denied.
