@@ -1,0 +1,30 @@
+---
+court: "Illinois Court of Claims"
+docket: "2226"
+decided: "1937-06-30"
+citations: ["9 Ill. Ct. Cl. 538"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Monarch Fire Insurance Co., Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/9/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2813407
+cites_cases: ["337 Ill. 122"]
+---
+
+# Monarch Fire Insurance v. State
+
+## Majority (Mr. Justice Yantis)
+
+Mr. Justice Yantis
+delivered the opinion of the court:
+Under a stipulation of facts filed herein, it appears that on the 15th day of June, 1933 the Superintendent of Insurance of Illinois assessed the claimant under “An Act in Relation to the Taxation of Non-Resident Corporations, Etc. For the Privilege of doing an Insurance Business in this State,” approved June 28, 1919, the amount of $5,965.13, being two and one-half (2%) per cent tax on $238,605.16 gross premiums received in Illinois during the year ending December 31,1932, less local tax paid in 1932 amounting to $694.64 and less Fire Department taxes paid in 1932 of $2,874.55, making a total deduction of $3,569.19, or a net balance of $2,395.94 paid on June 13,1933. Claimant seeks a refund on account of personal property taxes paid by its agents in Chicago in 1932, amounting to $799.10 and $104.74, or a total of $903.84,. vouchers for such payments not having been submitted for credit against the Privilege Tax assessed.
+Plaintiff has a similar claim pending in the case of Monarch Fire Insurance Company vs. State, C. of C. No. 2227, for a refund of $610.58 for over-payments alleged to have been made on the 14th day of May, 1932, and plaintiff has confused the latter claim somewhat in its Statement, Brief and Argument in the instant case, hut regardless of the confusion as to amounts, the claim in each case is based upon a payment made under a purported mistake of facts; claimant alleges that by oversight it neglected as b matter of fact to procure a proper credit to apply upon the Privilege Tax which it might have done under the law; that such mistake of fact was caused by the forgetfulness or oversight of claimant; that such omission amounted to a mistake of fact and that claimant therefore is entitled, to an award. Respondent contends that the mistake was not in the payment of the Franchise Tax which was legally due, and that if any mistake was made it was entirely that of the tax-payer itself, and was one that arose entirely by virtue of error and omission in its own office, for which no refund can be legally claimed.
+In support of its claim plaintiff cites Moorman Manufacturing Co. vs. State, 8 C. C. R. 106, in which the following statement is quoted:
+“As a general rule a payment made under a mistake of fact, and which the payor was under no legal obligation to make, may be recovered back * * * Where one by mistake of fact pays more than is due upon a debt or obligation, he may recover the over-payment * * * where money is paid to another under influence of a mistake of fact, that is on the mistaken supposition of the existence of a specific fact which would entitle the other to the money, and the money would not have been paid if it had been known to the payor that the fact was otherwise, it may be recovered.”
+In the instant case there was a legal obligation by statute requiring claimant to pay a Franchise Tax. It was further its duty to submit a proper statement to the Secretary of State’s Office, upon which to base such payment. The details of its accounts and the credits to which it was entitled by law were known to the payor. The fact that some clerical employee failed to make up a proper report to send to the Secretary of State is not such a mistake of fact as to bring the claim within the exception to the rule of the well settled law of this State “That a tax which is paid voluntarily and not under duress or compulsion cannot be recovered back.” ( Oppenheimer & Co. vs. State, 6 C. C. R. 465.)
+“The payment of a tax will be deemed voluntary where it is paid with full knowledge of the facts and in the belief that such payment is legal. Taxes so paid cannot be recovered even though they are illegal, in the absence of a statute authorizing such recovery.”
+Richardson Lubricating Co. vs. Kinney, 337 Ill. 122.
+The cases of Anderson vs. State, 8 C. C. R. 157 and Fowler vs. State, 8 C. C. R. 160, cited by claimant, are not considered as supporting its claim, as in both those cases the mistake of fact was mutual and was the fault of respondent.
+Notwithstanding the views expressed in the case of Firemen’s Insurance Company, etc. vs. State, 2 C. C. R. 220, the court believes that the correct expression as to the responsibility of the State and the right of claimant herein are correctly expressed in Seiders, etc. vs. State, 7 C. C. R. 9, i. e., where it appears that the Secretary of State has computed a Franchise Tax on information furnished by payor and has followed the directions of the Legislature in computing and collecting such tax, and a claimant thereafter, because of an error in the records of his own office and in the information furnished to the Secretary of State, claims a payment has been made in excess of the amount otherwise legally due, and such excess payment is in no way shown to be the fault of the Secretary of State or the State of Illinois, the court is of the opinion that no refund is due. As a matter of public policy, the various State officers and taxing bodies should be able to rely upon the information furnished by those applying for Franchise licenses, and where a tax or license fee is legally due and the applicant submits erroneous information and thereafter voluntarily pays the license fee or tax that has been correctly computed from such information, no sufficient authority of law exists in the opinion of the court to justify a refund on any portion thereof. An award is denied and claim dismissed.
