@@ -1,0 +1,42 @@
+---
+court: "Illinois Court of Claims"
+docket: "2707"
+decided: "1938-03-24"
+citations: ["10 Ill. Ct. Cl. 252"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret M. LaVelle, Widow and Thomas F. LaVelle, a Minor and Next of Kin of Leo James LaVelle, Deceased, by Margaret M. LaVelle, His Mother and Next Friend, Claimants, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/10/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2812917
+---
+
+# LaVelle v. State
+
+## Majority (Mr. Justice Linscott)
+
+Mr. Justice Linscott
+delivered the opinion of the court:
+On March 8, 1933, Leo James LaVelle was employed by the Division of Highways, Department of Public Works and Buildings of the State of Illinois, as a State highway maintenance policeman at a salary of $1,800.00 per annum, and was later assigned to active duty in District No. 7 of the Illinois State Highway Maintenance Police, with headquarters at Bock Island, Illinois. He was continuously employed in that capacity until September 24, 1934 when he suffered fatal injuries in a motor vehicle accident occurring on State Bond Issue Boute No. 80, in the Village of Bapids City, County of Bock Island, State of Illinois.
+On that date, at about 2:00 p. m. Officer LaVelle was driving a motorcycle owned by the State, east on said State Boute No. 80, in the performance of his regular duties at a speed of about thirty-eight miles per hour, and was passing through the Village of Bapids City; that upon reaching the intersection of First Street with said State Boute No. 80, he was struck by, or collided with an automobile owned and operated by one Mary M. Hubbs, of East Moline, Illinois, and incurred serious personal injuries, viz.: fracture of the right tibia and fibula and the knee joint, fracture and posterior dislocation of the right femur at the hip joint, severe cuts and lacerations on the head and right leg; internal hemorrhages of the abdomen seriously impairing the functioning of the stomach, pancreas and liver, also a severe nervous shock.
+Officer LaVelle was immediately taken to the Moline City Hospital where he received medical care and attention, and thereafter, he was operated upon on two different occasions. Dr. E. F. Condon of Bock Island, Illinois, was the physician and surgeon in charge of the case and he was assisted by Dr. Daniel F. Paul of Bock Island, Illinois, and Dr. P. A. Bendixon of Davenport, Iowa, was also called in for consultation and assistance during the operations. LaVelle remained in the hospital until November 24, 1934 when he died as the result of the injuries incurred.
+Sergeant James Vickrey was LaVelle’s immediate superior, and was immediately notified of the accident and made an investigation thereof, and on September 25, 1934, made an official report thereon to his superior, Officer L. M. Taylor, the then Acting Superintendent of State Highway Police, Springfield, Illinois.
+The respondent paid the several physicians and hospital expenses, being a total sum of $1,303.13. Dr. Condon is claiming a further fee of $25.00.
+Following the accident and death of claimant’s intestate, his personal representatives took action to recover damages from Mary M. Hubbs, and pursuant to an order of this court, James L. Hughes, as executor of the estate of Leo James LaVelle, deceased, was authorized by this court to make a settlement with Mary M. Hubbs. It appearing that there were no eye witnesses to the accident and that officer LaVelle was driving at the rate of 38 miles per hour in the Village of Rapids City, it was deemed better to make the settlement than to risk a trial by a jury. The sum of $2,500.00 was paid and Mary M. Hubbs was given a release for all damages.
+LaVelle was forty years old at the time of the injury and left his wife, Margaret M. LaVelle, and one minor child, Thomas F. LaVelle, age four years, who were dependent upon him. His wife was appointed guardian of the child by the Probate Court of Rock Island County, on the 23rd day of June, 1937.
+No question arises as to the jurisdiction of the court or other jurisdictional matters.
+It has been the holding of this court that the construction and maintenance of a hardsurfaced paved public highway is the maintenance and construction of a structure- under the Workmen’s Compensation Act.
+Bond vs. State, 7 C. C. R. 198, 199;
+Pennington vs. State, 7 C. C. R. 253, 255,
+and that a highway maintenance patrolman is entitled to the benefits of the Workmen’s Compensation Act.
+Church, et al. vs. State, 7 C. C. R. 256;
+Lightner vs. State, 8 C. C. R. 354;
+Ferguson vs. State, 8 C. C. R. 589.
+If the employee leaves any widow, child or children whom he was under legal obligations to support at the time of his injury, a sum equal to four times the average annual earnings of the employee, but not less in any event that two thousand five hundred dollars, and not more in any event than four thousand dollars, shall be allowed, except where there is a child under sixteen years of age. Section 7a of the Workmen’s Compensation Act provides that whenever in paragraph (a) of this section a maximum of $4,000.00 is provided, such maximum shall be increased in the following cases to the following amounts: Four thousand four hundred fifty dollars in case of one child under the age of sixteen years at the time of the death of the employee.
+Claimants contend that they should be paid the sum of $4,450.00, but admit that the sum of $2,500.00 should be subtracted therefrom. In the present case, the widow has remarried, but the right of compensation is not extinguished but continues in favor of the child surviving.
+Angerstein, 1930 and 1937 Ed. Sec. 195.
+Under the Act, because the decedent left one child under sixteen years of age, the award normally would have been $4,450.00 because decedent’s salary was $150.00 per month. The amount paid, however, by Mrs. Hubbs of $2,500.00 must be deducted therefrom. After the accident and before his death, the decedent was paid his salary and this was in excess of what he would have received under the Compensation Act, and amounted to the sum of $300.00, and any compensation payments other than necessary medical, surgical or hospital fees or services shall be deducted in ascertaining the amount payable on death, under Section 7a of the Workmen’s Compensation Act. Dr. Condon’s bill in the sum of $25.00 must be denied because it appears from the evidence it was for the services of a pathologist in making an analysis of the vital organs of the deceased after his death, and these services were not rendered to the deceased in endeavoring to cure him. Deducting the amount paid by Mrs. Hubbs and the over-payment of salary in the sum of $300.00, there appears to be a total amount of $1,650.00 still due and owing. The widow having remarried, this should go to the minor son, Thomas Francis LaV elle. The widow, Margaret LaV elle, now Margaret LaVelle Belyea has been appointed his guardian and has agreed that all payments should be made payable to her, as guardian of Thomas Francis LaVelle.
+Ordinarily, this compensation would have been paid at the rate of Fifteen Dollars ($15.00) per week from the time of the death. It is contended by the Attorney General that $2,500.00 having been paid, these payments should not commence until that sum would have been paid out at the rate of Fifteen Dollars ($15.00) per week. The claimants contend that the sum of $2,500.00 having been paid by a person not under the Compensation Act, and not as the result of any efforts on behalf of the respondent, and owing to the time that has elapsed since the death of decedent, the full sum of $1,650.00 is now past due, and we are inclined to take the latter view.
+It is, therefore, the holding of this court that an award in the sum of $1,650.00, shall be paid to Margaret LaVelle Belyea, guardian of Thomas Francis LaVelle, a minor.
+This award being subject to the provisions of an Act entitled, “An Act Making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Method of Payment Thereof,” Approved July 3, 1937 (Sess. Laws 1937 p. 83) and being, by the terms of such Act, subject to the approval of the Governor, is hereby, if and when such approval is given, made payable from the appropriation from the Road Fund in the manner provided for in such Act.
