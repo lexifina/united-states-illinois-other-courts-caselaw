@@ -1,0 +1,36 @@
+---
+court: "Illinois Court of Claims"
+docket: "5118"
+decided: "1967-01-10"
+citations: ["26 Ill. Ct. Cl. 9"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Estel Burke, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/26/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2755420
+cites_cases: ["169 N.E. 2d 107", "171 N.E. 2d 492", "19 Ill. 2d 548", "190 N. E. 2d 841", "199 N.E. 2d 68", "28 Ill. App. 395", "409 Ill. 91", "48 Ill. App. 2d 307"]
+---
+
+# Burke v. State
+
+## Majority (Dove, J.)
+
+Dove, J.
+Claimant, Charles Estel Burke, on March 3, 1961 and prior thereto, was employed as a Prison Agricultural Foreman IV at Pontiac State Prison, Pontiac, Illinois, as a Civil Service employee under the rules of the Department of Personnel. There is no disagreement as to the fact that he was wrongfully discharged from said position on March 3, 1961, and was reinstated following a decision of the Appellate Court of Illinois on June 4, 1963. (Burke vs. Civil Service Commission, 190 N. E. 2d 841.)
+At the time of his discharge, claimant’s monthly salary amounted to a gross sum of $560.00 a month, and under the pay scale in effect this would have increased to $600.00 per month on July 1, 1961, and to $615.00 per month on January 1, 1963.
+Following the ruling of the Appellate Court above cited, claimant received from the Department of Public Safety the sum of $14,490.00, representing salary from July 1, 1961 to June 30, 1963. No payment was made to claimant for salary loss covering the period from March 4, 1961 to June 30, 1961 for the reason that the appropriation for the biennium had lapsed.
+During the period of his employment, claimant was furnished the use of a house, which was owned by the State of Illinois. It was located on the prison grounds, but was outside the wall. The uncontradicted testimony shows that the rental value of the house was $85.00 per month, and that the water and electricity furnished in said house was of the value of $4.00 and $10.00 per month, respectively. The heating of the house was also furnished by the State at a value of $140.00 per year. Claimant was also allowed to purchase items at wholesale prices in the general store of the prison up to a limit of $35.00 per month.
+Claimant now seeks to recover for the loss of his salary for the period of March 4, 1961 to June 30, 1961 in the amount of $2,185.81, and for the reasonable value of the rent-free house, water, electricity and heat in the sum of $4,072.00, which would have been furnished him from March 4, 1961 to June 30, 1963, had he not been wrongfully discharged. He further claims reimbursement of the amount of $235.17, representing various filing fees, abstract expenses, etc., which were incurred by him in his successful attempts to reverse the order of the Civil Service Commission discharging him.
+Since the decision of the Supreme Court of Illinois in Kelly vs. Chicago Park District, 409 Ill. 91, it has been the rule of the courts of Illinois that one who is wrongfully discharged is entitled to collect his full salary covering the period of wrongful discharge with the exception that any amounts earned by the individual from other employment during the period of discharge are to be used as a set-off. Claimant urges that this rule has been changed by an amendment to Sec. 63B-111 of Chap. 127, Ill. Rev. Stats. The amendment was added a few months after the decision was announced in the Kelly case, and the statute now provides that an officer or employee shall receive “full compensation” for any period during which he was suspended pending the investigation by the Civil Service Commission of charges against him. It is claimant’s contention that the words “full compensation” evinces legislative intent to abrogate the rule concerning set-off.
+Since the decision in the Kelly case, the courts of Illinois have had occasion to reexamine the rule of set-off in cases involving Civil Service employees who were wrongfully discharged. The following cases all reaffirm the rule set forth in the Kelly case:
+Murray vs. City of Chicago, 171 N.E. 2d 492, 28 Ill. App. 395;
+People ex rel. Krich vs. Hurley, 169 N.E. 2d 107, 19 Ill. 2d 548;
+People ex rel. Borne vs. Johnson, 48 Ill. App. 2d 307, 199 N.E. 2d 68.
+The Court of Claims has consistently followed the rule decided in the Kelly case, and it appears conclusive that any award to claimant for salary loss between March 3, 1961 and June 30, 1961 must be offset by any earnings he received from other employment during that period.
+Testimony was introduced with regard to claimant’s contention that he should be compensated for the loss of use of the State furnished home, water, heat and electricity, since these were “benefits”, which attached to the position he held. Claimant stated that he had no choice about where to live during his employment as farm manager for the prison. It seems a reasonable inference that he was required, by virtue of his duties as farm manager, to live on the prison grounds, and it would further appear that this requirement was imposed for the benefit of the Department of Public Safety in the administration of the prison program. Any “benefits”, which would be derived by claimant’s use of the rent-free house, inured to the Department of Public Safety, and not to claimant. It would seem obvious that it would be advantageous to the Department to have claimant close at hand and readily available. Since he was required to live in the house as a condition of his employment, it would not seem that his use of the house could be considered as income to him, although he undoubtedly did derive some pecuniary advantage from the arrangement. An award to claimant for the loss of these “benefits” will, therefore, have to be denied.
+In regard to the right of claimant to purchase items up to $35.00 each month at the wholesale prices charged by the prison store, we believe that this would he analgous to the right of a member of the Armed Services to use the Post&Exchange where items can be purchased at a substantially lower cost than elsewhere. The only loss to claimant caused by his inability to avail himself of this right of purchase would he the difference between the retail and wholesale value of the items, which he would purchase. There is no way to determine what items claimant might have purchased each month, nor any evidence concerning the wholesale and retail value of such items. This portion of the claim, too, must, therefore, be denied.
+There is no authority in the Court of Claims Act for the payment of monies expended by a claimant in another court. This part of the claim is likewise denied.
+Claimant testified that the salary he would have received had his employment at the prison continued was $2,185.81. His earnings, however, during the period of March 3, 1961 to June 30, 1961 from outside employment amounted to $1,293.75, which must be considered as a set-off by this Court in arriving at an award.
+Ah award is, therefore, hereby made to claimant, Charles Estel Burke, in the sum of $892.06.
