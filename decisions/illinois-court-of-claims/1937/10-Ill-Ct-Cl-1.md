@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "2838"
+decided: "1937-05-11"
+citations: ["10 Ill. Ct. Cl. 1"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lillie E. Caldwell, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/10/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2814219
+---
+
+# Caldwell v. State
+
+## Majority (Mr. Justice LiNscott)
+
+Mr. Justice LiNscott
+delivered the opinion of the court:
+On the 10th day of February, 1936, claimant filed her claim with the Clerk of this Court, alleging.that on the 25th day of December, 1935, Amos B. Caldwell, now deceased, was employed as a Highway Maintenance Patrolman for the State of Illinois on Route No. 133, between State Route No. 45 at Areola, Illinois, and the intersection of State Route No. 133 with State Route No. 49; that a blizzard was in progress on said day, and said Amos B. Caldwell went to work to remove drifts from the highway, and according to the testimony, the temperature went down as low as 15 to 20 below zero; that he worked until 6:30 A. M. on December 26, 1935. He continued to work all the afternoon of December 25, 1935, until about 4:00 P. M. when his truck broke down and was taken to a garage at Areola, but they did not have the necessary parts at Areola, and the deceased went with another man to Mattoon, to get the necessary parts. They returned to Areola about 2:00 A. M. on the morning of December 26th, and the weather was very cold. The deceased rested and slept in a chair in the garage for approximately two hours. Sometime between 4:00 and 4:30 A. M., he and his helper left the garage, and he again engaged in his duties.
+Claimant alleges that the deceased’s death was caused by exposure and over-exertion and the severe cold weather. He had been in the employ of the State about two years and received $1,280.00 per annum. He lived at Hindsboro, Illinois. The evidence shows that on December 24th, he had been to Paris, Illinois, attending a meeting of the maintenance supervisors and others at the District Engineer’s office at Paris, Illinois. He returned to his home about 6:00 P. M. on the evening of December 24th, 1935. About 2:00 A. M., December 25th, he made arrangements for one of the helpers to go out on the highways to start working in clearing off the snow and drifts. This helper came in about noon on Christmas day, and about that time, the deceased left his home with another helper, having made arrangements with said helper about 9:00 that day. They worked until the truck broke down, the deceased having done all the driving. When the deceased and his helper had their truck repaired, they again went on the road, cleaning off the drifts that had accumulated on the highway. About 6:30 in the morning he stopped his car and made a statement to the effect that when he felt a spell coming on he did not wish to drive. He got out of the truck, walked to the rear end and back again. After he had re-entered the truck, he raised both arms as if stretching and about that time collapsed; was removed to a nearby house and apparently was dead when he was taken to the house.
+Dr. J. P. Henderson of Oakland was called and he testified that in his opinion the death "was caused by over-exertion and cold, which brought on an attack of angina pectoris.
+The facts are not controverted. He had no children under sixteen years of age, but left a wife who was dependent upon him. The testimony shows that prior to this, the deceased had enjoyed good health, he had worked regularly and died while at work.
+There might have been a diseased condition of his heart prior to the date of his death, but if that condition had been accelerated by his efforts on the preceding night and day, that would be sufficient to bring the case under the Compensation Act. This court has jurisdiction of the case; the State had proper notice of the death of claimant’s intestate, and application for adjustment was filed in apt time.
+The construction and maintenance of a hard-surfaced paved public highway is the maintenance and construction of a structure under the Workmen’s Compensation Act.
+The deceased left a widow and no children. The amount of compensation payable in this case is determined by Section 7a, Workmen’s Compensation Act, which is a sum equal to four times the average annual earnings of the employee, but not less in any event than two thousand five hundred dollars, and not more in any event than four thousand dollars.
+The court finds that the deceased and the respondent were, on the 26th day of December, 1935, operating under the Workmen’s Compensation Act; that on the date last mentioned above, said deceased sustained accidental injuries within the meaning of the Act, which did arise out of, and in the course of the employment; that notice of the accident was given said respondent and claim for compensation on account thereof was made on respondent within the time required by the provisions of the Act; that the earnings of the deceased during the year next preceding the injury were $1,280.00, and that the average weekly wage was $24.62.
+That the deceased at the time of the injury was 55 years of age and had no child under sixteen years of age.
+That the petitioner is entitled to recover compensation in the sum of $4,000.00; that the said petitioner is now entitled to have and receive from the respondent the sum of $882.80, being the amount of compensation that has accrued from the 27th day of December, 1935, to the 12th day of May, 1937; and the further sum of $3,117.20 to be paid to her at the rate of $12.31 per week, payable every two weeks until fully paid, all of which is subject to the approval of the Governor of Illinois.
+This award being subject to the provisions of an Act entitled “An Act Making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Method of Payment Thereof,” approved July 2, 1935 (Sess. Laws of 1935, Page 49) and being, by the terms of such Act, subject to the approval of the Governor, is hereby, if and when such approval is given, made payable from the Eoad Fund in the manner provided for in such Act.
