@@ -1,0 +1,32 @@
+---
+court: "Illinois Court of Claims"
+docket: "82-CC-0578"
+decided: "1985-08-15"
+citations: ["38 Ill. Ct. Cl. 176"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dravo Mechling, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/38/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3055744
+---
+
+# Mechling v. State
+
+## Majority (Holderman, J.)
+
+Holderman, J.
+Claimant in this matter, Dravo Mechling, is the owner of a Towboat Barge Company which seeks to recover for damages to its barge DM-907 which it claims resulted from the barge’s collision with the Cass Street bridge near Joliet, Illinois, on November 27, 1980. On that date, the LYNN B, a diesel-powered towboat pushing the tow, was proceeding southbound on the Illinois River toward Joliet, Illinois, with 11 barges in tow. The tow consisted of four barges on the port side, four barges in the center and three barges on the starboard side.
+At a hearing held in this matter, Captain William Wince, the pilot of the LYNN B, testified that on the date of the alleged collision, barge DM-907 was the lead barge on the port side as the tow approached the Cass Street bridge. In his discovery deposition taken August 13,1984, he stated the barge in question was not the lead barge but was the second barge on the port side as the tow approached the bridge. Evidence introduced showed that, as the LYNN B approached the bridge, the Captain sounded the proper signal from a boat for a bridge to open, which is one long blast on the boat’s horn, which should be answered by the bridge tender with one long blast from the bridge siren or whistle and the switching on of the green visual signal lights. The evidence also shows that the pilot of the LYNN B did not receive any notice from the bridge tender that the bridge was going to open. The pilot testified that the traffic gates for the vehicular traffic over the bridge were still up, indicating the vehicular traffic was still crossing the bridge. He stated he was moving at about two miles per hour and the front of the tow was under the bridge when he reversed the engines. The Captain further testified that the lead barge number DM-907 struck the bridge causing damage to the barge.
+There are many rules and regulations concerning accidents of this kind. One of these rules states that when a vessel collides with a bridge, the bridge tender is to write a report of the accident at once and send it to the bridge engineer, and it is a requirement that an accident report be made out on a standard form and submitted to the bridge engineer immediately following the accident. The rules further state that the accident report must be completed irrespective of any property damage or injury. The bridge operator is required by the rules to obtain every detail possible and include it in the accident report. The rules and regulations also provide that such a collision be entered in the bridge tender’s log book and be correct and true as they form a permanent record of the operation of the bridge and it may be referred to later on in the case of controversy or lawsuit.
+In this case, there was no entry in the bridge tender’s log sheet to indicate an accident had occurred at the Cass Street bridge on November 27, 1980. No accident report pertaining to this collision was filed with the bridge engineer as required by the rules and regulations for the guidance of bridge tenders.
+Although it is standard procedure for Claimant to report such accidents in the towboat pilot’s log sheet, in this case there was no report of the alleged accident in the log sheets for the towboat, LYNN B, on November 27,1980.
+On November 29, 1980, the same tow struck a pier at a bridge at Ottawa, Illinois. An entry in the pilot’s log referring to that incident states, “Rubbed bridge at Ottawa Highway, Barge 4815 sinking Bow, C. Guard on.” The Coast Guard was notified of this incident and the proper procedures were followed. This was in contrast to the alleged accident in Joliet, Illinois.
+Mr. Karlton M. Keeney testified for Respondent. He is a bridge engineer and responsible for the operation and maintenance of moveable bridges in the Joliet, Illinois, area. He testified that on December 2, 1980, he personally inspected the Cass Street bridge and found no damage to the bridge.
+It is standard procedure in accidents of this kind that the vessel master will notify the closest Coast Guard office. The Coast Guard then informs the marine safety office after which a Coast Guard 2692 form is sent to the vessel owner and an inspector sent out. Failure to report damage to a vessel within five working days after the accident was grounds in 1980 for a $100.00 fine.
+In the present case, the Coast Guard was not notified of the alleged accident and the Coast Guard form 2692 was never prepared. Captain Wince testified he had a radio on board but failed to report the accident. In addition, Captain Wince left the scene of the alleged accident, thereby depriving the Department of Transportation of the opportunity to inspect the allegedly damaged barge.
+Claimant seeks to recover the sums it expended in the repair of said barge as well as lost earnings from the loss of use of the barge while it was being repaired.
+In this case, the towboat failed to follow the prescribed procedures in reporting accidents of this kind. This is in direct contrast to the procedure followed after the collision at Ottawa, Illinois.
+The evidence indicates it is unlikely the tow and the lead barge DM-907 struck the Cass Street bridge, since there is no such entry of such a collision in the pilot’s log or the bridge tender’s log. The fact that the bridge tender and the pilot both failed to make an entry of such an accident leads the Court to conclude that there was not any accident at the Cass Street bridge. This is further strengthened by the fact that the bridge engineer who examined the Cass Street bridge found no damage to the bridge or evidence of the barge striking said bridge. The fact remains also that the pilot of the tow never received the required response from the bridge tender and still proceeded to go under the bridge.
+This Court is of the opinion there was not any accident on November 27, 1980, with the Cass Street bridge near Joliet, Illinois. This claim is dismissed.
