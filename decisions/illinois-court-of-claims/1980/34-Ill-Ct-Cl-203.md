@@ -1,0 +1,31 @@
+---
+court: "Illinois Court of Claims"
+docket: "79-CC-0949"
+decided: "1980-10-03"
+citations: ["34 Ill. Ct. Cl. 203"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles W. McNeil, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/34/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2707984
+cites_cases: ["124 Ill. App. 2d 24", "259 N.E.2d 841"]
+---
+
+# McNeil v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This matter arises pursuant to section 8(b) of the Illinois Court of Claims Act (Ill. Rev. Stat., ch. 37, par. 439.8(b)), as a claim by Claimant, Charles W. McNeil, for back salary allegedly due from February 1, 1974, to August 16, 1977. The Respondent has stipulated to the facts relating to this claim.
+Claimant was an employee of the Department of Corrections of the State of Illinois. On February 1, 1974, he was promoted from the position of sergeant to that of correctional lieutenant. He was placed at step 3 of the pay scale for lieutenants. He should have been placed at step 4 because on April 1, 1974, he was due for a regular annual “satisfactory performance increase” as a sergeant. It was and still is the customary practice followed by the Department of Corrections and all other agencies subject to the rules of the Department of Personnel to grant an annual satisfactory performance increase prior to promotion in the event that the promotion takes place no more than 90 days before the anniversary date of the promoted employee. Apparently, Claimant satisfied this requirement. Therefore, Claimant, in being promoted 60 days prior to receiving his annual satisfactory performance increase, should have been moved to a step 5 pay scale for sergeants prior to his promotion. This was not done. The proper adjustment was, in fact, not made by the Department of Corrections until August 16, 1977.
+During the period of time from February 1,1974, to August 16,1977, Claimant was paid $2,301.00 less than he should have been paid if he had been given the proper salary increases.
+Claimant filed his complaint for the full back salary on May 18, 1979. The first issue raised by Respondent is whether any or all of Claimant’s claim is barred by the statute of limitation.
+Section 22 of Illinois Court of Claims Act (Ill. Rev. Stat., ch. 37, par. 439.22), provides that “all claims arising out of a contract must be filed within five years after it first accrues.” Each party concedes that the claim for wages earned prior to May 18,1974, should be barred by this statute of limitations.
+“Generally, where a person is employed under a general agreement which fixes no term of service, and continues in such employment for a long period of time, the hiring will be treated-as a hiring by the year; and the statute of limitations will ordinarily bar a claim for all services rendered more than five years immediately preceding the commencement of the action, unless there is evidence to take the case out of the operation of the statute.” (In re Estate of Franke (1970), 124 Ill. App. 2d 24, 259 N.E.2d 841, 845.) Since there is no evidence, nor has Claimant alleged any facts to remove the case from the operation of the applicable statute of limitations, the claim as to wages prior to May 18, 1974, is barred. The parties have stipulated that this sum is $164.50.
+Respondent also argues that the entire claim of Claimant should be barred under the provisions of Ill. Rev. Stat., ch. 127, par. 145. This section provides in part:
+“Amounts paid from appropriations for personal service of any officer or employee of the state, either temporary or regular, shall be considered as full payment for all services rendered between the date specified in the payroll or other voucher and no additional sum shall be paid to such officer or employee from any lump sum appropriation, appropriation for extra help or other purpose or any accumulated balances in specific appropriations, which payments would constitute in fact an additional payment for work already performed and for which remuneration had already been made, except that wage payments made pursuant to the application of the prevailing rate principle or based upon the effective date of a collective bargaining agreement between the state, or a state agency and an employee group, or payment of funds as an adjustment to wages paid employees or officers of the state for the purpose of correcting a clerical or administrative error or oversight or pursuant to a back pay order issued by an appropriate state or federal administrative or judicial body or officer shall not be construed as an additional payment for work already performed.”
+The departmental report of the Department of Corrections filed in this matter indicates that the failure to properly promote Claimant to the required wage scale was due to a clerical or administrative error or oversight. While the departmental report does not use such terminology in excusing the delay, the whole tenure of the report is that the wage increase should have been given but simply was not done so because of oversight. In fact, at one place in the report the director of the Department states that “some time went by before the employee became aware of the error.” There can be no doubt from reading the departmental report that administrative error or oversight caused Claimant’s not being paid the proper wages. The report of the departmental agency is to be considered prima facie evidence of the facts contained in the report (Rule 14 of the Rules of the Court of Claims).
+The portion quoted above from paragraph 145 of chapter 127 specifically excludes “payment of funds as an adjustment to wages paid employees or officers of the State for the purpose of correcting a clerical or administrative error or oversight.” Therefore, this statute has no application to bar the portion of Claimant’s claim not already barred by the statute of limitations.
+It is therefore ordered that the Claimant be and is hereby awarded the sum of two thousand two hundred thirty-six and 50/100 ($2,236.50) dollars.
