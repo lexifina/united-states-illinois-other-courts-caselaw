@@ -1,0 +1,23 @@
+---
+court: "Illinois Court of Claims"
+decided: "1921-04-26"
+citations: ["4 Ill. Ct. Cl. 193"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Cordes v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2838817
+---
+
+# Cordes v. State
+
+## Majority
+
+This suit was instituted by John H. Cordes, who was a guard and as such, was an employee of the State of Illinois, to recover damages alleged to have been incurred by him, while in the employ of defendant, and while he, claimant, was exercising due care for his own safety. The facts are stated in the opinion.
+As an employee, he was receiving $90.00 per month. About the 6tli day of May, 1919, the claimant and, other guards, and a number of convicts left the prison, to go about five miles out west, what is known as the “Xew Prison.” The trip ivas made in a truck and an automobile. Claimant ivas riding in the automobile truck, which was driven by a convict. It had been the custom, until otherwise ordered, to stop the vehicles outside the gate of the new prison, but some several weeks before the accident to the claimant, positive orders had been given by the captain not to stop outside, but to drive inside and stop for the passengers to alight, and that rule had been adhered to ever since then up to the day of the accident inclusive.
+The claimant testified that as the vehicle in which he and others were riding, ivas nearing the outside of the gate, it slowed up, and that he started to get out, and a sudden jerk given the car, by the'- driver, caused him to fall, his foot going under the car, and the wheel passing over, and crushing his foot. He- says the car had about come to a stop or nearly so, when it gave a sudden jerk and started up and threw him. In this, he is very slightly corroborated by William Hilland, vrho also attempted to get out at same time and fell.
+Captain Iiulty states that the car had not stopped at time claimant got out, but ivas sloAving down some, and did not stop until it got inside the gate in accordance with his orders, given some weeks before; that car did not stop and start up, but kept running until on the inside of gate. In this, he is corroborated by William Chidsey, another guard, Avho was in the company at said time, who says the car’ did not stop and start with a jerk. He says it never stopped until it go inside the gate. James E. Parker, another guard, states substantially the same thing, and says claimant got off the car while it was still in motion, and before it had gotten inside, to the stopping place.
+Hr. Blatt also testified that claimant alighted before they reached the gate, his foot slipped, and he fell, one foot going under the car. The captain had the claimant taken back to the prison hospital, and treated him for broken bones of the foot. The bones forming the arch were broken down so that it produced a “flat foot.” The prison physician, Dr. Bloomfield, says that the foot will never be as good as it was, but cannot tell as to the extent it disqualifies him from performance of manual labor. Claimant did return to his job in the prison, and worked two months at same salary as before the accident. Claimant testified that he had paid out about $200.00 in endeavoring to be cured.
+As orders had been given some three, or four weeks before the date of accident, that the cars and trucks must not stop outside, but must run on inside of the gate before passengers were allowed to alight, the claimant must have been fully apprised of such requirement, and rule. The great weight of the evidence in the case is with the State, and shows that the claimant deliberately endeavored to alight while the car was still running and- before it reached its destination or particular place for stopping. He probably jumped out. His entire action in alighting while the vehicle was in motion, and before it reached its stopping place, was in direct violation of a positive command of the captain, as stated. While the truck was slowing up some, still it was heavily loaded, and was moving with a good deal of momentum, and perhaps with much greater speed than was anticipated by claimant. The accident ivas the result of claimant’s own gross carelessness, and for that reason, and other reasons argued by the Attorney General, the State is not liable to respond in damages in this case. But in view of the fact that the claimant is now getting old, and in view of the fact that his foot will never be as good as it was, as stated by the doctor, we have concluded to, and do recommend an allowance of $500.00.
