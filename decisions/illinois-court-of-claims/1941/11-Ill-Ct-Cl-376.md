@@ -1,0 +1,56 @@
+---
+court: "Illinois Court of Claims"
+docket: "3078"
+decided: "1941-01-14"
+citations: ["11 Ill. Ct. Cl. 376"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elmira Heine, as Administratrix of the Estate of Arthur Heine, Deceased, and Elmira Heine, Individually, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/11/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2817998
+cites_cases: ["311 Ill. 35"]
+---
+
+# Heine v. State
+
+## Majority (Mr. Chief Justice Hollerich)
+
+Mr. Chief Justice Hollerich
+delivered the opinion of the court:
+For several years prior to September 4th, 1936 Arthur Heine was employed as a butcher at the Manteno State Hospital, Manteno, Illinois. On the last mentioned date, while in the line of his employment and while cleaning fish, he ran a fin into the thumb of his right hand. He applied iodine on the wound and continued to work that day and the next day, which was Saturday. He was off work Sunday, and on Monday (Labor Day) the hand began to bother him and he returned from his home in Kankakee to the Manteno State Hospital in order to have the same dressed by the institution' physician. Hot applications were applied and Heine was placed in bed at the institution hospital and remained there until Thursday of that week. Not being satisfied with the condition of his hand, he then consulted Dr. George Irwin of Kankakee who continued to treat him from September 10th to September 23. From September 23d until October 7 he continued with the treatments prescribed by Dr. Irwin. On October 7th he went to see Dr. John Goodwin of Kankakee, and continued under Ms care until March 30th, 1937. On October 8th, 1936 he went to St. Mary’s Hospital in Kankakee where an operation was performed on his hand on October 10th, and where he remained until November 12th. By February 1st, 1937 his hand had improved to such an extent that he could return to work, and on that day he went back to work at the Manteno State Hospital at the same wages that he was receiving prior to the time of Ms injury.
+He paid Dr. Irwin the sum of $35.00 for medical services, and also paid St. Mary’s Hospital of Kankakee the sum of $173.30 for hospital services. The bill of Dr. Goodwin for medical and surgical services rendered to Heine was $276.00, which bill has not yet been paid.
+Arthur Heine filed his Complaint in this court on April 6th, 1937 and on May 2nd, 1939 he departed this life from other causes than such injury, leaving him surviving, the claimant Elmira Heine, his widow, and no children.
+Thereafter Elmira Heine was appointed Administrator of the estate of said Arthur Heine, deceased, by the County Court of Kankakee County, and subsequently, pursuant to leave of court theretofore had and obtained, the Complaint herein was amended by substituting Elmira Heine as Administrator of the estate of Arthur Heine, deceased, and Elmira Heine individually as claimants herein.
+There is no conflict in the evidence either as to the period of temporary disability, or the extent of the specific loss sustained by said Arthur Heine. Claimant’s physician and the attending physician at Manteno State Hospital both agreed that Heine sustained the permanent loss of seventy-five per cent (75%) of the use of his right hand.
+A question has been raised as to whether the respondent should be required to pay the medical and surgical bills incurred by Heine. The evidence bearing on this phase of the case is somewhat meagre, but from such evidence and the inferences which may fairly and reasonably be drawn therefrom, it satisfactorily appears that Heine did not reside at the institution; that he went to the institution hospital of his own volition, and was treated there by the institution physician from Monday, September 7th, until Thursday of that week; that he left the institution of his own accord and consulted Dr. Irwin and thereafter Dr. Goodwin; that the officers at the institution knew of Heine’s condition and apparently knew that he was under the care and treatment of doctors, outside the institution; that no complaint was ever made by any of such officers with reference thereto, and no request was-ever made by any such officers that Heine return to the State • Institution either for hospitalization or for medical treatment.
+In discussing a somewhat similar question, our Supreme-Court in the case of Old Ben Coal Corporation vs. Ind. Com.,. 311 Ill. 35, said:
+“In other words, the employer is not given the right, simply because the-employee leaves the hospital to which the employer took him, to avoid all liability for hospital and medical treatment without tendering other services of like character, unless the facts show that the employee, by leaving the-hospital, elected to secure a physician and hospital at his own expense. Whether the plaintiff in error had it tendered competent service of that character after demand for assistance, would have had a right to have the employee treated by the means tendered is not decided, for no such tender was made.”
+In speaking on the same subject, Angerstein, in his work “The Employer and the Workmen’s Compensation Act of' Hlinois,” page 478, says:
+“Where request for medical and hospital services is made or the employer knows that they are needed, he should promptly furnish the best services, available and the employee should accept them. If the employee has already gone to a hospital or secured his own physician the employer should make a definite and unmistakable tender or offer to provide such services and if the employee refuses to accept them the employer should advise the employee that if he does not accept the servios offered but selects his own the employer will not be liable and that the employee will have to stand the expense. In other words, the employer upon such knowledge or request is required to ■ provide the services and is liable therefor unless the employee elects to select his own services and refuses to accept those offered by the employer. In any such case the employer should make, a definite and positive record of offer and refusal”
+' Under the evidence in this case we are of the opinion that the respondent is liable, for the medical and hospital expenses incurred by said Heine .as hereinbefore set forth.
+From a consideration of the record in this case, we find as follows:
+That on September 4th, 1936 said Arthur Heine and respondent were operating under the provisions of the Workmen’s Compensation Act of this State.
+That on said date said Arthur Heine sustained accidental injuries which arose out of and in the course of his employment.
+That notice of the accident -was given to said respondent and claim for compensation on account thereof was made within the time required by the provisions of such Act.
+That the earnings of said employee during the year preceding the accident were $1,137.94, and his average weekly wage was $21.88.
+That said employee at the time of the injury was married, and had no children under the age of sixteen years.
+That all medical and hospital services from the date of the injury to October 10, 1936 were furnished by respondent, and all medical, surgical and hospital services on and after October 10th, were procured by said employee at his own expense, and that the amount incurred therefor is as follows:
+St. Mary’s Hospital, Kankakee, Illinois...................... $173.30
+Dr. George Irwin, Kankakee, Illinois........................ 35.00
+Dr. John Goodwin, Kankakee, Illinois....................... 276.00
+that the bills of St. Mary’s Hospital and Dr. Irwin were paid by said employee, and the bill of Dr. Goodwin remains unpaid.
+That as the result of such accident said Arthur Heine was temporarily totally disabled from September 7th, 1936 to February 1, 1937, to wit, for the period of twenty-one (21) weeks, and also sustained the permanent loss of seventy-five per cent (75%) of the use of his right hand.
+That the sum of Two Hundred Sixty-one Dollars and Thirty-two Cents ($261.32) has been paid to apply on the ■compensation due as aforesaid.
+That the claimants are entitled to have and recover from the respondent the following sums (less the sum of $261.32 heretofore paid as aforesaid), to wit:
+a) The sum of Four Hundred Eighty-four Dollars and Thirty Cents ($484.30) for medical, surgical and hospital expenses as aforesaid.
+b) The sum of Ten Dollars and Ninety-four Cents ($10.94) per week for twenty-one (21) weeks, to wit, the sum of Two> Hundred Twenty-nine Dollars and Seventy-four Cents ($229.74), for temporary total incapacity of said Arthur Heine as aforesaid.
+c) The sum of Ten Dollars and Ninety-four Cents ($10.94) per week for One Hundred Twenty-seven and one-half (127%) weeks, to wit, the sum of Thirteen Hundred Ninety-four Dollars and Eighty-five Cents ($1,394.85), for the permanent loss of seventy-five per cent (75%) of the use of Ms rigM hand, pursuant to the provisions of paragraph (e) of Section eight (8) of the Compensation Act.
+That all of such compensation has accrued at this time.
+That pursuant to the provisions of the Workmen’s Compensation Act, the claimant Elmira Heine as Administrator of the estate of Arthur Heine, deceased, is entitled to receive the compensation which has accrued prior to the death of said Arthur Heine, to wit, the medical, surgical and hospital expenses as aforesaid, the compensation for temporary total disability as aforesaid, and the compensation for 117 1/7 weeks specific loss as aforesaid; — less the sum of $261.32 heretofore paid by respondent as aforesaid; and the claimant Elmira Heine individually is entitled to have and receive the compensation which has accrued subsequent to the death of said Arthur Heine, to wit, the compensation for ten and five-fourteenths weeks specific loss as aforesaid.
+Award is therefore entered herein as follows:
+To Elmira Heine, Administrator of the estate of Arthur Heine, deceased, the sum of Fourteen Hundred Fifty-eight Dollars and Twenty-six Cents ($1,458.26).
+To Elmira Heine, Administrator of the estate of Arthur Heine, deceased, for the use of Dr. John Goodwin, the sum of Two Hundred Seventy-six Dollars ($276.00).
+To Elmira Heine, individually, the sum of One Hundred Thirteen Dollars and TMrty-one Cents ($113.31).
+This award, being subject to the provisions of an Act entitled “An Act Making an Appropriation to Pay Compensation Claims of State Employees and Providing for the Method of Payment Thereof,” (Illinois Revised Statutes, 1939, Bar Association Edition, Chapter 127, Pars. 180-181), and being subject also to the terms of an Act entitled “An Act Making Appropriations to the Auditor of Public Accounts for the Disbursement of Certain Monies Until the Expiration of the First Fiscal Quarter After the Adjournment of the Next Regular Session of the General Assembly,” approved July 1, 1939 (Session Laws 1939, page 117); and being, by the terms of the first mentioned Act, subject to the * approval of the Governor, is hereby, if and when approval is given, made payable from the appropriation from the General Fund in the manner provided by the foregoing Acts.
