@@ -1,7 +1,7 @@
 ---
 court: "Illinois Court of Claims"
 decided: "1916-12-22"
-citations: ["3 Ill. Ct. Cl. 65", "3 Ill. Ct. Cl. 49"]
+citations: ["3 Ill. Ct. Cl. 65"]
 reporter: "ill-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Hal C. Smith v. State of Illinois."]
 source_url: "https://static.case.law/ill-ct-cl/3/cases/0065-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2838940
-cites_cases: ["370 Ill. 304"]
 ---
 
 # Smith v. State
