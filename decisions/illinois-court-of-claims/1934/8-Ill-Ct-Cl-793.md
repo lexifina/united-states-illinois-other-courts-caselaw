@@ -1,0 +1,21 @@
+---
+court: "Illinois Court of Claims"
+docket: "627"
+decided: "1934-04-26"
+citations: ["8 Ill. Ct. Cl. 793"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["University of Illinois,"]
+source_url: "https://static.case.law/ill-ct-cl/8/cases/0793-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2809169
+cites_cases: ["294 Ill. 548"]
+---
+
+# University of Illinois
+
+## Majority
+
+By the Court.
+As the business of the University of Illinois is not that of maintaining and operating buildings, as construed by the courts, the service of a carpenter regularly employed in the maintenance and repair of the buildings would not bring such employment within the Workmen’s Compensation Act. Upon the facts stated, no award is recommended. (See Lombard College vs. The Industrial Commission, 294 Ill. 548.)
