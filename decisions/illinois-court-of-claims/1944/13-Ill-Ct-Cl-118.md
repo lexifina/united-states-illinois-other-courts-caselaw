@@ -1,0 +1,38 @@
+---
+court: "Illinois Court of Claims"
+docket: "3809"
+decided: "1944-01-12"
+citations: ["13 Ill. Ct. Cl. 118"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph M. McDonough, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/13/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5364923
+---
+
+# McDonough v. State
+
+## Majority (Fisher, J.)
+
+Fisher, J.
+Claimant filed Ms complaint on August 31, 1943, alleging therein that on the 14th day of December, 1942, he was employed by the State Highway Division, engaged in working on and maintaimng hard roads; that about 9:45 A. M. on said date, while working on S. B. I. Boute No. 3 near Buma, Illinois, claimant was handling a barrel of liquid asphalt when it exploded, the head of the barrel blowing out and striking him on the left hand, whereby he suffered a permanent partial loss of the use of his left hand.
+The record consists of the complaint, report of the Division of Highways, stipulation, statement, brief and argument on behalf of claimant, and also of respondent. The facts as contained in the report of the Division of Highways, were agreed to by stipulation entered into by and between claimant and the Attorney General, and constitute the evidence in this case.
+From the report of the Division of Highways, it appears that during the year preceding his injury claimant was regularly employed and earned a total of $1,-360.20; that at approximately 10:00 A. M. on December 14, 1942, the group to wMch claimant had been assigned was preparing asphalt material with which to patch holes in the pavement of the highway in the village of Buma in Bandolph County, Illinois. Claimant was tending a fire built under a drum of BC-3 asphalt at a storage lot leased by the Division of Highways. The fire had been built to heat the asphalt so that it would flow from the drum. WMle stooping in front of the drum placing fuel on the fire, the drum exploded, blowing the top of the drum out and splashing hot asphalt on claimant’s face and hands. The top of the drum struck claimant on his left hand, causing fractures of the first, second, third and fourth fingers. The Division had notice of the injury immediately following the accident.
+Claimant was taken immediately to Dr. E. A. Pautler of Bed Bud, Illinois, who placed him in St. Clement’s Hospital of that village, where he remained until the next day, December 15, 1942.
+Claimant received the sum of $93.50 for compensation for temporary total disability, which was for the period from December 15, 1942, to January 18, 1943, at the rate of $18.70 per week. The medical and hospital bills, amounting to $69.65, were paid by the Division of Highways. Accordingly, there is no claim for temporary total disability or medical and hospital bills.
+Inasmuch as the Division of Highways had immediate notice of the accident and claim was filed within one year from the date of the accident, this court has jurisdiction.
+From the evidence, the injury occurred in the course of and out of claimant’s employment, so the only question for the court to determine is the amount of the award.
+On May 10, 1943, claimant was sent to Dr. J. Albert Key, Professor of Orthopedics and Head of the Department of Orthopedics, Washington University, St. Louis, Missouri, for an examination and such treatment as he should advise.
+On May 11, 1943, Dr. Key reported as follows:
+“I examined Mr. Joseph McDonough yesterday on account of pain and disability in the left hand and wish to submit the following report:
+According to the history this man was injured December 14, 1942, when an asphalt barrel exploded, the lid of the barrel striking the left hand and causing fractures and abrasions, as well as burns of the hands and face. The burns have healed. The fractures are now united, but the patient is unable to close his fingers and complains of pain and weakness and limitation of motion in the hand.
+Physical Examination — There is moderate irregularity of the knuckles, that of the middle finger being moderately enlarged, and there is a shortening of the 5th metacarpal bone with a bone prominence on the back of the hand over this bone. Movements of all joints of the middle, ring and little fingers are limited about 75 per cent, as are movements of the metacarpophalangeal joints of these fingers. There is slight pain when the movements are forced. Movements of all joints and of,the metacarpophalangeal joint of the index finger are limited approximately 50 per cent. Over the dorsal surfaces of the first interphalangeal joints of the three outer fingers are scars from lacerations which have healed. The grip of the hand is very weak and the patient is unable to extend fully his fingers or to close them to make a fist or to grip anything except a relatively large object. Extension is limited about 15 per cent and flexion is limited about 60 per cent in the three outer fingers and the limitation in the index finger is slightly less.
+X-rays — X-rays which the patient brought with him and new x-rays taken yesterday show the following fractures: (1) Fracture of the 5th metacarpal at the junction of the distal and middle thirds which has united with considerable posterior bowing and about one-third of an inch of shortening; (2) fracture of the base of the 1st phalanx of the middle finger which has healed with rather marked compression and broadening at the base of this bone (this accounts for the swelling of this knuckle; (3) fracture of the distal portion of the 1st and of the head of the 1st phalanx of the ring finger; and (4) fracture of the base of the 1st phalanx of the little finger.
+Conclusion — This man will have rather marked permanent disability of all four fingers of this hand. I believe that with continued use there will be some increase in movement and power in the hand. I do not think that any specific treatment other than exercises and the heat which he is using at home are indicated at this time.”
+Claimant seeks an award based on 50 per cent loss of the use of Ms left hand. TMs appears justified by the evidence and the Court will make its award on tMs basis. Claimant earned the sum of $1,360.20 during the year preceding Ms injury, or an average weekly wage of $26.16. As claimant has suffered a 50 per cent loss of the use of Ms left hand, he is entitled to receive under Section 8, paragraph (e), sub-paragraph (12) and also sub-paragraph (17) of the Workmen’s Compensation Act, 50 per cent of Ms average weekly wage for a period of eighty-five (85) weeks. Fifty per cent of his average weekly wage is $13.08. As claimant had four cMldren under 16 years of age, under paragraph (j) of Section 8, he would be entitled to an increase of 15 per cent, or a total of 65 per cent of Ms average weekly wage, wMch would entitle Mm to a weekly compensation in the sum of $17.00. TMs is further increased 10 per cent by paragraph (1) of Section 8 of the Act, so claimant would be entitled to the sum of $18.70 per week for eighty-five (85) weeks, or a total award of $1,589.50.
+An award is therefore entered in favor of claimant for the sum of $1,589.50, payable as follows:
+(1) The sum of $1,047.20, compensation for a period of 56 weeks accrued from December 14, 1942, to January 10, 1944, is payable forthwith;
+(2) The balance of said 'award, being the sum of, $542.30, is payable in 29 weekly installments of $18.70 each, commencing January 17, 1944.
+TMs award is subject to the approval of the Governor as provided in Section 3 of “An Act concerning the payment of compensation awards to State employees.”
