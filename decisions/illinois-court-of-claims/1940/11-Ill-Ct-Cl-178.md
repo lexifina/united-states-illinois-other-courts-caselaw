@@ -1,0 +1,40 @@
+---
+court: "Illinois Court of Claims"
+docket: "3047"
+decided: "1940-01-09"
+citations: ["11 Ill. Ct. Cl. 178"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. S. Pearsall Butter Co., a Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/11/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2816411
+---
+
+# B. S. Pearsall Butter Co. v. State
+
+## Majority (Mr. Justice Tantis)
+
+Mr. Justice Tantis
+delivered the opinion of the court:
+Claimant seeks an award of Two Thousand Six Hundred Twenty-three and 06/100 ($2,623.06) Dollars for damages alleged to have been occasioned by a breach of contract.
+The record discloses that claimant, a corporation organized under the laws of Illinois, in response to notice to prospective bidders, submitted on June 20, 1935, a bid for the sale and" delivery of 55,200 gallons of milk at the rate of 600 gallons per day to the Chicago State Hospital at Dunning, Illinois, during the period between July 1 and September 30, 1935, at a price of $.2345 per gallon. On June 21, 1935, the respondent accepted the offer and the Division of Purchases and Supplies issued claimant a purchase order therefor.
+At the time claimant was awarded the contract it held Permit No. 274 issued by the Board of Health of the City of Chicago on July 1,1934, and expiring June 30, 1935, by which claimant was permitted to deliver milk pasteurized by it at its plant at Elgin, Illinois, into the City of Chicago.
+The specifications attached to the contract in question provided that—
+“The Milk Ordinance, passed by the City Council (of Chicago) January 4, 1935 and the rules and regulations of the Chicago Board of Health, adopted January 8, 1935, will govern for the standards and requirements for milk and milk products delivered to State institutions in tire Chicago area, and bidders must be governed accordingly.”
+Claimant began delivery of milk under the contract to the Chicago State Hospital at Dunning, Illinois, on July 1, 1935, and delivered 600 gallons daily until August 16, 1935. Commencing on that date respondent refused to accept deliveries or to pay therefor, and informed the claimant that the latter’s contract had been canceled for non-compliance with the provisions of the Chicago Milk Ordinance in that its Permit No. 274 had expired June 30, 1935, and no subsequent permit had been issued by the City of Chicago to the claimant. No further milk was accepted and a new contract was made by the State with the Bowman Dairy Company at an increased price, the latter company being the next lowest bidder at the time the contract was awarded to claimant herein.
+The claimant company had made the necessary arrangements whereby it might be able to carry out the terms of its contract, and the cancellation of such contract resulted in losses and additional expense to the claimant.
+The Attorney General submits that if an award is found to be due the claimant for breach of contract, the measure of damages would be the difference between the contract price for the remaining quantity of milk that was to have been delivered and the price for which claimant was able to dispose of same when he was prevented from delivering same to the respondent.
+Counsel for respondent concedes that if the respondent wrongfully cancelled the contract, claimant would be entitled to an award in the sum of Two Thousand Six Hundred Twenty-three and 02/100 ($2,623.02) Dollars, which represents the difference between the contract price of the milk remaining undelivered (27,600 gallons at $.2345 per gallon), Six Thousand Four Hundred Seventy-two and 20/100 ($6,472.20) Dollars and Three Thousand Eight Hundred Forty-nine and 18/100 ($3,849.18) Dollars, the price at which claimant disposed of the remaining 27,600 gallons. The record discloses that in disposing of the balance of milk due on the contract the total amount received was Two Thousand Six Hundred Twenty-three and 02/100 ($2,623.02) Dollars less than the price called for under the contract.
+That which gave rise to the cancellation was the fact that prior to July 1, 1935, the inspectors for the Chicago Board of Health inspected pasteurization plants outside of the City of Chicago, and issued permits for the delivery of pasteurized milk into the city. On July 9, 1935, the Chicago Board of Health adopted a resolution restricting inspections to Cook County, and,ruling that no milk or milk products should thereafter be sold or offered for sale as pasteurized milk or milk products in the City of Chicago unless the same shall have been pasteurized in a pasteurization plant which is located within the boundaries of Cook County, Illinois. The questions which presented themselves in determining whether respondent was warranted in terminating the contract are:
+1. . Is the Chicago State Hospital at Dunning, Illinois, a State institution in the Chicago areaf
+2. Has the proviso, contained in the specifications, that the rules and regulations of the Chicago Board of Health adopted January 8, 1935, will govern for the standards and requirements for milk, been violated?
+There is nothing in the record to show what State institutions are included in the “Chicago area” within the meaning of the two latter words. It is apparent, however, that the claimant was complying at all times with the rules and regulations of the Chicago Board of Health as adopted January
+8, 1935, and it was those regulations which were to govern the standards and requirements for the milk that was to be delivered under this contract.
+Witness Paul F. Krueger, the Chief Sanitary Officer for the Chicago Board of Health, who testified at the request of the* board in answer to a subpoena, stated that he was connected with the Chicago Board of Health prior to July 1, 1935, and continued to so be at the time of the taking of the evidence in this case. The wdtness knew the Pearsall Butter Company and its plant at Elgin. He was asked:
+Q. “Has the Pearsall Butter Company of Elgin, Illinois, complied with the rules and regulations of the Chicago Board of Health since July 1, 1935, up to the present time? (June 9, 1939.)
+A. “To the best of my knowledge they have; yes, sir.”
+This witness also stated that the Pearsall Butter Company had subsequent to July 1, 1935, received authority from the Chicago Board of Health to handle raw milk only in Chicago, and to pasteurize milk for the Chicago Hospital at Dunning until its contract was fulfilled.
+It is apparent from the record that claimant was ready, able and willing to continue to perform the balance of its contract with the State Hospital at Dunning on August 16, 1935, and that the respondent breached its contract without legal justification. The milk then being furnished by the claimant conformed with the standards and requirements for pasteurized milk as laid down by the rules and regulations of the Chicago Board of Health. The fact that such milk could not be delivered in the City of Chicago because of a rule made subsequent to January 8, 1935, did not affect the standard of the product, nor would the health of those to whom it was furnished have been jeopardized in any way. The claimant was in possession of a Certificate of Approval issued by the Department of Public Health of the State of Illinois, showing that its pasteurization plant located at Elgin, Illinois, was complying in all respects with the rules of the Department of Public Health of the State of Illinois, such permit certifying that “the construction and equipment of its pasteurization plant was such that with proper maintenance and operation the pasteurized milk will be safe for human consumption.”
+From a consideration of the entire record the court is of the opinion that claimant is entitled to an award for the sum of $2,623.02, and an award is therefore accordingly made in favor of the B. S. Pearsall Butter Company for the said sum of $2,623.02.
