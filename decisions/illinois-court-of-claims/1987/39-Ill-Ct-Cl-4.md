@@ -1,0 +1,40 @@
+---
+court: "Illinois Court of Claims"
+docket: "76-CC-2629"
+decided: "1987-06-10"
+citations: ["39 Ill. Ct. Cl. 4"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert E. Howard, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/39/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5494931
+cites_cases: ["25 Ill. Ct. Cl. 256", "30 Ill. Ct. Cl. 634", "32 Ill. App. 2d 412"]
+---
+
+# Howard v. State
+
+## Majority (Raucci, J.)
+
+OPINION
+Raucci, J.
+The Claimant, Robert E. Howard, brings this action against the State of Illinois, seeking recovery of money damages for injuries suffered in a deer-automobile accident on November 28,1974. Claimant struck a deer on Illinois Route 180 in Knox County, Illinois. He seeks to recover damages from the State of Illinois for injuries sustained when striking the deer, based upon a theory that the State should have posted deer crossing signs in the area where he struck the deer.
+Evidentiary hearings were held on August 25, 1982, and February 10,1984. Counsel for the Claimant and the Assistant Attorney General were present throughout the course of these hearings. In addition, evidentiary depositions were taken and submitted by Claimant. Both parties have submitted their briefs and arguments.
+The sole issue presented is whether the State of Illinois had a duty to erect a deer warning sign at or near the site of the accident. Claimant relies upon section 11 — 303 of the Illinois Vehicle Code (Ill. Rev. Stat. 1973, ch. 95M, par. 11 — 303), as the basis for recovery in this action.
+The record reflects that on November 28, 1974, at approximately 2:00 a.m. the Claimant was driving southbound on Illinois Route 180 approximately 2M miles north of Williamsfield, Illinois. Claimant had driven this route on numerous occasions. The collision took place while he was driving south on the two-lane road. On the aforesaid date, the speed limit for that road was 55 miles per hour. The Claimant, prior to the impact, had been going at a top speed of 50 miles per hour.
+The collision site was a two-hilled wooded area with some timber and brush. While the Claimant was driving at the aforesaid location, suddenly and without warning, two large deer jumped in front of the Claimant’s car while he was traveling about 50 miles per hour. At the top of the hill, the first deer jumped over the car but did not actually strike the vehicle. The second deer, however, came in contact with the Claimant’s vehicle, causing a violent collision and serious injury to the Claimant.
+The record reflects that an Illinois Department of Transportation engineer, Steve Van Winkle, was the District Traffic Engineer for District 4, including Knox County, from 1974 to 1976. He testified that he would not consider putting up a deer sign in a particular area unless he had a positive recommendation from the Department of Conservation. The Department of Transportation would rely solely upon the recommendation of the Department of Conservation in determining whether to put up a deer sign. During the time that he had responsibility for District 4, the Department of Transportation erected no deer signs for District 4.
+Forrest Loomis of the Department of Conservation is the top State official in Illinois as it relates to deer management and road-deer mortality. He testified that it is the policy to discourage use of deer signs due to their ineffectiveness. He further testified that thousands of deer are killed on the roads of Illinois each year. In November of 1974, Forrest Loomis did not recommend the posting of deer signs anywhere in his area of responsibility, including Knox County, Illinois. Loomis has never recommended to the Department of Transportation that it install deer warning signs anywhere in Illinois.
+Dr. Allan Wolff testified as an expert in the field of wildlife science and natural resources management on behalf of the State of Illinois. Dr. Wolff was of the opinion that deer warning signs are ineffective and do not reduce the incidence of deer-automobile collisions. Further, the record reflects that the Department of Transportation’s policy is not to put up additional deer warning signs due to their ineffectiveness.
+Claimant’s expert witness, Lester Kollom, a safety engineer for the U.S. Postal Service, testified that the history of the physical location in question, the type of road, the type of vegetation and the road environment which forms a valley would be attractive to deer. He further testified that certain precautions such as fences and guard rails should have been placed along Illinois Route 180. However, he was unaware of the nationally published studies on the effectiveness of deer warning signs.
+Section 11 — 303 of the Illinois Vehicle Code (Ill. Rev. Stat. 1973, ch. 95M, par. 11 — 303) provides in pertinent part as follows:
+“(a) The department shall place and maintain such traffic-control devices, conforming to its manual and specifications on all highways under its jurisdiction as it shall deem necessary to indicate and to carry out the provisions of this Chapter or to regulate, warn or guide traffic.” (Emphasis added.)
+It is clear that this statute is discretionary and not mandatory. It allows the State to place such traffic control devices “as it shall deem necessary.” If the State of Illinois does not deem it necessary to post deer signs on Route 180, it is not required to do so under the statute, since section 11 — 303 is purely discretionary in nature.
+Thousands of deer are killed on the roads of Illinois every year and to suggest that the State should be liable each time a motorist strikes a deer because the State did not post a deer sign at that particular location, is contrary to the intent of the statute granting the government discretion in the posting of deer warning signs.
+In Sherar v. State (1965), 25 Ill. Ct. Cl. 256, Claimant sued the State for failure to post a “Stop Ahead” sign at an approach to an intersection. In that case, we cited the former equivalent of section 11 — 303 of the Illinois Vehicle Code and held that the failure to maintain a sign did not constitute negligence.
+The judgment as to whether it is necessary to place deer signs in certain places on the thousands of miles of State highways is discretionary. To interfere with such discretionary decisions of State government would unduly interfere with the governmental functions of the State and would place an unreasonable burden upon the State. The State is immune from liability or negligence in the performance of discretionary duties. Flaim v. State (1975), 30 Ill. Ct. Cl. 634.
+In the absence of statutory provisions to the contrary, there can be no recovery against the State or a municipal corporation for injuries caused by negligence in the exercise of functions which are essentially discretionary or governmental in nature, although liability may attach for acts which are ministerial in nature.
+Based upon the evidence submitted, it is clear that the decision to post deer warning signs at a particular location is an exercise of a governmental function in determining whether such signs are necessary. Therefore, the particular State agency involved in that decision-making process is held immune from liability for accidents claimed to have been caused by its failure to erect a deer warning sign. This principle is reaffirmed in Locigno v. City of Chicago (1961), 32 Ill. App. 2d 412, 421, in which the court held that the regulation of traffic is a governmental function.
+In the instant case, since the State did not undertake to place deer signs on Route 180, it may not be held liable. The State created no danger on the highway and the highway was not defective. As such, the State had no duty to post deer warning signs at the location in question.
+It is therefore ordered, adjudged and decreed that the complaint is dismissed, with prejudice.
