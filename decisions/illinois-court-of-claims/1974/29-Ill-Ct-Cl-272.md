@@ -1,0 +1,41 @@
+---
+court: "Illinois Court of Claims"
+docket: "5593"
+decided: "1974-03-11"
+citations: ["29 Ill. Ct. Cl. 272"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Faulisi, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/29/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5341145
+---
+
+# Faulisi v. State
+
+## Majority (Holderman, J.)
+
+Holderman, J.
+Claimant, Samuel Faulisi, seeks recovery from the State of Illinois in the amount of $30,000.00, plus an additional $7,500.00 for attorneys’ fees, as a result of his illegal incarceration in the Illinois State Penitentiary.
+Claimant’s action is brought under Illinois Revised Statute, Chapter 37, Section 439.8(c). Claimant was indicted, tried and convicted of the crime of murder on December 2, 1963, and shortly thereafter, he was sentenced to a term of 100 to 199 years in the Illinois State Penitentiary.
+Claimant was charged and convicted of the murder of one Chester Nowaczyk who was murdered on May 17, 1963 at the rear of his home located at 3606 South 55th Court, Chicago, Illinois. Also charged with this crime, along with claimant, were his brother, Robert Faulisi, Gerald Divits, and Gregory Leigot, who is the stepson of the deceased Chester Nowaczyk.
+The Supreme Court reversed and remanded the conviction of the claimant on March 24, 1966 on the grounds that the panel of jurors, from which the jury in the claimant’s case was selected, contained jurors which had been selected in the trial of two of the co-defendants of the claimant.
+Testifying on behalf of the claimant was Mrs. Caroline Long Gall who testified at both trials of the claimant.
+Testifying, under subpoena, for respondent were Gregory Leigot, James Sullivan and Gerry Fujolek.
+It is apparent from the record that there were no actual eye witnesses to the murder.
+The record indicates that claimant had previously been sentenced to the Illinois State Penitentiary for a term of three to five years and to one to three years and was also sentenced to two to five years and three to seven years for burglary and armed robbery.
+Claimant testified, at the second trial, on his own behalf and stated that on the night in question he was at a restaurant known as Dawn’s Grill located at Crawford and Irving, Chicago, Illinois, that he arrived there about 9:45 p.m., and that he stayed there until a little bit after 1:00 a.m. He stated that when he left the restaurant he went to his father’s home, where he was staying, and eventually went to bed.
+Caroline Gall, a waitress at the restaurant, testified on behalf of the claimant, and said she remembered his being in the restaurant, drinking coffee and making telephone calls, until she left shortly after 12:00 midnight.
+Gregory Leigot, stepson of the victim, called as a witness for the respondent, testified that he confessed to the police that there was a conspiracy to kill Chester Nowaczyk, and that Gerald Divits had hired claimant to murder his stepfather, Chester Nowaczyk. He further testified that claimant had inquired of the witness as to what time his stepfather got up and whether the garage was open, and, if it were closed, how he could open it. The witness further testified that he told the claimant how to open the garage without a key. Additional testimony from this witness was to the effect that the night before the murder, claimant told him that the next day would be the day and he was shown a slip of paper in Gerald Divits’ handwriting with dates and amounts written thereon which indicated payments to claimant totaling $1,000.00 in payment for the murder of Chester Nowaczyk.
+James Sullivan, another witness called on behalf of the respondent, testified that Gerald Divits told him on a number of occasions that he was going to have Chester Nowaczyk killed. He testified that Divits had asked the witness to get him a hit man, that he was unable to locate a hit man, which he later told Divits, and that Divits then told him that the claimant and he were working on a plan to murder Nowaczyk, and that he was later told that Divits was paying claimant to kill Nowaczyk. This witness further testified that claimant arrived at a lounge after the murder and was paid $300.00 by Divits, and that claimant then got sick. He further testified that the claimant’s brother later threatened him about testifying against claimant. This witness also testified that on the night of the murder Divits told the witness to establish an alibi; that he, Divits, was going to establish an alibi; and that if Sam Faulisi didn’t get it done that night, then he, Divits, would kill Nowaczyk.
+The evidence indicates that Gerald Divits was having an affair with the wife of the deceased and it was his desire to get rid of him so he could marry the decedent’s widow.
+Gerry Fijolek was called as a witness on behalf of the respondent. His testimony was to the effect that several months prior to the murder claimant brought a bowling bag, which contained a gun and knife, into the apartment of Gerald Divits. Gregory Leigot testified that he was present and saw the weapons in the bowling bag and also that he saw the gun in the back of claimant’s car a week before the murder. The witness, Fijolek, also testified that a week after the murder claimant threatened him, since he did not want it known that he possessed a gun and knife in violation of claimant’s parole.
+The respondent raises the question as to whether or not claimant has failed to prove, by a preponderance of the evidence, that he was innocent of the "fact” of the crime.
+It is interesting to note the testimony of the only other witness besides the claimant, that of Mrs. Caroline Long Gall, who stated that prior to the night in question she had met the claimant only once and that claimant had spent approximately two hours in the restaurant, where she was a waitress, drinking coffee and making telephone calls. She further testified she could not remember the day that claimant was in her restaurant. It appears she drove to the hearing from Pontiac, Michigan without being compensated or subpoenaed because, in her words, she said, "Sam called me Saturday.” Her testimony at the second trial was in contradiction to that which she gave at the original trial. At the original trial, she testified that she first saw claimant between 10:30 and 11:00 p.m.; that claimant was only in the restaurant for about one hour, and that she left the restaurant around 12:30 a.m. At the second trial, she testified that the claimant was at the restaurant for a period of approximately two hours.
+The deceased met his death outside his garage at approximately 1:00 a.m. on May 17, 1963. There were no actual eye witnesses to the murder and no weapons were ever found.
+It is the respondent’s contention that the claimant has failed to sustain his burden of establishing, by a preponderance of the evidence, that he was innocent of the "fact” of the crime, citing the case of Dirkans v. State, 25 C.C.R. 343 (1965), which held that the statute under which the claimant seeks to recover intended that claimant must prove his innocence of the "fact” of the crime. The Court, in this case, also stated:
+"It was not, we believe, the intention of the General Assembly to open the Treasury of the State of Illinois to inmates of its penal institutions by the establishment of their technical or legal innocence of the crimes for which they were imprisoned. It is our opinion the legislators intended to provide a manner of recourse in the Court of Claims, with a specific amount of recovery provided, for a claimant who is able to establish his complete innocence of the "fact” of the crime for which he was imprisoned.”
+The Court further stated that the lawmakers of this State would not have intended to grant that recourse to the narcotic addicts, murderers, kidnappers, rapists, and other felons who obtain a reversal of their convictions upon a legal or technical basis.
+We believe in the present case the claimant did not prove his innocence of the "fact” of the crime with which he was charged and, therefore, was not unjustly imprisoned.
+Claim is denied.
