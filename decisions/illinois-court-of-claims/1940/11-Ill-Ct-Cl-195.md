@@ -1,0 +1,25 @@
+---
+court: "Illinois Court of Claims"
+docket: "3413"
+decided: "1940-02-14"
+citations: ["11 Ill. Ct. Cl. 195"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The St. Louis Fire and Marine Insurance Company, a Corporation, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/11/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2819904
+---
+
+# St. Louis Fire & Marine Insurance v. State
+
+## Majority (Mr. Justice Yantis)
+
+Mr. Justice Yantis
+delivered the opinion of the court:
+The St. Louis Fire and Marine Insurance Company, a Corporation of St. Louis, Missouri, seeks a refund for alleged errors made by it in the payment of Privilege Tax to the Insurance Department of Illinois for the years 1935-36-37-38. Claimant states that during each of those years it inadvertently failed to take its proper deductions from- its tax payments as provided in Section 409 of the Illinois. Insurance Code. The total alleged to have been paid to city fire departments, for which it should have taken credit in making its payment to the State, amounted to $1,052.97 for the four years in question.
+The Attorney General has filed a motion to dismiss the claim. The tax in question for the years 1935 and 1936 were evidently assessed and paid under the provisions of Paragraphs 79-87, Ch. 73, Ill. Rev. Statutes of 1935; and the payments made for the years 1937 and 1938 were evidently made under Sections 409-412 of the Illinois Insurance Code of 1937, Ch. 73, Illinois Rev. Statutes, 1937. Both statutes required the payment of an annual Privilege Tax, assessed on the basis of the figures submitted by the respective companies in a report to be filed by the latter with the Director of Insurance not later than March of each year. A computation is made by the Director upon the figures appearing in said report and he then notifies the company of the amount, and that objections, if any, to such assessment will be heard by him or his deputy not later than the 25th day of June following, upon receipt of a request within fifteen days from the company. The Director was by statute given power to hear and determine objections to any assessment and thereupon to change or modify the same. During the four years in question claimant apparently paid the State of Illinois a total tax of $4,110.04, based upon the reports which it had filed, and of that amount it now seeks a refund of the sum of $1,052.97.
+A stipulation has been filed by the parties showing photostatic copies of the notice given to claimant in each instance, stating the amount of Privilege Tax due for the current year; said notice containing specific instructions that objections, if any, to such assessment would be heard within the time stated therein. It is apparent from the allegations of the complaint and the record that no part of the taxes in question were paid under protest, and that the total thereof was paid from time to time voluntarily and were based entirely upon figures submitted by claimant to the Insurance Department. Claimant states in its complaint that “it inadvertently failed to take its proper deductions.” There is no allegation or suggestion that the taxes were not correctly computed and assessed on the basis of the information which claimant supplied in its reports. After having submitted those reports and after the Insurance Department had made the required computation thereon, claimant had a still further opportunity of correcting its error, for the notice which it received of the amount due as computed by the Insurance Department specifically notified claimant that any objections it might have to the assessment could be heard within the time limit specified by the statute.
+As suggested in Respondent’s Statement, Brief and Argument, a similar situation was considered by this court in the case of Monarch Fire Insurance Company, 9 C. C. R. 538. As therein stated, “When it appears that a State Department has computed a tax on information furnished by the payer and has followed the directions of the Legislature in computing and collecting snch tax, and a claimant thereafter, because of an error in the records of his own office and in the information furnished by it to the State Department, thereafter claims a payment has been made in excess of the amount due, and such excess payment is in no way shown to be the fault of the State Department, the court is of the opinion that no refund is due. As a matter of public policy the various State officials and taxing bodies should be able to rely upon the information furnished by those applying for Franchise and Privilege Licenses, and where a tax or a fee is legally due and the applicant submits erroneous information, and thereafter voluntarily pays the fee or tax which has been correctly computed upon the information given, no sufficient authority of law exists, in the opinion of the court, to justify a refund of any part thereof. ’ ’
+The motion to dismiss is allowed and the claim denied.
