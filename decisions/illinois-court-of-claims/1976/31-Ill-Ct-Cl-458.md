@@ -1,0 +1,60 @@
+---
+court: "Illinois Court of Claims"
+docket: "73-347"
+decided: "1976-07-08"
+citations: ["31 Ill. Ct. Cl. 458"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Stevens, Adm’r. of the Estate of Clyde K. Stevens, Deceased, Claimant, vs. State of Illinois, and Elgin State Hospital, a State Agency, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/31/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2719037
+cites_cases: ["35 A.L.R.3d. 834", "72 A.L.R.2d. 391"]
+---
+
+# Stevens v. State
+
+## Majority (Holderman, J.)
+
+Holderman, J.
+This is an action brought by Richard Stevens, Administrator of the Estate of Clyde K. Stevens, deceased, for the alleged wrongful death of Claimant’s decedent. Claimant’s theory of the case is that on December 26, 1972, the deceased was in need of medical attention; that he was taken to Elgin State Hospital, Elgin, Illinois, for medical attention; that the hospital negligently failed to give decedent the necessary medical attention; and that as a direct and proximate result thereof, he died the following day.
+On December 26, 1972, Clyde Stevens was an unemployed 60 year old man, married, but separated from his wife, and the father of two adult children not dependent on him for support.
+From on or about December 2, 1972, at his daughter’s wedding, until sometime on December 26, 1972, Clyde Stevens had apparently been drinking heavily and continuously. It is undisputed that he was an alcoholic.
+The deceased, in December of 1972, was living at the Arlington Hotel, Aurora, Illinois. On December 26, at about 3:30 p.m., he called on Walter Dryden, the hotel janitor, to his room and told him that he was sick and wanted to go to the Elgin State Hospital.
+The record discloses that on several previous occasions, after severe drinking bouts, Stevens had gone to the Elgin State Hospital for "drying out.” Dryden called the Wayside Cross Mission and asked the Mission to take Stevens and one Glenn Brazel, another resident of the Arlington Hotel, to the State Hospital at Elgin. Brazel later changed his mind and decided to go to a private hospital because he had Medicare, but Dryden testified that Stevens wanted to go to Elgin.
+It appears that at the time Stevens was shaky, incoherent, and, in the opinion of the witness, suffering from delirium tremens.
+Mr. Ralph Brooker, Director of the Men’s Department at the Wayside Cross Mission, testified that he and two other men from the Mission went to the hotel. He testitified that Stevens was not drunk but that he "was wild eyed and he wasn’t really sure where he was at or where he was going.” This witness further testified that he was out of touch with reality. Brooker then called the Elgin State Hospital and told them he was sending two fellows over.
+Marion Sybert, a truck driver for the Mission, testified that he went with Brooker to the hotel and that Stevens was pale and weak. He further testified that he could walk but was weak and trembling.
+Sybert and one Dick Wilson drove Stevens to the Elgin State Hospital in a station wagon. When Stevens got out of the station wagon, Sybert noticed blood and feces where Stevens had been sitting. Sybert left Stevens at the admissions office and returned to Aurora.
+Barbara Gavin, an intake worker in central admissions at the hospital, testified that she was on duty when Clyde Stevens was brought in for admission. She testified that he came "in under his own power.” She further stated that because he had been brought in by the Mission, she figured his problem was alcohol. There was no doctor on duty at the intake office, so she drove him to the' emergency room at the institution’s medical-surgical building where he was seen by Arturo Rios, M.D., Medical Director of the Elgin State Hospital.
+Dr. Rios took Stevens’ blood pressure, listened to his heart, and wrote out a prescription for Librium, which Gavin took to the pharmacy to get filled. She then drove him back to central admissions where he was given bus money to go back to Aurora because he did not want to be admitted.
+This witness testified that Stevens’ arm was in a sling because he had a broken arm, and that he told her that he had told Dr. Rios he had an appointment with his own doctor.
+She further testified he did not appear to be ill to her.
+Dr. Rios testified that witness Gavin told him Mr. Stevens refused to be admitted, but she thought he should be examined.
+Dr. Rios checked his eyes, pupils, mouth, lungs, blood pressure, respiration, and questioned him regarding the cast on his arm. He found a normal throat, no dryness, chest normal, blood pressure 140/80, and pulse regular.
+He further testified that Stevens said, "I don’t know why I am here, I don’t feel like I belong here.” He asked Stevens if he wanted to undergo further tests to have a complete physical examination, and Stevens told him, "I don’t want to be hospitalized.”
+Dr. Rios testified that the main purpose of the examination given Stevens was to make sure he wasn’t intoxicated or in impending delirium tremens. The doctor further testified that it would have been possible for the deceased to have had pneumonia at the time he examined him, but that it was not clinically observable. He further testified that, in his opinion, the man was rational and free to choose what he wanted to do.
+The deceased thereupon left the hospital and returned to Aurora by bus. Upon returning to the Arlington Hotel, he told witness Dryden that the hospital had kicked him out.
+Witness Brooker testified that shortly before 5:00 p.m., an unidentified female employee from general admissions at Elgin called and wondered why he had sent Stevens to Elgin. She stated he appeared to be rational and motivated, and they didn’t see any reason for admitting him. Brooker told the individual that Stevens had been intoxicated for three weeks and should be admitted.
+On December 27, 1972, Dryden testified that he found Stevens sitting on an interior, second floor fire escape going up to the third floor, and that his pants were down about his knees. He stated he had messed all over himself with blood and everything, and that he knew he was in bad shape so he called the Fire Department. The Aurora Fire Department took Stevens to Copley Hospital in Aurora where he died within a few hours of being admitted.
+Dr. Charles A. O’Connor, an Aurora physician and surgeon, testified that he first examined Clyde Stevens on December 27, 1972, in the intermediate care area at Copley Memorial Hospital. He had been seen by a nurse in the emergency room and had been x-rayed.
+Dr. O’Connor testified that he found an extremely ill white male who was in respiratory distress, his color was blue, and he had a bluish tint to his lips and fingernails. He also testified he had a fractured arm which was in a cast.
+The doctor further testified that Stevens had extreme rales and rhonchi throughout both lung fields, indicating fluid in the lung, his pulse rate was 132, his respirator count was 44 (normal for a 60 year old white man is about 14 to 20) indicating respiratory distress, he was dehydrated, and was somewhat incoherent. The x-rays showed peripheral left upper lobe pneumonia which Dr. O’Connor classified as a very early lobar pneumonia and stated that it was the cause of the pulmonary edema.
+The patient was given antibiotics intravenously, oxygen nasally, a diuretic, intermittent positive pressure, a sedative because he was restless, codeine for pain, and digitalis. He died at the end of two and one-half hours.
+Dr. O’Connor testified that, although he found the patient incoherent, talking out of his head, and in acute respiratory distress, he did not believe he was on the brink of dying at the time. The doctor was unable to state with a reasonable degree of medical certainty how long the condition of pneumonia had existed, but he testified that the condition of pulmonary edema could not have existed for 24 hours before he saw him.
+The doctor testified that the cause of death was pulmonary edema, a complication. of pneumonia; that the pulmonary edema could have set in within the preceding hour or two; that it could have been the result of heart failure; and that the patient could have died from gram negative septic shock initiated within the previous hour. He further testified that the patient could have had some of his symptoms 24 hours prior to his seeing him, but it was possible that six hours prior to his death he had none of them.
+Claimant’s contention is that the State was negligent in turning the deceased away from the Elgin State Hospital and not giving him proper medical care at that time.
+The following issues arise:
+1. Is the State of Illinois under a duty to render emergency medical assistance to persons brought to State hospitals for such assistance?
+In recent years it has become established law that private hospitals holding themselves out to render emergency aid can be held liable for the manner in which they render, fail to render, or refuse to render such aid to persons presenting themselves to the hospital for emergency attention.
+The State of Illinois, having waived sovereign immunity, is bound by the same general principles of tort law in determining such liability as are private hospitals.
+This matter is discussed briefly in 40 Am.Jur.2d Hospitals and Asylums §16, 20, and is very well briefed in 72 A.L.R.2d. 391, and 35 A.L.R.3d. 834. In 35 A.L.RSd. 847, 848, two cases involving failure to admit patients with pneumonia are discussed.
+Inasmuch as the State of Illinois maintains, on the grounds of Elgin State Hospital, a hospital for the medical needs of its inmates, and also maintains an emergency room as part of the medical hospital, it can be stated as a general proposition that the State of Illinois is under a duty to render emergency medical attention if not to the general public at least to inmates, employees, and persons brought to the institution for voluntary or involuntary admission, and can be held liable for its negligence in performing or refusing to perform the same.
+2. Was the State negligent in its medical treatment of Claimant’s deceased?
+As stated in 40 Am.Jur.2d Hospitals and Asylums, §20 at 865.
+Where public institutions may be held liable for negligence, they are, in accordance with settled legal principles, held only to a duty of taking precautions against risks that may reasonably be perceived.
+Contrary to Claimant’s contentions, the weight of the evidence in this cause is that when Clyde Stevens was brought to Elgin State Hospital he did not appeer to be in need of immediate medical attention. His blood pressure and heart rate were within normal limits, and he was having no trouble with his breathing. If he had pneumonia at this time, it was not clinically observable, and he rejected the offer made by the hospital to admit him and give him further tests. It is clear from Dr. O’Connor’s testimony that the deceased could not already have been suffering from pulmonary edema at the time he was brought to Elgin State Hospital because if he had been, he would not have lived until the following day. Three hours before his death, on the following day, x-rays showed only an early lobar pneumonia affecting a small portion of one lung. Although he was critically ill when Dr. O’Connor examined him, Dr. O’Connor did not feel even then that he was on the immediate brink of dying. Further Dr. O’Connor testified that some of Stevens’ symptoms could have developed as recently as six hours before he saw him.
+It has long been the rule of the State of Illinois that the burden is on the Claimant to prove his cause by a preponderance of the evidence. It is also the rule of the State of Illinois that it must be proven that the negligence complained of was the proximate cause of the damage, which in this case is the death of the deceased.
+It is the opinion of this Court that the Claimant has failed in meeting the proof required.
+Award denied.
