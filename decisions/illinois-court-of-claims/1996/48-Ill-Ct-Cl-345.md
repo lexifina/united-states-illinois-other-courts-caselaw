@@ -1,0 +1,46 @@
+---
+court: "Illinois Court of Claims"
+docket: "92-CC-0834"
+decided: "1996-05-15"
+citations: ["48 Ill. Ct. Cl. 345"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Krystal Johnson, a minor, by her Mother and Next Friend, Doris Johnson, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/48/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 516057
+cites_cases: ["46 Ill. Ct. Cl. 146"]
+---
+
+# Johnson v. State
+
+## Majority (JANN, J.)
+
+OPINION
+JANN, J.
+This is a claim brought by Claimant Kiystal Johnson, a minor against the State of Illinois, University of Illinois Childrens Center, seeking damages for personal injury she sustained after falling from a swing at the University day-care center.
+Trial was held in this matter on September 9, 1994. On the trial date Respondent made an oral motion to exclude the testimony of Claimant due to the fact that she was three and one-half years old at the time of the incident. The Commissioner denied the motion since Claimant was offering testimony as to her current physical condition relevant to the issue of damages, and further, that the court could weigh the credibility of the incident testimony. As there would not be any resulting prejudice to the Respondents case, the Claimant was granted leave to testify.
+The facts are as follows:
+Doris Johnson, Claimants mother, testified that on April 5,1990 she was working for the University of Illinois Nutritional Services and her daughter Krystal was enrolled in day-care at the University of Illinois Childrens Center. At approximately 11:00 a.m., Doris Johnson was at work when she received a phone call that Krystal had fallen and that she appeared to be all right, so Doris finished her work shift and proceeded to pick Krystal up at approximately 2:45 p.m.
+When Doris arrived, she observed Krystal lying on her cot. Krystal was crying and complained of pain in her shoulder and on her whole right side. Doris took Krystal to the hospital and x-rays determined that she had suffered a broken collarbone and her arm was put in a sling. Krystal wore the sling for four to six weeks and her play activities were restricted during that period. Krystal required assistance eating, dressing herself and going to the washroom. Krystal complained of throbbing pain, she took Motrin and soaked in a warm tub for relief. Doris testified that Krystal complained of pain as recently as the weekend prior to the trial date.
+On cross-examination, Doris acknowledged that Krystal was again treated at the emergency room for an injury to her right collarbone when she fell out of bed in December, 1990. She further admitted that Krystal had not received any treatment for her shoulder from May 18, 1990 (approximately one month after the first incident) to December, 1990 when she was treated for her fall from bed.
+The Claimant, Krystal Johnson, testified that at the time of the trial she was eight years old. She identified a picture of the Childrens Center, related some of the activities she was involved in at the center and identified her teachers, David and Linda, in the courtroom.
+She testified that on the day of the incident she was on the tire swing with two other girls. She said that she had her feet in the hole and her hands on the chains. David, the teacher, was pushing the swing in a circular motion. She had been on the swing with David pushing on prior occasions.
+She testified that in a “normal” voice she asked David to take her off the swing because she was getting sick and dizzy, but that David didn’t respond because he was talking to the other teacher.
+She stated that she asked him to take her off a second time and then she fell off the swing. She said that she fell on her right side and that she was crying and experiencing a “throbbing” pain. She went to take her nap and stayed on the cot for the rest of the day until her mother came to pick her up.
+Krystal related the trip to the hospital and receiving pain medication and a sling for her arm. She testified that she couldn’t play or feed herself and that she experienced pain during the period she had the sling on her arm. She testified that she still experiences pain when she plays in gym or lays on her right side or occasionally when she reaches for something. She testified that she did not have any recollection of falling out of bed.
+On cross-examination, Krystal said that she was “coming up on three” years old at the time of the accident. She testified that she was at the Children’s Center for approximately a month prior to the incident and that she went on the tire swing approximately every other day. She stated that she did let go of the tire swing because she got “dizzy, and it got out of control,” and that the swing was not broken.
+She testified that the injury doesn’t hurt her very often and she participates in gym class and plays on the football team at school.
+The Claimant submitted medical bills in the amount of $356.25. The Respondent called Linda Sims Johnson, child development supervisor at the Children’s Center. She testified that in April of 1990, she was one of two supervisors for 15 children at the University of Illinois Children’s Center. She stated that she was present, standing at a distance of about ten feet, and observed David pushing Krystal and two other children on the tire swing just prior to Krystal’s accident on April 5, 1990. She testified that she was not talking to David at the time of the incident. She recalled David pushing the children back and forth in a safe manner. She observed the children holding the chains and that they appeared to be having fun. She did not hear any of the children call out to stop the swing. The witness did not see Krystal fall from the swing.
+The Respondent also called David Martines. He testified that he is currently a classroom teacher in the Head Start School Program in Milwaukee, Wisconsin. At the time of trial he had been in the child development field for ten years and received his master’s degree in early childhood development in 1990. David testified that tire tire swing was fun for children and encouraged socialization. He stated that he would typically push the children by holding the chains in two spots and initiating a circular motion and that he frequently reminded the children to hold on to the chains.
+At the time of Krystal’s accident, Mr. Martines pushed the swing as he normally would, the children appeared to be having a good time and he did not hear Krystal ask to stop the swing. David testified that they were on the swing for approximately one minute when Krystal let go of the swing and he saw her fall backwards.
+David estimated that while he was pushing the swing, the highest point the swing would have reached was about three feet. He confirmed that he was not talking to Linda at the time of Krystals fall but stated that he had turned his back slightly to clear his body from the motion of the swing. He concluded that there was nothing he could have done to prevent Krystal from falling.
+Neither party submitted a brief in support of their claim.
+The law is well established that in order to maintain an action in negligence the Claimant must establish by a preponderance of the evidence that the Respondent owed Claimant a duty, that the duty to Claimant was breached by a negligent act or omission to act, and that the negligence proximately caused the compensable injury. O’Neill v. State (1983), 46 Ill. Ct. Cl. 146, 148.
+In this case it is clear that, as a minor child in the charge of the State-operated facility, Claimant was entitled to an expectation of reasonable care. The Claimants complaint alleges that the State was negligent by allowing the swing to be in a defective condition and by failing to warn Claimant of the defect. However, at hearing the Claimant did not offer any evidence that the swing was defective or in disrepair.
+The issue at the hearing primarily centered on an alleged failure by the caretakers or teachers to properly supervise the young students, although those allegations were never made in the complaint.
+The facts are basically uncontested that there were two qualified teachers physically present and supervising a group of 15 children in the play lot of the Childrens Center. One of the teachers was pushing Claimant and two other children in a reasonable and usual manner for about one minute when the four-year-old Claimant became frightened or dizzy and let go of the chains, causing her to fall backwards from the swing.
+Both the Claimant and the teacher established that the Claimant had been on the swing many times prior to the date of her fall without incident.
+Clearly, the injury to the Claimant was an unfortunate incident, but there is not credible evidence to establish that the Respondent or its agents were in any way negligent by act or omission. The teachers acted reasonably and with due care for the Claimant. The Claimant, even at age eight, is a soft-spoken, mild-mannered young lady and it is clear that if she did, in fact, ask David to stop the swing, he did not hear her.
+The Claimant in this case has failed to meet her burden of proof. This claim is hereby denied.
