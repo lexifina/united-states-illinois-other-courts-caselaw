@@ -1,0 +1,27 @@
+---
+court: "Illinois Court of Claims"
+docket: "2086"
+decided: "1935-02-13"
+citations: ["8 Ill. Ct. Cl. 419"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Stack, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/8/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2808692
+---
+
+# Stack v. State
+
+## Majority (Me. Chief Justice TIolleeich)
+
+Me. Chief Justice TIolleeich
+delivered the opinion of the court:
+Claimant filed his complaint herein on March 9, 1933, in which he asks for an award in the amount of $1,302.00 for work done by him as a painter at the State Hospital for the Insane at Dunning, Illinois, from January 1, 1932, to June 10, 1932.
+All of the facts which are before the court have been stipulated by the parties. There are numerous facts in connection with the issues involved, which should have been presented to the court for a proper determination of the case, which have not been stipulated, or which appear by inference only, and not by way of direct averment.
+From the facts stipulated and the inferences which may reasonably be drawn therefrom, it appears that claimant was appointed as a painter at the State Hospital at Dunning on May 15,1930, by Dr. Daniel B. Coffey, managing officer of such hospital, and continued in such employment until June 10, 1932, at which time he resigned voluntarily, but subject to the question of the legality of such employment from January 1, 1932, to July 10, 1932; that he performed his work at all times in a satisfactory manner; that he received the compensation due him for his services from May 15, 1930, to December 31, 1931; that he has received no compensation for his services from January 1, 1932, to June 10, 1932; that he now claims compensation for forty-one (41) days between January 1, 1932, and March 15, 1932, at $14.00 per day, and for sixty-one (61) days between March 15,1932, and June 10,1932, at $11.28 per day; that the position held by the claimant was a civil service position; that claimant’s appointment on May 15,1930, was a temporary appointment made with the authority of the Civil Service Commission; that some time prior to January 1, 1932, a civil service examination was held for the classification of a painter; that claimant had notice or knowledge of such examination but failed to take the same; that thereafter claimant filed an affidavit to the effect that he was prevented from taking such examination by sickness; that on January 8,1932, the Civil Service Commission notified Dr. Coffey, managing officer of said Dunning Hospital, that claimant could not be continued in the classification of a painter, inasmuch as such Commission had an eligible list in that classification; that regardless of such notification claimant was continued on the payroll until the time of his resignation on June 10,1932.
+Under the Civil Service Act, when there is no eligible list, the appointing officer may, with the authority of the Commission, make temporary appointments to remain in force only until regular appointments under the provisions of the Act can be made. Hurd’s Revised Statutes, 1933, Chapter 126A, Sec. 10. Consequently, when claimant was appointed “on a permit,” as stated in a letter of the Civil Service Commission relative thereto, he knew that his appointment was temporary, and that it could remain in force only until an examination for that classification was held, and a regular appointment made under the provisions of the Civil Service Act. Claimant also knew that prior to January 1, 1932, an examination was being held for his classification, as he sought to excuse his absence therefrom by an affidavit to the effect that he was sick at that time. There is nothing whatsoever in the record to show that claimant at any time took the civil service examination for his classification.
+It is incumbent on the claimant to establish his right to the compensation claimed. Being a civil service employee he must establish his right under the terms and provisions of the Civil Service Act. It is not sufficient in such a case, merely to show that he performed labor for the State in a civil service classification. He must establish his right to perform such services under that classification, either as a temporary appointee “under a permit” when there is no eligible list, or as regular appointee from the eligible list. Inasmuch as claimant was appointed temporarily on a permit, in May, 1930; and inasmuch as a civil service examination for his classification was held prior to January 1, 1932, claimant was required to show, as a condition precedent to his right to recover, either that there still was no eligible list for his classification during the time for which he claims compensation, or that he was regularly appointed from the civil service list. This follows of necessity from the requirements of Section three (3) of the Civil Service Act to the effect that “no appointments to any of such offices or places shall be made except under and according to the provisions of this Act and of the rules hereinafter mentioned.” Such requirements of the Civil Service Act must be held to be mandatory, otherwise such Act would be entirely ineffective.
+Claimant has failed to establish his right to recover under the terms and provisions of the Civil Service Act, and an award must therefore be denied.
+Award denied. Case dismissed.
