@@ -1,0 +1,25 @@
+---
+court: "Illinois Court of Claims"
+decided: "1922-11-28"
+citations: ["4 Ill. Ct. Cl. 251", "4 Ill. Ct. Cl. 267"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret Pearson, Administratix of the Estate of Mauritz Lindstrom, Deceased v. State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/4/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2842733
+---
+
+# Pearson v. State
+
+## Majority
+
+This case comes before the Court upon the petition of Margaret Pearson, administratrix of the estate of Mauritz Lindstrom, deceased, praying that the Court will award damages to the amount of $10,000.00, by reason of the death of said Mauritz Lindstrom, caused while in the employment of the State of Illinois.
+The testimony in this case shows that the deceased was in his lifetime and on the first day of December, 1921 employed as a carpenter in the construction of, what is known as the new penitentiary at the Illinois State penitentiary in Lockport Township, Will County, Illinois; that said construction was being carried on by the State of Illinois by and through the penitentiary commission; that on the first day of December, 1921, the deceased ivas assigned to work by his foreman or superintendent, on a scaffold erected about a concrete and steel cell house, known as Cell House E, at a height of about sixty feet, and that the said scaffolding broke and fell to the basement of the cell house, while the said Mauritz Lindstrom was engaged in his work on the same, as a result he fell to and upon the basement, whereby he received external and internaL injuries from which he afterwards, on December 2nd, 1922, died; that said Mauritz Lindstrom left him surviving, Britta Lindstrom, his mother, Linnea Lindstrom, his sister, John Lindstrom, Jonas Lindstrom and Alfond Lindstrom, his brothers who all reside in Sweden, also Anna Lindstrom and Margaret Pearson, who reside in Illinois.
+The testimony shows that said Mauritz Lindstrom and Eric Lindstrom, now deceased, were contributing equal monthly amounts to their mother in Sweden and had also contributed a considerable amount to their sister, Anna Lindstrom; that said Anna Lindstrom sometimes worked at her trade but that in the past few years she had submitted to several operations which has undermined her health and was dependent on her two brothers for partial support; that the sister, Margaret Pearson was not a dependent, neither was the sister, Linnea, who resided in Sweden, although the evidence shows that said Linnea Lindstrom' was now living at home with her mother, since the death of her two brothers, owing to the condition of her mother’s health, caused by the shock of the death of Mauritz Lindstrom and Brie Lindstrom.
+While the testimony does not show that the mother was wholly dependent upon her two deceased sons for her support, still it is not unreasonable to presume that she was, as the two sons, Jonas and Alfond were of tender years and physically incapable of doing heavy manual labor, besides the evidence shows that Alfond was attending school. The son, John, was in the military service in Sweden and by reason of his small pay was unable to contribute but a very small, if any, amount toward the support of his mother. The sister, Linnea, was living away from home, earning her own way it is reasonable to presume that she was unable to contribute toward the support of her mother. The daughters, Anna, Lindstrom and Margaret Pearson, evidently contributed nothing toward the support of her mother, as Anna was a dependent of her two deceased brothers, as we have heretofore stated, while Margaret Pearson was married and is dependent on her husband and is, without doubt, financially unable to contribute to the support of her mother.
+The Attorney General, on behalf of the State of Illinois has filed a demurrer to this petition, which, as a matter of law will be sustained.
+Under the numerous previous decisions of this Court, there can be no question but what the State of Illinois is not liable for injuries sustained by or for the death of its employees while in the performance of their duties, as either the Workmen’s Compensation Act or the doctrine of respondeat superior is applicable to the State.
+The Court has reviewed the evidence and finds that there is no question but that Britta Lindstrom, Linnea Lindstrom, Jonas Lindstrom, Alfond Lindstrom and Anna Lindstrom are dependent on the deceased for partial support, and while we find that there is no liability on the part of the State of Illinois, still we believe, that as an act of social justice and equity an award should be made that would be equal to one-half of the maximum amount allowed under the Workmen’s Compensation Act, provided said Act applied to the State of Illinois.
+We therefore award to said petitioner, Margaret Pearson, as administratrix of the estate of Mauritz Lindstrom, deceased, the sum of one thousand eight hundred and'seventy-five dollars ($1,875.00).
