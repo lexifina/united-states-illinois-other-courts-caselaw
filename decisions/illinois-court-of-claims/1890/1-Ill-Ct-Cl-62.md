@@ -1,0 +1,50 @@
+---
+court: "Illinois Court of Claims"
+decided: "1890-12-12"
+citations: ["1 Ill. Ct. Cl. 62"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Heirs of Greenburry L. Fort v. The State of Illinois."]
+source_url: "https://static.case.law/ill-ct-cl/1/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2831148
+---
+
+# Heirs of Fort v. State
+
+## Majority
+
+Greenburry L. Fort, in his life time, filed his claim in the Auditor’s office of the State of Illinois on the 20th of October, A. D. 1879, stating he was a resident of Lacon in Marshall county, in the State of Illinois, claiming damage to his land situated in the bottoms and low lands bordering upon the Illinois river and that said damages were caused by a dam constructed by the State of Illinois across the Illinois river near Copperas Creek in October, 1877.
+The lands claimed to have been injured and the amount of damages claimed are as follows, to-wit:
+“Fractional southeast quarter of section twenty-three (28) township 12 north of range 9 east of the 4th P. M., containing one hundred and thirteen acres, all of which is damaged to the extent of five dollars per acre.”
+“The north half of the fractional east half of the southwest quarter of section 35 in township 30 north of range 3 west of the 3d P. M., containing twenty-six (26) acres, all of which is damaged to the extent of five dollars per acre.”
+“Outlet three in the city of Lacón and being part of section 35 last above mentioned and containing ten acres of which five acres are damaged to the extent of five dollars per acre.”
+“Outlot four in the city of Lacón and being a part of section, thirty-five last above mentioned and containing thirty-one acres of which twenty (20) acres are damaged to the extent of five dollars per acre.”
+“All that part of the northwest quarter of section two in township twenty-nine north of range three west of the 3d P. M., which lies west of the channel of the slough, and containing forty-one acres, all of which is damaged to the extent of five dollars per acre.”
+“All of the southwest quarter of said section two in the township and range last above mentioned except six acres off of the east end of the south half of the same, containing one hundred and fifty-four acres, all of which is damaged to the extent of five dollars per acre.” “Fractional section three in the township and range last above mentioned containing sixteen acres, all of which is damaged to the extent of five dollars per acre.” “Sixty-nine acres off of the north part of the northeast fractional quarter of section ten in the township and range last above mentioned of which fifty acres are damaged to the extent of five dollars per acre.”
+“The southwest fractional quarter of section fifteen in township twenty-nine north of range three west of the 3d P. M., aforesaid, containing one hundred and forty-three acres, of which one hundred and twenty-three acres are damaged to the extent of five dollars per acre.”
+“The fractional west half of section twenty-two in the township and range last above mentioned, containing two hundred and eighty-one acres, of which two hundred and forty acres are damaged to the extent of three dollars per acre.”
+“The west half of section twenty-seven.”
+“The southwest quarter of the northeast quarter of the same section twenty-seven.”
+“The north half of the southeast quarter of the same section twenty-seven, all in the township and range last above mentioned and containing in three pieces four hundred and forty acres, of which four hundred and ten acres are damaged to the extent of three dollars per acre.”
+“Fractional section twenty-eight in township twenty-nine north of range three west of the 3d P. M., containing one hundred and sixty-eight acres of which one hundred and twenty-eight acres are damaged to the extent of three dollars per acre.”
+“The southwest quarter of section thirty-four.”
+. “The southwest quarter of the northwest quarter of the same section thirty-four.”
+“The east half of the northwest quarter of the same section thirty-four.”
+“The northwest quarter of the northeast quarter of the same section thirty-four, all of said four pieces being in the township and range last above mentioned and containing together three hundred and twenty acres, all of which is damaged to the extent of three dollars per acre.”
+Claimant says his lands were subject to inundation from floods and high water in the Illinois river; that the river was usually at or near low water mark in May, June, July, August,' September and October; during which months said lands were left dry, yielding crops of grass valuable for hay and pasture and when under cultivation yielding profitable crops of corn and other grain; that of the whole amount of lands for which damages were claimed about 150 acres had been farmed to corn and the remainder used for meadow and pasture; and that the dam caused the water to rise in the river opposite said lands from two to three feet higher than before the dam was erected so that a freshet of from two to three feet before the darn was built would now cause a rise in the river opposite said lands of from four and one-half to six feet causing claimant’s lands to become flooded, water' soaked and soft to an extent that they would no longer bear- animals with safety, had become unproductive; liable to frequent over-flows and were worthless and would "remain so forever; placing his damages in the aggregate at $6,034.00.
+A great deal of testimony was taken by the claimant-in his life-time and filed with the Auditor. There has also been a large amount of testimony introduced on the part of the State. The Commissioners find it in many respects very conflicting. We also find much of it that does not produce in our minds a conviction that it is reasonable or true. Much of it consists in the expression of the opinions of witnesses, the foundation for which opinions has seemed to us insufficient, and while the law under which we act requires us to file with the records of each claim determined a brief written statement of the reasons of our determination, yet we do not understand it as requiring us to enter into a dissertation upon a large mass of testimony with a view of making it clear upon the record that our conclusion was the only one that could be arrived at in the given case. Suffice it. to say that we carefully considered all the testimony offered and read with a determination to allow the claimants all that we felt convinced they were entitled to and in so doing arrived at, the following conclusion:
+That for the fractional southeast quarter (S. E. ¼) of section twenty-three (23) in township twelve (12) north range nine (9) east of the 4th P. M., containing one hundred and thirteen acres we fix the damage at two hundred dollars and find the property was of little value at and previous to the completion of said dam.
+To the north half (N. ½) of the fractional east half (E. ½) of the southwest quarter (S. W. ¼) of section thirty-five (35) in township thirty (30) north range three (3) west of the 3d P. M., containing twenty-six (26) acres we find the damage to be seventy-five dollars (175.00.)
+To outlet three (3) in the city of Lacon, containing ten (10) acres and to outlet four (4) in said city containing thirty-one acres, all in said section 35, we find the damage to be 175.00.
+To all that part of the northwest quarter (N. W. ¼) section 2, in township 29, north range 3, west of the 3d P. M., which lies west of the channel of the slough, containing forty-one (41) acres, we find the damages to be seventy-five dollars ($75.00.)
+To all that part of southwest quarter (S. W. ¼) of section 2, in township 29, north range 3, west of the 3d P. M., except six acres off of the east end of its south half, we find the damages to be three hundred dollars ($300.00.)
+To fractional section 3, in township 29, north range 3, west of the 3d P. M., containing sixteen (16) acres we find the damages to be twenty-five dollars ($25.00.)
+To sixty-nine acres off of the north part of the northeast fractional one quarter of section 10, township and range last above mentioned we find the damages to be one hundred dollars ($100.00.)
+To the southwest fractional quarter of section 15, in township 29, north range 3, west of the 3d P. M., containing one hundred forty-three acres (143) we find the damages to be three hundred eighty-five dollars ($385.)
+To the fractional west one-half of section 22, township 29, north range 3, west 3d P. M., containing two hundred eighty-one (281) acres we find the damages to be four hundred twenty-five dollars ($425.00.)
+To the west one-half and the southwest quarter of the northeast quarter and the north one-half of the southeast quarter of section 27, township 29, north range 3, Avest of the 3d P. M., containing four hundred forty (440) acres we find the damages to be four hundred seventy-five dollars ($475.00.)
+To fractional section 28 in township 29, north of range 3, west of the 3d P. M., containing one hundred sixty-eight (168) acres we find the damages to be one hundred ninety-six dollars ($196.00.)
+To the southwest quarter and the south west quarter of the northwest quarter and the east one-half of the northwest quarter and the northwest quarter of the northeast quarter all in section 34, township 29, north range 3, west of the 3d P. M., containing three hundred twenty (320) acres we find the damages to be one hundred thirty-five dollars ($135.00.)
+All of which sums for damages so allowed and assessed in the aggregate amount to $2,466.00 and we hereby award to the heirs of the said Greenburry L. Fort the sum of $2,466.00 as and for the damages by them sustained on account of the said claim so filed by their ancestor the said Greenburry L. Fort as above stated; they having been substituted as claimants since the death of the said Greenburry L. Fort whose death was suggested and sufficiently and satisfactorily made to. appear.
