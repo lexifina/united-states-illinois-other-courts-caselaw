@@ -1,7 +1,7 @@
 ---
 court: "Illinois Court of Claims"
 decided: "1919-01-30"
-citations: ["4 Ill. Ct. Cl. 52", "4 Ill. Ct. Cl. 63"]
+citations: ["4 Ill. Ct. Cl. 52"]
 reporter: "ill-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
