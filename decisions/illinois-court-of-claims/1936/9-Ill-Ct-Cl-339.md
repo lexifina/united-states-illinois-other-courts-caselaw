@@ -1,0 +1,33 @@
+---
+court: "Illinois Court of Claims"
+docket: "2475"
+decided: "1936-12-08"
+citations: ["9 Ill. Ct. Cl. 339"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Olivia Kelly, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/9/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2815165
+cites_cases: ["259 Ill. 549", "95 Ill. 148"]
+---
+
+# Kelly v. State
+
+## Majority (Mr. Justice Yantis)
+
+Mr. Justice Yantis
+delivered the opinion of the court:
+Claimant seeks an award of Ten Thousand ($10,000.00) Dollars for injuries alleged to have occurred on December 7,1933 when the car in which she was an occupant was struck by a truck owned by respondent, used in the Highway Department and then and there driven by one Charles Mullin, an employee of respondent in said Department. A motion by respondent for a dismissal of said complaint will be considered with the evidence.
+From the evidence it appears that claimant was a guest of George Smith of Kirkwood, Illinois, and with other passengers was riding in his automobile about 7 o’clock p. m. on said date' on S. B. I. Boute No. 8; that Smith’s car was being managed and driven in a safe and sane manner and at a reasonable rate of speed, and that both he and claimant were in the exercise of due care and caution for their own safety and the safety of others; that as they approached a curve near Kirkwood, Illinois the truck operated by the said State employee came from the opposite direction, on claimants side of said highway; that the driver of the car in which claimant was a passenger attempted to attract the attention, of the driver of the track to induce the latter to return to his own proper side of said highway, i. e. the west or righthand side of said road, but that the latter failed to do so and struck the right rear end of the Smith car. The truck was carrying a steel brace in front for use in attaching a snow-plow and the crash demolished the rear end of the Smith car, knocked claimant Olivia Kelly unconscious and resulted in serious injuries and fractures to her back and pelvis. Besides permanent injury and deformity of the pelvis, claimant has necessarily expended substantial sums in medical bills. The proof shows that Mullins, driver of the State truck, made no attempt to avoid the accident. George Smith testified that Mullins came to him the next morning and said “I will fix your car and let’s keep it as quiet, as possible.” Owen Kelly, husband of claimant, testified that four days after the accident Mullins came to the former’s home and inquired about Mrs. Kelly’s injuries and then said “Well, you are a pretty good fellow and if you will not report this I will help you on the doctor bills. ’ ’ Witness also quoted him as saying, “If I did not act in accordance with his wishes it would be no use for me to sue him as he did not have any money. He wanted to know if I had heard that he had been drinking; that he had some denatured alcohol in the back of his car and probably had got some on his hands and gloves.”
+Another witness, J. Earl Gray of Kirkwood, who had been a mechanic and service station employee for a number of years, testified that he had known Mullins since 1917 or 1918 and was quite familiar with the latter’s habits and ability to drive an automobile; that Mullins has had several accidents and in the opinion of witness, Mullins is not a very good driver.
+According to the testimony of the attending physician, claimant suffered a fifty (50) per cent permanent disability and will be under a physician’s care for the rest of her life because of the deformity resulting from this accident.
+Because of the inexcusable nature of this accident the court is reluctant to grant the motion filed herein.by respondent for a dismissal of this cause. The motion is based however upon the ground that no legal liability can be laid at respondent’s door for the negligent and careless action of its employee. The general rule is well established that the doctrine of respondeat superior does not apply to the State in the exercise of its governmental functions. Minear vs. State Board of Agriculture, 259 Ill. 549; Hollenbeck vs. County of Winnebago, 95 Ill. 148.
+Claimants base their right to recovery “upon a custom, rather than a rule of law founded in justice and mercy.”
+It is true that this court has in rare intervals departed from the rule of non-liability by the State for the negligence of its employees, as noted in the case of Sprague Dairy vs. State, 7 C. C. R. 227, but such departure is apparently not justified under existing statutes. For many years Illinois has been in the forefront in attempting to grant redress to its citizens upon just demands held by them. In determining the extent to which this court may justifiably go in granting such claims, and considering the so-called doctrine of equity and social justice, this court held in the case of Crabtree vs. State, 7 C. C. R. 207:
+“That when the Legislature created this court and clothed it with power to hear claims against the State, we believe that it did not thereby intend to waive the> right of the State to interpose any legal or equitable defense it might have to the demands of claimants.”
+The case of Murdock Grate Co. vs. Commonwealth, a Massachusetts case, was referred to in the Crabtree case wherein the court said:
+“The Act * * * discloses no intention to create against the State a new and heretofore unrecognized class of liabilities, but only an intention to provide a Judicial Tribunal where well recognized, existing liabilities can be adjudicated.” * * *
+“Before a claimant can have an award against the State, he must show that he comes within the provision of some law making the State liable to him for the amount claimed. If he cannot point to any law giving him the right to an award he cannot invoke the principle of equity to secure such award.”
+In the absence of a statute making the State liable for damages caused by the negligence of its employees in the performance of their duties, this court has no authority to legally make an award in the present case. We recognize the meritorious nature of the claim. Two people have been seriously injured through the negligence of the employee in question. By his action he has brought suffering and expense to the injured parties and has reflected discredit upon the good name of his employer, the State of Illinois. It is to be hoped that claimant will find other avenues of redress for the injuries suffered. Respondent’s motion to dismiss is granted and the claim is hereby dismissed.
