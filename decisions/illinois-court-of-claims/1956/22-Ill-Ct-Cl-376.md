@@ -1,0 +1,36 @@
+---
+court: "Illinois Court of Claims"
+docket: "4605"
+decided: "1956-09-28"
+citations: ["22 Ill. Ct. Cl. 376"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Finch, Claimant, vs. State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/22/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5345584
+---
+
+# Finch v. State
+
+## Majority (Fearer, J.)
+
+Fearer, J.
+Claimant brings this action under the provisions of Chap. 23, Par. 372a, Ill. Rev. Stats., (1953 State Bar Association Edition), to recover damages to his 1951 International % ton pick-up truck caused by Cecil Swizart, an inmate of the Jacksonville State Hospital, Jacksonville, Illinois, a charitable institution under the direction and control of respondent. Swizart escaped from said institution, and while at liberty stole said motor vehicle belonging to claimant.
+It appears from the record, claimant’s exhibit No. 1, and testimony offered by claimant that the Union Automobile Indemnity Association of Bloomington, Illinois, is subrogated to the rights of claimant in any recovery for the damages to his truck, the damages claimed being in the sum of $758.12. In this regard the Union Automobile Indemnity Association should have been made a party claimant, attaching to the claim filed herein its subrogation agreement showing its rights to the full amount of any recovery in the event of an award.
+Copies of four letters were offered in evidence pertaining to the claim in question. A letter, under date of February 18, 1954, is directed to Dr. Otto L. Bettag, Director of the Department of Public Welfare, Springfield, Illinois. This letter was written by Louis Belinson, Superintendent of the Jacksonville State Hospital, wherein the allegations of the complaint are answered. We quote from paragraph 5:
+“Cecil Swigart, an inmate of this hospital, escaped from a work detail on the institution farm known as the Red Farm. A coat belonging to this patient was found in the motor vehicle of the claimant at the time the motor vehicle was recovered.”
+We also quote from paragraph 10 of that letter:
+“It is the opinion of the institution that the claimant is entitled to the damages contained in his complaint.”
+Claimant testified that he resided on a farm on Route No. 2 near Jacksonville, Illinois, and that on the 14th day of May, 1953, he was the owner of the truck in question. He had left his truck in the field on his farm on that day while he went to his house about three-fourths of a mile away to obtain a spray outfit. He stated this all occurred about 12:00 M. After filling his tractor with gas, he returned to the field where his truck had been left, and found it was missing. He testified that upon leaving his truck in the field he had removed the keys from- the ignition. He borrowed a neighbor’s automobile, but did not find his truck until about 5:30 that evening south of Greenfield on the highway, and he had then notified the State Highway Police. When he found the truck, the motor was damaged materially by reason of its misuse by the escapee, Cecil Swizart.
+The claimant identified the repair bill, which was in the amount of $758.12, and which was admitted in evidence by the Commissioner.
+Claimant further testified to finding the jacket belonging to Cecil Swizart in the cab of his truck, and the returning of it to the State Hospital from which Swizart had escaped. He testified that the claim for damages was presented to the Department of Public Welfare, and that he had not since that time made an assignment or transfer of the claim, or any part thereof, to any individual. However, it does appear from the exhibits and testimony that his claim was assigned by reason of the signing of a subrogation agreement with his insurance carrier, Union Automobile Indemnity Association of Bloomington, Illinois, and that by reason of said contract it is subrogated to his rights in any recovery on this claim.
+There appears to be no question from the record, and it was so found by the Commissioner, who heard the testimony, but that this is a case, which falls within the statute upon which this claim is predicated.
+This Court has held the statute in question does not set forth the test to be applied in cases of this kind. Formerly, this Court found that there was nothing in the statute, which directed this Court to apply the test of absolute liability.
+The position taken by respondent is that an award may be made for damag’es caused by escaped inmates when the record shows that claimant has established that his claim meets all of the statutory requirements. (J. W. Curran, Et Al vs. State, 21 C.C.R. 278.)
+The respondent further takes the position that, under the statute, which was cited in Point I of its brief, any damage, which results from property being stolen by an escaped inmate of a charitable, penal, reformatory or other institution controlled by the state, may be recovered in the Court of Claims.
+In the case of Dixon Fruit Company, Et Al vs. State, No. 4662, opinion filed March 16, 1956, we took the position that the statute was not one of absolute liability as far as respondent is concerned, and the mere fact that the Department of Public Welfare recommended the payment of the claim was not binding upon this Court.
+The record is silent as to the patient, whether he had on previous occasions tried to.escape, and whether he was a patient, who should have been permitted to work in the fields, without careful supervision. In fact, we have nothing to govern ourselves as to whether or not the state was negligent in allowing this patient the freedom, which he aparently had; so that the truck in question was stolen, and consequently damaged.
+In the absence of such a showing, we think claimant was correct in his advancement of the doctrine of res ipsa loquitur, and that the burden would be upon respondent to make some showing as to this patient, i.e., whether or not he was one, who could be trusted in the manner in which he was in this particular case to work out in the field, or whether he should have been confined to the institution under close supervision. There being nothing in the record pertaining to this patient, other than the fact that the truck was stolen by him and damaged, we have no alternative but to find in favor of claimant.
+We find that the claim was filed with the Department of Public Welfare for damages to claimant’s truck by reason of being stolen by Cecil Swizart; that the Department recommended the payment of the claim, and that, as the record now stands, an award should be ' made. It further appears from the record that the claim was assigned by claimant to the Union Automobile Indemnity Association of Bloomington, Illinois, and, by reason of the assignment, it should have been claimant instead of Charles Finch. However, to avoid the necessity of sending this case back to have the proper party claimant substituted, it is the opinion of this Court that the claim should be allowed for the amount of damages shown by claimant’s exhibit No. 1 in the amount of $758.12, and that the Union Automobile Indemnity Association of Bloomington, Illinois, be paid the amount of the award instead of claimant, Charles Finch.
