@@ -1,7 +1,7 @@
 ---
 court: "Illinois Court of Claims"
 decided: "1922-11-28"
-citations: ["4 Ill. Ct. Cl. 251", "4 Ill. Ct. Cl. 267"]
+citations: ["4 Ill. Ct. Cl. 251"]
 reporter: "ill-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
