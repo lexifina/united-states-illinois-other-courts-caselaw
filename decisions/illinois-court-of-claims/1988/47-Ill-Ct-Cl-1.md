@@ -1,0 +1,34 @@
+---
+court: "Illinois Court of Claims"
+docket: "77-CC-2021"
+decided: "1988-08-30"
+citations: ["47 Ill. Ct. Cl. 1"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shirley Mae McClellan, Administrator of the Estate of Charles Edward McClellan, Deceased, Claimant, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/47/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3141227
+cites_cases: ["174 Pac. 139"]
+---
+
+# McClellan v. State
+
+## Majority (Burke, J. Frederick, J.)
+
+OPINION
+Burke, J.
+This cause coming to be heard upon the report of the Commissioner, after hearing before said Commissioner, and this Court being fully advised in the premises, finds that the Claimant is the widow and administrator of the decedents estate. The decedent was killed on September 10, 1977, as a result of a tractor accident at the Menard Correctional Center. Claimant brings this action for wrongful death pursuant to section 22 — 1 of the Court of Claims Act. 705 ILCS 505/22 — 1.
+Claimant alleges that at the time of decedents death he was exercising due care and caution for the safety of his person. Claimant further alleges that the tractor furnished to decedent was dangerously defective because the brakes were inoperable and it was not equipped with a roll bar and that the Respondent knew or should have known of the tractors defective condition.
+Claimant and the decedent were married December 27, 1976, and no children were bom of the marriage. The decedent had five adult children by a previous marriage. Claimant testified that prior to the decedent’s incarceration at Menard Correctional Center on January 10, 1977, the decedent did farm work, construction work and was a minister. Decedent graduated high school and completed two years of college. Decedent earned approximately six thousand dollars ($6,000) in the year preceding his death. Claimant further testified that decedent provided his children with advice, communication, and financial support. Decedent was a good husband who took care of his home and did repairs. Claimant stated decedent was careful in his habits and had been observed operating tractors in a careful manner in the performance of agricultural pursuits.
+Claimant called Chesley W. Stevens as a witness to testify as to the condition of the tractor operated by the decedent at the time of his death. Mr. Stevens operated a welding and fabrication shop in the city of Cairo, Illinois. He had installed roll-over protective devices on tractors, jeeps, and pick-up trucks. Mr. Stevens was familiar with the type of tractor operated by the decedent at the time of his death. The tractor did not have a roll bar. A roll bar protective system could have been affixed or attached to the tractor, and such a system would have cost approximately $300 in labor and materials in 1977. A seat belt could have also been installed on the tractor according to the witness. The witness had attached seat belts and three roll bars on tractors manufactured prior to 1976.
+The parties stipulated to the admission of certain documents and things in evidence including the departmental report identified as Respondents exhibit “I.” The scene of the accident could have been viewed from the Menard Psychiatric Unit. Resident David Carlson of that unit claimed to have seen the accident which resulted in McClellans death. Carlson did not testify at the hearing in this case. The investigation report reveals that Carlson claimed that a red pick-up truck with a spotlight on top of the cab forced McClellans tractor from the road into a deep ditch where it overturned. The internal investigation conducted by the Department of Corrections authorities revealed that the pick-up truck described by Carlson was not used on the day of McClellans death. Indeed, there was no institutional vehicle being driven on the farm when McClellans death occurred.
+The Claimant argued in the alternative that liability on the part of the Respondent is established on two additional grounds. The first is that the State did not furnish the decedent a safe place to work and safe equipment. Secondly, the decedent was forced off the farm road by a vehicle owned and operated by the Respondent.
+As to the Respondents second point, prima facie evidence of the statement of Carlson is included in the departmental report which was admitted as set forth above. The result of the internal investigation with respect to the statement of Carlson was offered and received by this Court in accordance with that stipulation. Accordingly, there is no preponderance of evidence to establish the validity of the statement by resident Carlson that decedents tractor was run off the road by an institutional pick-up truck. Claimant has failed to meet her burden of proof that decedents death was caused by the operation of an institutional pick-up truck.
+As to the alternative claim that the death was due to the failure of the Respondent to provide a safety belt and roll bar on the farm tractor, we do not agree. The departmental report previously referred to revealed that the tractor being operated by the decedent at the time of his death was in good condition mechanically and had good brakes. The road upon which the tractor was being operated was in good condition and not in need of repairs. Claimant offered no evidence concerning the condition of the tractor being operated by the decedent except to point out that it was not equipped with a roll bar or seat belt. Claimant places great reliance on the case of Camenzind v. Freeland Furniture Company (1918), 89 Oregon 158, 174 Pac. 139. We find that this case is not helpful in deciding the issues in this case. Claimant in this case simply produced no evidence that the tractor in question was defective, unusually dangerous, or violated any applicable State or Federal regulations. No evidence was presented which would indicate that the tractor being operated by the decedent at the time of his death presented any peculiar or unusual risk to the operator.
+The Respondent is not an insurer of the safety of persons imprisoned by the Department of Corrections. There is nothing in the record to indicate that the tractor was defective or that the condition of the tractors being used generally in the agricultural industry would have given rise to an extraordinary duty on the part of the Respondent to provide protective security devices referred to by the Claimant.
+Accordingly, we find in favor of the Respondent and against the Claimant on the issue of liability in this case.
+ORDER
+Frederick, J.
+This cause comes on the Claimant’s petition for rehearing, and the Court having reviewed the court file and opinion, and the Court being fully advised in the premises, therefore, it is ordered that the petition for rehearing is denied.
