@@ -1,0 +1,33 @@
+---
+court: "Illinois Court of Claims"
+docket: "85-CC-0626"
+decided: "1994-09-30"
+citations: ["47 Ill. Ct. Cl. 108"]
+reporter: "ill-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Blair and Cynthia Blair, Claimants, v. The State of Illinois, Respondent."]
+source_url: "https://static.case.law/ill-ct-cl/47/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3139016
+cites_cases: ["30 Ill. Ct. Cl. 162", "35 Ill. Ct. Cl. 643"]
+---
+
+# Blair v. State
+
+## Majority (Patchett, J.)
+
+OPINION
+Patchett, J.
+This is a claim which arose from a motorcycle accident which occurred on October 18, 1983, at the intersection of Route 43 and Route 41 in Park City, Illinois. The Claimant, Michael Blair, was driving a 1976 Honda 750 cc motorcycle north on Route 43 near the point of merger with Route 41. Randy Vogel had been driving behind Blair for over a mile in his 1979 Camaro. He testified that Blair was not speeding, weaving, or driving erratically. When both drivers started to merge onto Route 41, Vogel looked over his right shoulder to check for traffic. He looked forward again and did not see the motorcycle. He realized that it must be down. He then saw Blair on the road.
+An ambulance subsequently took Blair to St. Therese Hospital where he underwent extensive medical treatment, including a frontoparietal craniotomy. Blair’s injuries included bruises, contusions, abrasions, epidural hematoma, subdural hematoma, gastrointestinal bleeding, and a fractured skull. Blair was discharged from the hospital on November 8, 1983, and continued to treat with Dr. Gamez. On February 14, 1984, he underwent cranioplasty surgery to install an acrylic plate in his skull. His medical bells totaled $30,031.35. He incurred at least $6,960 in lost wages. His wife and children had to miss work and school on various occasions in order to help him. The motorcycle which Blair was riding was a total loss. The motorcycle had a value of approximately $800.
+It was stipulated that the place of the accident was owned and controlled by the State of Illinois and under its maintenance jurisdiction. There were numerous potholes and seams in the road at the point of the accident. One of the potholes was approximately three feet by two feet in size and between eight and fifteen inches deep. The pothole existed for at least two months prior to the date of the accident, and possibly as long as two years. This was established by the eyewitnesses’ testimony. There were no signs posted warning of its existence.
+There is no dispute that the State has a duty to maintain its streets and highways in reasonably safe condition for the purposes for which they are intended. (Robertson v. State (1983), 35 Ill. Ct. Cl. 643. Further, the State has a duty to persons using its streets and roads to exercise reasonable care. Baren v. State (1974), 30 Ill. Ct. Cl. 162.
+Vogel, the occurrence witness, testified that he was familiar with the roadway and location of the accident because he drove through that area fives times a week for almost two years. He testified that on the date of the accident, the roadway where the accident occurred was in poor condition. He further testified that the pothole which he believes Blair struck was at least three feet in size.
+Michael Luff, the lieutenant of police for City Park, Illinois, at the time of the occurrence, also testified. He testified that he was familiar with the condition of the road at the accident location and the pothole in question. He testified that the condition of the pothole on October 18, 1983, had existed unchanged for at least two months prior thereto. He further stated that the pothole was eight to fifteen inches deep and approximately three feet in size. He indicated that it was located about 110 feet from the place where the pavements of Route 43 and Route 41 merge.
+We find the evidence more than sufficient to establish constructive notice of a defective condition on the part of the State.
+The Claimants called an expert witness, Robert Lippman. He testified that based upon review of the photographs, police reports, and depositions, the pothole was of sufficient size and depth to cause a motorcycle to lose control. He testified that its location in the middle of the lane made it very hazardous to motorcycles as opposed to automobiles.
+Blair, who was seriously injured in the accident, could not remember anything about the accident. Vogel did not actually see the accident because he was looking for traffic on Route 41. The expert testified that the final resting point of the body and the motorcycle were entirely consistent of a motorcycle striking a pothole. His opinions are based upon and unequivocally consistent with the depositions, police reports, and photographs of the scene. He stated that based upon a reasonable degree of engineering and accident reconstruction certainty, the pothole was the proximate cause of Blairs accident. The Respondent produced no expert testimony to contradict Lippman s testimony. We therefore find that the pothole in question was the proximate cause of Blairs accident.
+Blairs wife, Cynthia Blair, has a claim for loss of her husbands consortium, companionship, and society. She and her husband testified that she had to feed him, help him walk, bathe him, clean his open and exposed head wound, care for the children, and continue to work to support their family as a result of the accident. We award Cynthia Blair the sum of twenty thousand dollars ($20,000) for loss of consortium.
+As previously stated, Michael Blair incurred medical expenses in the amount of $30,031.35 and lost wages of $6,960. We will award the Claimant, Michael Blair, the sum of one hundred thousand dollars ($100,000). However, there was testimony before the court that part of the medical bills had been paid for by the State of Illinois. Therefore, the State is entitled to a set-off as to the amount of the medical bills. The Illinois Department of Public Aid paid for all medical expenses except for $1,700. Therefore, we deduct the amount of $1,700 from $30,031.35, which leaves a balance of $28,331.35. When this amount is deducted from the award of $100,000, it leaves a balance of $71,668.65.
+We therefore award Michael Blair the sum of seventy-one thousand six hundred sixty-eight dollars and sixty-five cents ($71,668.65). We make a specific finding that by deducting the sum of $28,331.35 from the $100,000, we have satisfied the States lien. The State should have no further liens against the proceeds of the award.
