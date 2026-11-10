@@ -1,0 +1,5 @@
+path	relation	target	note
+decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-96.md	same-decision-as	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md	the same decision in another reporter (2 Ill. Ct. Cl. 96 and 2 Ill. Ct. Cl. 91), same day and text (similarity 0.85); both kept
+decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-98.md	same-decision-as	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md	the same decision in another reporter (2 Ill. Ct. Cl. 98 and 2 Ill. Ct. Cl. 91), same day and text (similarity 0.86); both kept
+decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-600.md	same-decision-as	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-657.md	the same decision in another reporter (50 Ill. Ct. Cl. 600 and 48 Ill. Ct. Cl. 657), same day and text (similarity 0.57, text contained 0.95); both kept
+decisions/illinois-court-of-claims/1999/53-Ill-Ct-Cl-160.md	same-decision-as	decisions/illinois-court-of-claims/1999/51-Ill-Ct-Cl-297.md	the same decision in another reporter (53 Ill. Ct. Cl. 160 and 51 Ill. Ct. Cl. 297), same day and text (similarity 0.98); both kept

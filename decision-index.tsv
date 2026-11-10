@@ -2403,8 +2403,8 @@ reference	path
 2 Ill. Ct. Cl. 9	decisions/illinois-court-of-claims/1906/2-Ill-Ct-Cl-9.md
 2 Ill. Ct. Cl. 91	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md
 2 Ill. Ct. Cl. 93	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-93.md
-2 Ill. Ct. Cl. 96	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-96.md
-2 Ill. Ct. Cl. 98	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-98.md
+2 Ill. Ct. Cl. 96	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md
+2 Ill. Ct. Cl. 98	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md
 20	decisions/illinois-court-of-claims/1924/5-Ill-Ct-Cl-40.md
 20 Ill. Ct. Cl. 1	decisions/illinois-court-of-claims/1949/20-Ill-Ct-Cl-1.md
 20 Ill. Ct. Cl. 101	decisions/illinois-court-of-claims/1950/20-Ill-Ct-Cl-101.md
@@ -11722,7 +11722,7 @@ reference	path
 50 Ill. Ct. Cl. 413	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-413.md
 50 Ill. Ct. Cl. 5	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-5.md
 50 Ill. Ct. Cl. 50	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-50.md
-50 Ill. Ct. Cl. 600	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-600.md
+50 Ill. Ct. Cl. 600	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-657.md
 50 Ill. Ct. Cl. 603	decisions/illinois-court-of-claims/1998/50-Ill-Ct-Cl-603.md
 50 Ill. Ct. Cl. 607	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-607.md
 50 Ill. Ct. Cl. 612	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-612.md
@@ -12082,7 +12082,7 @@ reference	path
 53 Ill. Ct. Cl. 139	decisions/illinois-court-of-claims/1999/53-Ill-Ct-Cl-139.md
 53 Ill. Ct. Cl. 148	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-148.md
 53 Ill. Ct. Cl. 153	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-153.md
-53 Ill. Ct. Cl. 160	decisions/illinois-court-of-claims/1999/53-Ill-Ct-Cl-160.md
+53 Ill. Ct. Cl. 160	decisions/illinois-court-of-claims/1999/51-Ill-Ct-Cl-297.md
 53 Ill. Ct. Cl. 168	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-168.md
 53 Ill. Ct. Cl. 171	decisions/illinois-court-of-claims/1998/53-Ill-Ct-Cl-171.md
 53 Ill. Ct. Cl. 181	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-181.md
@@ -19019,7 +19019,6 @@ reference	path
 94-CV-2294	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-650.md
 94-CV-2822	decisions/illinois-court-of-claims/1995/48-Ill-Ct-Cl-653.md
 94-CV-3047	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-657.md
-94-CV-3047	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-600.md
 94-CV-3414	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-659.md
 943	decisions/illinois-court-of-claims/1931/7-Ill-Ct-Cl-18.md
 944	decisions/illinois-court-of-claims/1927/6-Ill-Ct-Cl-32.md
@@ -19036,7 +19035,6 @@ reference	path
 95-CC-0594	decisions/illinois-court-of-claims/2000/52-Ill-Ct-Cl-275.md
 95-CC-0610	decisions/illinois-court-of-claims/1995/47-Ill-Ct-Cl-440.md
 95-CC-0614	decisions/illinois-court-of-claims/1999/51-Ill-Ct-Cl-297.md
-95-CC-0614	decisions/illinois-court-of-claims/1999/53-Ill-Ct-Cl-160.md
 95-CC-1206	decisions/illinois-court-of-claims/1995/48-Ill-Ct-Cl-449.md
 95-CC-1326	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-168.md
 95-CC-1596	decisions/illinois-court-of-claims/1998/51-Ill-Ct-Cl-305.md
@@ -19232,8 +19230,6 @@ No. 77-CC-2093	decisions/illinois-court-of-claims/1982/35-Ill-Ct-Cl-124.md
 No. 79-CV-0051	decisions/illinois-court-of-claims/1981/35-Ill-Ct-Cl-522.md
 Nos. 82-CC-0052, 82-CC-0069 cons.	decisions/illinois-court-of-claims/1982/35-Ill-Ct-Cl-379.md
 P. G. D. No. 76,382	decisions/illinois-circuit-court/1906/1-Ill-Cir-Ct-Rep-207.md
-This claim for property damages and personal injuries is brought against Southern Illinois University, Edwardsville, as a result of a collision between the Claimant’s vehicle and one of the university’s cargo vans.	decisions/illinois-court-of-claims/1994/47-Ill-Ct-Cl-336.md
-This is a claim for the return of an automobile or its reasonable value which was allegedly seized illegally from Claimant on December 12, 1978. A hearing was held before a commissioner of the Court on October 21, 1981, wherein the evidence was taken. On March 23,	decisions/illinois-court-of-claims/1982/35-Ill-Ct-Cl-805.md
 cap-1163636	decisions/illinois-court-of-claims/1993/52-Ill-Ct-Cl-187.md
 cap-1163637	decisions/illinois-court-of-claims/1999/52-Ill-Ct-Cl-232.md
 cap-1163638	decisions/illinois-court-of-claims/2000/52-Ill-Ct-Cl-644.md
@@ -24728,11 +24724,11 @@ cap-2833152	decisions/illinois-court-of-claims/1914/2-Ill-Ct-Cl-290.md
 cap-2833167	decisions/illinois-court-of-claims/1902/1-Ill-Ct-Cl-228.md
 cap-2833200	decisions/illinois-court-of-claims/1914/2-Ill-Ct-Cl-254.md
 cap-2833211	decisions/illinois-court-of-claims/1905/1-Ill-Ct-Cl-365.md
-cap-2833248	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-98.md
+cap-2833248	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md
 cap-2833261	decisions/illinois-court-of-claims/1889/1-Ill-Ct-Cl-15.md
 cap-2833291	decisions/illinois-court-of-claims/1906/2-Ill-Ct-Cl-29.md
 cap-2833304	decisions/illinois-court-of-claims/1889/1-Ill-Ct-Cl-22.md
-cap-2833331	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-96.md
+cap-2833331	decisions/illinois-court-of-claims/1909/2-Ill-Ct-Cl-91.md
 cap-2833341	decisions/illinois-court-of-claims/1897/1-Ill-Ct-Cl-146.md
 cap-2833377	decisions/illinois-court-of-claims/1914/2-Ill-Ct-Cl-277.md
 cap-2833379	decisions/illinois-court-of-claims/1903/1-Ill-Ct-Cl-291.md
@@ -29233,7 +29229,7 @@ cap-753785	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-294.md
 cap-753787	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-224.md
 cap-753789	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-104.md
 cap-753791	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-153.md
-cap-753793	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-600.md
+cap-753793	decisions/illinois-court-of-claims/1996/48-Ill-Ct-Cl-657.md
 cap-753795	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-23.md
 cap-753798	decisions/illinois-court-of-claims/1997/50-Ill-Ct-Cl-304.md
 cap-753801	decisions/illinois-court-of-claims/1996/50-Ill-Ct-Cl-350.md
@@ -29265,7 +29261,7 @@ cap-92838	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-148.md
 cap-92846	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-199.md
 cap-92860	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-128.md
 cap-92870	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-451.md
-cap-92888	decisions/illinois-court-of-claims/1999/53-Ill-Ct-Cl-160.md
+cap-92888	decisions/illinois-court-of-claims/1999/51-Ill-Ct-Cl-297.md
 cap-92902	decisions/illinois-court-of-claims/2001/53-Ill-Ct-Cl-153.md
 cap-92914	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-125.md
 cap-92935	decisions/illinois-court-of-claims/2000/53-Ill-Ct-Cl-58.md
